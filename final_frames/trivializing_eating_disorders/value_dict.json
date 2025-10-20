@@ -1,0 +1,46 @@
+{
+  "f1643": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds existing stereotypes and social norms about who can have eating disorders, resisting new understanding and preserving the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The frame focuses on health classification by denying fat women the possibility of having eating disorders, thus invoking the value of personal health security."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have good health",
+          "rationale": "By asserting that fat women cannot have eating disorders, the frame implies that they must be in good health, thereby appealing to the value of maintaining physical and mental well-being."
+        }
+      ]
+    }
+  },
+  "f4329": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame belittles a serious health condition to assert social dominance and elevate the speaker’s relative status at the expense of a vulnerable group."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By using anorexia as a derogatory term and dismissing its seriousness, the frame exerts control and superiority over those affected by the condition."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Labeling anorexia as unimportant and using it insultingly shapes social perceptions and reflects an attempt to influence and control discourse about women’s health."
+        }
+      ]
+    }
+  }
+}

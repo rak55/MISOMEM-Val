@@ -1,0 +1,460 @@
+{
+  "f5076": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts dominance by dismissing women's experiences, reflecting a desire to maintain control over whose voices are validated."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends the existing patriarchal social order by upholding traditional gender hierarchies and resisting challenges to male authority."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Dismissing women’s accounts reinforces the idea that certain groups (e.g., male experts or authorities) have the right to override and silence others."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to long-standing cultural norms that devalue women’s testimony in childbirth, maintaining historical gender roles and expectations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The argument implies that those in authority (implicitly men or medical 'experts') deserve to dismiss women’s childbirth narratives without question."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By insisting women’s experiences are exaggerated, the frame upholds traditional beliefs about women’s roles and discourages deviation from established gender norms."
+        }
+      ]
+    }
+  },
+  "f3868": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces adherence to traditional social norms regarding modesty and dress, penalizing deviation."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame relies on traditional customs of modest dress and moral standards for women."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It prescribes informal rules of proper behavior in dress and punishes non-compliance."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame emphasizes the importance of maintaining a good public image and suggests cleavage undermines respect."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Condemning cleavage as a violation of customary modesty norms."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Implying women should dress modestly according to societal conventions."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Suggesting that showing cleavage harms public image, thus disqualifying one from respect."
+        }
+      ]
+    }
+  },
+  "f2306": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to maintain traditional gender roles and preserve the existing social order by enforcing women's silence."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame elevates one group's authority over another, reinforcing a hierarchical power dynamic where men dominate women."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By demanding women's silence, the frame appeals to long-standing cultural customs that women should be subservient and not speak out."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame issues a direct rule that women must comply with, enforcing obedience to patriarchal norms and discouraging deviation."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame grants one group the authority to command another, highlighting a desire for control and dominance over women."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame invokes the need to honor and follow traditional patriarchal practices that dictate women's silence."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "By insisting that women 'should be silent,' the frame emphasizes obedience to established rules and norms."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that certain individuals (men) legitimately possess the authority to silence others (women)."
+        }
+      ]
+    }
+  },
+  "f1235": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame devalues housewives to reinforce the speaker’s elevated social status and power over them, underscoring the pursuit of personal dominance at the expense of another group."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By declaring housewives insignificant and valueless, the frame emphasizes a hierarchical social order and the speaker’s control and authority over the target group."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The statement implies that those in power (implicitly men or the speaker) are entitled to treat housewives as subordinates without value, confirming their authority to command and direct them."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Denying housewives any value increases the speaker’s relative influence, as it marginalizes and silences the target group’s ability to affect decisions or social norms."
+        }
+      ]
+    }
+  },
+  "f2120": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces the status quo by presenting an unchanging, traditional stereotype about women’s innate hostility toward each other, thereby upholding existing social norms and discouraging change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message draws on long-standing cultural beliefs about women as inherently competitive, preserving outdated norms and discouraging challenges to these patriarchal assumptions."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By portraying women as irreconcilably adversarial, the frame implies that society remains ‘safe’ and stable so long as women do not unite or challenge the existing social order."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The stereotype appeals to maintaining traditional views of gender relations, suggesting that women have always been and should remain rivals rather than allies."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The claim implies social stability hinges on women’s inability to cooperate, thus reinforcing the idea that the existing power structure must remain unchallenged."
+        }
+      ]
+    }
+  },
+  "f3680": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces maintaining traditional gender roles and preserving existing social norms by mocking women who deviate from expected behavior, reflecting the value of Conservation."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame emphasizes adherence to traditional domestic roles for women, suggesting that women should follow longstanding family customs of housework without complaint."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame admonishes women who complain about chores for violating informal social conventions about proper behavior and advocates punishment through mockery for non-conformity."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame implicitly demands respect for traditional gender roles and family practices by mocking those who challenge them."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame promotes avoiding violation of social conventions by sanctioning women who speak out against expected domestic duties through mockery."
+        }
+      ]
+    }
+  },
+  "f5308": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces traditional social norms by asserting that women’s place and duties are in the domestic sphere, reflecting a desire to maintain the existing social order and gender roles."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By emphasizing women’s domestic tasks as their primary concern, the frame appeals to the importance of preserving established cultural and familial roles and customs."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message implies women should adhere to longstanding gender-based domestic responsibilities and not challenge or respond to demeaning jokes, thereby honoring traditional expectations."
+        }
+      ]
+    }
+  },
+  "f2265": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional taboos about menstruation as impure and maintaining the status quo regarding female biology."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame encourages asserting dominance over women and gaining prestige by ridiculing them."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame promotes adherence to longstanding cultural beliefs that menstruation is unclean and shameful."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame advocates humiliating women to assert control and reinforce male superiority."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame suggests that ridiculing menstruation can enhance the mocker’s social standing by demeaning others."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By labeling menstruation as disgusting, the frame reinforces traditional taboos and norms regarding female biology."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Encouraging ridicule of a natural female process enforces male authority and a clearer hierarchy of control."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "Suggesting that mocking menstruation is socially approved implies that those who ridicule women gain status among peers."
+        }
+      ]
+    }
+  },
+  "f1891": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame promotes the acceptance of taboo-breaking, novel behaviors focused on personal enjoyment and gratification rather than adherence to traditional moral or social norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "The statement normalizes a daring and exciting act—sexualizing someone’s mother—thus encouraging risk-taking and novelty-seeking for thrill."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "By declaring it acceptable to make inappropriate sexual comments, the frame emphasizes the pursuit of sensual pleasure and gratification."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be daring",
+          "rationale": "Encouraging taboo-breaking actions that flout conventional moral boundaries appeals to risk-taking and excitement."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "Emphasizing that sexual comments and objectification are acceptable underscores a focus on obtaining sensual enjoyment."
+        }
+      ]
+    }
+  },
+  "f1965": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to uphold traditional gender roles and social stability by denying women’s bodily autonomy and preserving the status quo."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By discrediting women’s autonomy claims as manipulative financial demands, the frame reinforces male control and dominance over women’s bodies and resources."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame devalues women’s autonomy in favor of preserving patriarchal customs that cast women as financially dependent on men."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By portraying bodily autonomy demands as economic threats, the frame implies such demands undermine social order and must be restrained to maintain stability."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame supports male authority over women by depicting female autonomy as insincere and manipulative, reinforcing men’s right to command."
+        },
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "Emphasizing the financial aspect of women’s autonomy claims highlights the importance of protecting men’s wealth and resource control."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame appeals to maintaining established patriarchal norms by dismissing modern claims of bodily autonomy as inappropriate."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame suggests that allowing women true autonomy would threaten societal stability and must be prevented."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By characterizing women’s autonomy as manipulative demands, the frame justifies men’s authority and control over decisions."
+        },
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The frame frames autonomy claims as financial demands, underscoring the priority of preserving and controlling economic resources."
+        }
+      ]
+    }
+  },
+  "f4373": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame implicitly upholds the importance of unbiased and rational judgment, suggesting that judgments should be based on objective criteria rather than superficial appearances, aligning with a broader concern for truth and fairness beyond personal or group interests."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "By criticizing the practice of judging character solely by appearance, the frame evokes the value of seeking truth through neutral perspective and rational analysis, emphasizing the importance of evaluating individuals on substantive evidence."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "The frame implies that assessing a person’s character should rely on objective information and unbiased evaluation rather than on mere visual impressions."
+        },
+        {
+          "level_3_value": "Be logical",
+          "rationale": "By mocking superficial judgments, the frame suggests that logical reasoning and critical thinking are superior to decisions based on looks alone."
+        }
+      ]
+    }
+  },
+  "f4602": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining established gender norms and preserving traditional social expectations, aligning with the value of Conservation."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The message enforces adherence to stereotypical group norms, highlighting the importance of following prescribed rules and behaviors."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame seeks to maintain societal stability by ensuring individuals conform to recognized categories, preventing disruption of the social order."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "It underscores concerns with social reputation and visibility, showing that those who conform gain recognition while others remain invisible."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Demands that girls follow expected behaviors to be acknowledged within society."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Emphasizes that compliance with stereotypical norms is required for inclusion and visibility."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "Highlights that conformists receive positive acknowledgment, while non-conformists are rendered invisible."
+        }
+      ]
+    }
+  },
+  "f5380": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional gender norms and discourages deviation from established roles, preserving existing societal expectations about how women and men should behave."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame valorizes men’s stoic suffering as a mark of personal worth and elevates masculine endurance, framing it as superior to women’s emotional responses."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By insisting that women must be emotional and men must be stoic, the frame appeals to long-standing gender customs and encourages adherence to inherited social roles."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame implicitly demands emotional self-discipline, praising restraint and discouraging displays of feeling that violate unwritten rules of proper behavior."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By labeling women’s reactions as invalid or inappropriate, the frame enforces emotional restraint to avoid upsetting or offending others in social settings."
+        },
+        {
+          "level_2_value": "Achievement",
+          "rationale": "Men’s stoic endurance of heartbreak is cast as an achievement, framing emotional suppression as a form of personal success or proving one’s strength."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame appeals to maintaining traditional gender divisions—emotional for women, stoic for men—by portraying deviation as improper."
+        },
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "Emotional restraint is promoted as a virtue, encouraging individuals—especially men—to control feelings rather than display them."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Women's emotional displays are deemed upsetting and inappropriate, enforcing social norms that prioritize others’ comfort over expressing personal feelings."
+        },
+        {
+          "level_3_value": "Be courageous",
+          "rationale": "Stoic endurance of suffering is celebrated as courage, framing emotional suppression after a breakup as a notable personal strength."
+        }
+      ]
+    }
+  }
+}

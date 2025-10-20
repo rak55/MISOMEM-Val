@@ -1,0 +1,506 @@
+{
+  "f7876": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame appeals to concern for equal treatment and fairness across social groups, reflecting a broader regard for the welfare of others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The statement emphasizes equal status and fair treatment of men compared to historically marginalized groups, highlighting a desire for equality and justice."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have equality",
+          "rationale": "By asserting that men are as oppressed as marginalized groups, the frame calls for equal recognition of men's experiences and opportunities."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "The comparison to historically marginalized groups invokes a sense of fairness and impartiality, demanding that men’s grievances be treated with the same seriousness."
+        }
+      ]
+    }
+  },
+  "f6878": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame aims to protect men’s dominance and status by discrediting women’s claims, thus preserving men's control over social narratives."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame resists changing attitudes toward sexual violence and seeks to uphold traditional social norms and structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By labeling women’s rape claims as false, the frame maintains men’s influence and authority over social discourse."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame defends men’s public image and social standing by discouraging belief in accusations that could harm reputations."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It suggests that accepting women’s claims would threaten societal stability, promoting skepticism to avoid social disorder."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes traditional gender roles and norms, discouraging challenges to the established view of male–female relations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Discrediting women’s testimony secures men’s ability to control outcomes and maintain social power."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "By rejecting accusations, the frame protects men’s respect and approval within their community."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Arguing that rape claims are often false frames belief in women’s allegations as a source of chaos, thus preserving the status quo."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame reinforces adherence to conventional gender expectations and discourages departure from established norms."
+        }
+      ]
+    }
+  },
+  "f6851": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame condemns perceived hypocrisy in moral behavior, reflecting concern for the welfare and fair treatment of all individuals."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "This frame appeals to universal moral standards and equal concern, criticizing a group (women) for not adhering to the same rules as others."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be just",
+          "rationale": "Highlights the demand for impartial fairness and equal moral expectations across genders."
+        },
+        {
+          "level_3_value": "Have equality",
+          "rationale": "Emphasizes the call for uniform moral accountability and equal standards for everyone."
+        }
+      ]
+    }
+  },
+  "f2598": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame highlights threats to men's financial stability during crises, emphasizing the importance of security and stability in the immediate environment."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By focusing on men's financial suffering and loss of resources, the frame underscores the value placed on possessing material wealth and resources."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The frame draws attention to men's financial security and the need to maintain a comfortable, secure life."
+        },
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "Emphasizing men's financial suffering during crises highlights the importance of material possessions and financial resources as a source of influence and control."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a comfortable life",
+          "rationale": "The statement underscores the importance of preserving subsistence income and avoiding financial worries for men."
+        },
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The frame emphasizes the loss of material resources and wealth for men during crises, highlighting the value of financial prosperity."
+        }
+      ]
+    }
+  },
+  "f6071": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame appeals to the ideal of equal rights for all, reflecting a concern for the welfare and fair treatment of everyone beyond personal or in-group interests."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "By invoking ‘equal rights,’ the frame centers on fostering equality and justice among people, which aligns with universalism’s focus on concern for others and societal fairness."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have equality",
+          "rationale": "The explicit reference to ‘equal rights’ directly evokes the value of promoting equal opportunities and fairness across social groups."
+        }
+      ]
+    }
+  },
+  "f5058": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame condemns deception and highlights the moral wrong of women misleading men, appealing to the value of honesty and caring for others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining a genuine and respectable image, criticizing deceptive practices that undermine trust and social order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "The frame highlights the importance of honesty by portraying makeup as deceptive, suggesting that caring individuals should be truthful and not mislead others."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame implies that one’s outward appearance should accurately reflect one’s true self, emphasizing the preservation of a good reputation and social integrity."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be honest",
+          "rationale": "The frame explicitly condemns deception, implying that individuals should be truthful and not use makeup to mislead others."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "By denouncing deceptive appearance practices, the frame stresses the importance of maintaining an authentic and trustworthy public image."
+        }
+      ]
+    }
+  },
+  "f4553": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame explicitly condones the use of violence by boys to assert control over girls, highlighting a value placed on personal dominance and success in interpersonal power dynamics."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The message endorses boys’ physical control over girls and positions violence as an acceptable means to enforce authority, reflecting a desire for dominance over others."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By justifying hitting girls when boys feel harassed, the frame implies boys are entitled to exert coercion and issue commands through force."
+        }
+      ]
+    }
+  },
+  "f407": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame appeals to a sense of fairness and justice that transcends individual or group interests by arguing against blanket blame.\"Men are not meant to be blamed for everything\" calls for equitable treatment of men, a universalist concern."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends men’s existing public image and reputation, resisting changes that would hold men collectively responsible; it seeks stability in social perception and protects established social standing."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The frame invokes the moral principle of fairness and impartiality in assigning blame, a core aspect of universalist concern, by arguing for just treatment of men as a group."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame is concerned with protecting men’s public image and social standing by resisting an overarching narrative that men as a group are at fault."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be just",
+          "rationale": "The statement implicitly demands equitable and measured allocation of blame rather than a sweeping, unjust condemnation of all men."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "By stating that men should not be blamed for everything, the frame aims to preserve men’s collective reputation and avoid undue social censure."
+        }
+      ]
+    }
+  },
+  "f642": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining social norms and proper behavior by sanctioning those who violate expected codes of conduct."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It focuses on enforcing politeness and respect in interpersonal interactions, penalizing those who disrupt social harmony."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The frame specifically targets individuals for being impolite, suggesting they deserve harsh labels when they fail to uphold courteous behavior."
+        }
+      ]
+    }
+  },
+  "f2413": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving social norms around modesty and punishing those who deviate, reflecting a desire for stability, order, and respect for tradition."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message upholds traditional expectations of modesty and criticizes behavior that conflicts with long-standing cultural or moral customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It calls for enforcement of informal social conventions by mocking hypocrisy, advocating adherence to consistent standards of behavior."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame leverages concern for public image and reputation, suggesting that violating norms should lead to social shame and reputational harm."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The criticism centers on failing to follow traditional modesty norms when online versus in person."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Labeling the behavior as hypocritical invokes the need to act consistently and according to accepted social rules."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The threat of mockery underscores the importance placed on maintaining one’s public image and avoiding social embarrassment."
+        }
+      ]
+    }
+  },
+  "f2448": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame encourages women to seek and prioritize superficial compliments, emphasizing the pursuit of immediate pleasure and sensuous gratification over more substantive values."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame highlights the importance of gaining admiration and social standing from attractive men, focusing on personal success through recognition."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame appeals to experiencing pleasure from flattering, superficial compliments rather than more substantive praise."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame centers on maintaining and enhancing one’s public image by valuing admiration and recognition from attractive men."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "Superficial compliments are presented as a source of immediate enjoyment and sensuous gratification, urging women to favor these experiences."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "Women are encouraged to seek approval and admiration—enhancing their public image—through compliments from attractive men."
+        }
+      ]
+    }
+  },
+  "f2508": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts and reinforces a power hierarchy by dismissing women’s opinions, reflecting a desire to maintain dominance over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By declaring that women’s opinions should be ignored, the frame emphasizes control over whose voices matter, reinforcing a hierarchy of authority."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The statement implies that only certain (implicitly male) voices deserve recognition and authority, denying women the right to be heard or respected."
+        }
+      ]
+    }
+  },
+  "f5923": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends traditional gender roles and portrays feminist activism as a threat to social order, indicating a desire to preserve existing social structures and norms."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By equating feminists with extremists and incels, the frame seeks to uphold male authority and dominance in social hierarchy."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message implicitly values maintaining traditional gender norms and cultural practices by criticizing modern feminist movements as destabilizing."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame presents both feminists and incels as extremist groups that endanger societal stability, emphasizing the need for a secure, orderly society."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By undermining feminist credibility, the frame bolsters male dominance and control over social narratives and institutions."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The critique of modern feminists rests on the assumption that traditional gender roles and practices should be upheld without challenge."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Labeling both feminists and incels as problematic extremists appeals to the desire for social stability and avoidance of disorder."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The devaluation of feminist activism reinforces the importance of maintaining male influence over societal norms and decision-making."
+        }
+      ]
+    }
+  },
+  "f6538": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving existing social norms by dismissing calls for change from feminists and Muslims, reinforcing the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By labeling feminist and Muslim concerns as mere pandering, the frame upholds traditional cultural norms and rejects contemporary social reforms."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame promotes maintaining a stable social order by discouraging challenges or demands that could disrupt the existing societal structure."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The argument implies that one should adhere to established customs and conventions rather than entertain calls for change from marginalized groups."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "By dismissing minority concerns, the frame suggests preserving societal stability and preventing perceived social upheaval."
+        }
+      ]
+    }
+  },
+  "f6891": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame appeals to a universal moral principle of treating similar actions equally, invoking broader concern for consistent ethical standards."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The frame invokes fairness, suggesting that if one instance of misogyny occurs, another should be excused, implying equal treatment of similar cases."
+        },
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "The frame appeals to rational consistency and impartial evaluation, requiring that similar actions be judged in the same way."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be just",
+          "rationale": "The frame uses the notion of justice, arguing that all instances of misogyny should be treated uniformly under a principle of fairness."
+        },
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "The frame appeals to an unbiased, neutral perspective, insisting that equivalent wrongdoing demands equivalent moral response."
+        }
+      ]
+    }
+  },
+  "f6992": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame emphasizes women's independence and self-determination by suggesting that not helping them allows them to act on their own, reflecting a value for autonomy and change from traditional roles."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame presents the approach as a matter of equal treatment and respect, aligning with broader concerns for equality and fairness."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame underlines the importance of women deciding and managing tasks themselves without external assistance, reflecting self-directed action."
+        },
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The frame appeals to equality, suggesting refraining from helping women as respecting them as equals, embodying universalism values."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be independent",
+          "rationale": "The message implies women should plan and execute tasks themselves, promoting individual independence."
+        },
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "The message suggests allowing women to act freely without intervention, underscoring freedom of action."
+        },
+        {
+          "level_3_value": "Have equality",
+          "rationale": "The frame justifies behavior by citing equal treatment for women and men, emphasizing equality in opportunities and respect."
+        }
+      ]
+    }
+  }
+}

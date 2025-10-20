@@ -1,0 +1,108 @@
+{
+  "f1107": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame advocates for men to have more resources and financial success at the expense of women, highlighting a desire for personal advantage and success."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame explicitly calls for unequal distribution of material resources by favoring men’s financial compensation over women’s."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The message argues that men should receive higher pay, reinforcing the importance of acquiring and retaining greater financial wealth for men."
+        }
+      ]
+    }
+  },
+  "f4760": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame seeks to devalue women’s accomplishments to maintain and enhance the status and dominance of men in professional sports."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving the traditional hierarchy in sports and resisting changes that recognize women’s achievements."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By labeling women’s achievements as worthless, the frame upholds male control and dominance in the sporting arena."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame defends the traditional view that sports are a male domain and discourages acknowledging women’s success."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that men should retain leadership and decision-making authority in sports without recognizing women’s contributions."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame calls for upholding longstanding customs that exclude women from equal recognition in professional sports."
+        }
+      ]
+    }
+  },
+  "f6705": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends the existing social order and resists acknowledgment of inequalities, aiming to preserve traditional gender hierarchies and social stability."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame supports the dominant group’s interests by denying women's pay equality concerns, allowing them to maintain and enhance their own power and resources at the expense of women."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds traditional gender roles by dismissing claims of pay inequality and reinforcing the notion that women should accept their historical place in the workforce."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By portraying the gender pay gap as exaggerated, the frame discourages disruptive social change and defends a stable, unchallenged societal structure."
+        },
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame denies systemic pay inequalities to preserve the existing distribution of material resources and wealth favoring men."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Dismissing women’s concerns reinforces male authority and control over discourse, ensuring that men remain in command of economic and social decisions."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame appeals to the value of upholding long-established gender norms and customs, encouraging acceptance of traditional gender roles without question."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "By labeling the pay gap issue as overstated, the frame promotes social cohesion through maintaining the status quo and avoiding perceived unnecessary disruptions."
+        },
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The frame serves to protect men’s economic interests by undermining calls for equal pay, thus preserving existing gender-based wealth distribution."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Dismissing women’s claims to pay equality asserts that men retain their rightful authority and leadership roles in economic and professional spheres."
+        }
+      ]
+    }
+  }
+}

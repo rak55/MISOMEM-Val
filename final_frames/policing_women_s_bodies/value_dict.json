@@ -1,0 +1,294 @@
+{
+  "f6400": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining established social norms and resisting changes in women’s attire, upholding tradition and social order regarding acceptable dress."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame explicitly calls for women to adhere to informal social conventions of modesty and avoid violating norms of appropriate dress."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By labeling lace underwear as ‘inappropriate,’ the frame implicitly reinforces longstanding cultural and moral traditions governing women’s modesty and proper attire."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame demands that women conform to societal expectations of decency in dress, avoiding styles deemed unacceptable by community standards."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame invokes the importance of upholding traditional norms of modesty, discouraging deviation from customary practices in women’s clothing."
+        }
+      ]
+    }
+  },
+  "f879": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional moral norms and maintaining social stability regarding female sexuality."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes longstanding cultural and possibly religious customs that value female virginity as a marker of virtue."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame calls for women to follow strict behavioral norms, exercising self-restraint and adherence to social rules about premarital sex."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame links a woman's social image and reputation directly to her sexual history, emphasizing preservation of public honor."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame demands upholding and honoring traditional practices related to female purity."
+        },
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "The frame prescribes restraint from sexual activity, framing abstinence as a moral duty."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The frame ties a woman's social standing and public image to her virginity, stressing the importance of preserving her reputation."
+        }
+      ]
+    }
+  },
+  "f3723": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces adherence to traditional social norms about dress and appearance, discouraging deviation and promoting social order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame urges fat women to follow informal societal rules of modest dress and not transgress accepted appearance norms."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It implies women should avoid offending or upsetting others with their appearance by dressing in tight clothes."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame suggests maintaining a good public image and avoiding humiliation or ridicule from wearing tight clothes."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame encourages abiding by social conventions of dress, framing tight clothing on fat women as improper behavior."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "It presents the choice of clothing as a matter of politeness, implying tight clothes may offend or upset others."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "It aims to protect women’s public image by discouraging dress choices that could lead to ridicule or loss of face."
+        }
+      ]
+    }
+  },
+  "f4112": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional gender roles and family structures, reflecting a desire to maintain existing social norms and traditions."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame explicitly references 'traditional domestic functions', calling for adherence to longstanding cultural and family customs."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By portraying women’s domestic roles as essential, the frame suggests that social stability depends on maintaining these prescribed functions."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame implies women must conform to established social norms by fulfilling domestic roles, enforcing compliance with societal expectations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The phrase 'traditional domestic functions' directly appeals to honoring and preserving established cultural and family traditions."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Assigning women fixed domestic roles is presented as necessary for a secure and orderly social structure."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Women are expected to follow prescribed domestic roles, reflecting an emphasis on proper conduct and adherence to social conventions."
+        }
+      ]
+    }
+  },
+  "f7964": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame endorses denying women agency and upholding control over their bodies, reflecting a value on power and dominance by one group over another."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional social norms restricting women’s autonomy, indicating a desire to maintain existing cultural and social structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame denies women the right to control their own bodies, endorsing the authority and command of others over women."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to and reinforces historical patriarchal norms that restrict women’s bodily autonomy as part of cultural tradition."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame implies that women must comply with established societal rules and not assert personal autonomy."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Directly asserts that certain individuals (implicitly men or authorities) have authority to control women’s bodies."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Implicitly endorses adherence to patriarchal traditions that limit women’s autonomy."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Implies women should obey and not challenge the societal rules governing their bodies."
+        }
+      ]
+    }
+  },
+  "f5966": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes strict adherence to traditional moral codes and the preservation of social order through punitive measures, reflecting a desire to maintain existing cultural and societal structures."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame endorses the use of coercive authority and control over women, valuing power and dominance in enforcing punishments."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It invokes ancient religious punishment (stoning) as a means to enforce moral behavior, appealing to the authority of longstanding cultural or religious customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It demands strict compliance with moral laws and prescribes a harsh penalty for transgression, signaling the importance of obeying formal rules."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It frames severe punishment as necessary to protect social cohesion and prevent moral decay, aiming to maintain a stable and orderly society."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It asserts authority to determine and impose life-or-death punishments, reflecting a value placed on commanding and controlling others."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The argument relies on upholding traditional religious norms and endorses ancient customs, stressing the importance of honoring established moral codes."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame emphasizes obedience to formal moral rules by prescribing a severe penalty for those who fail to comply."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The advocacy of harsh punishment is justified as a way to preserve social order and prevent chaos resulting from moral transgressions."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The call for stoning as punishment reflects a belief that authorities should hold ultimate power to enforce and execute punitive measures."
+        }
+      ]
+    }
+  },
+  "f6585": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces adherence to existing social norms regarding female body types in bikinis, promoting stability and resistance to change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame promotes compliance with societal rules about acceptable body types to avoid social disapproval."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame emphasizes maintaining public image and reputation by adhering to specific body standards in bikinis."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame urges women to conform to accepted body type rules to be considered acceptable or attractive."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame suggests that women must follow informal beauty norms to behave properly in public settings."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The frame implies that deviating from the narrow body standards will harm one’s public image and reputation."
+        }
+      ]
+    }
+  },
+  "f7965": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes upholding moral norms and punishing deviations by blaming women for a lack of self-control, reflecting a desire to preserve existing social order and traditional behavioral expectations."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The message centers on enforcing compliance with social rules about sexual behavior and personal responsibility, highlighting the importance of self-restraint and adherence to expected norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "The frame explicitly criticizes women for their 'lack of self-control,' directly invoking the value of self-discipline—exercising restraint and following rules even when unobserved."
+        }
+      ]
+    }
+  }
+}

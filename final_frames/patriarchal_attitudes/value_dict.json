@@ -1,0 +1,352 @@
+{
+  "f366": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame praises caring and supportive behaviors as inherently positive qualities, focusing on the welfare of others (men as a group)."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "By stating that men are inherently more supportive and kind, the frame emphasizes the importance of caring for and helping one’s group."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be helpful",
+          "rationale": "'Supportive' in the frame directly aligns with the value of helping and promoting the welfare of others in one’s group."
+        },
+        {
+          "level_3_value": "Be loving",
+          "rationale": "Describing men as inherently 'kind' evokes the value of showing affection, compassion, and sympathy toward others."
+        }
+      ]
+    }
+  },
+  "f445": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame elevates the importance of roles associated with personal success and prestige, devaluing domestic labor as trivial and insignificant, thus appealing to the pursuit of power, status, and social recognition over caring responsibilities."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "By labeling housework as trivial compared to other roles, the frame implies that only those roles that lead to success, competence, and upward social mobility are worthwhile, emphasizing achievement as a core value."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame dismisses housework because it does not confer prestige or recognition, highlighting the value placed on maintaining a positive public image and social standing through more esteemed roles."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have success",
+          "rationale": "The notion that housework is insignificant suggests that only activities that result in measurable success and recognition are valued, reinforcing the desire to achieve visible accomplishments."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "By portraying domestic duties as trivial, the frame underscores the importance of roles that garner respect and acknowledgment from others, reflecting the pursuit of social recognition."
+        }
+      ]
+    }
+  },
+  "f4531": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes male dominance by asserting that women exist primarily to serve men, emphasizing power and control over another group."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces traditional gender roles and social norms, advocating for maintaining existing family and cultural structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts that men should have authority and control over women, reflecting a desire for hierarchical command."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By prescribing a woman's role as catering to a man’s needs, the frame appeals to long-standing cultural and family gender roles."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame demands that women comply with an obligation to serve men, underscoring adherence to prescribed social rules."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame explicitly positions men as entitled to dictate and oversee women’s actions and decisions."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame relies on the idea that traditional gender roles should be honored and preserved."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame enforces women’s obedience to men’s needs, illustrating a value placed on compliance with social expectations."
+        }
+      ]
+    }
+  },
+  "f7958": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame seeks to elevate the power and control of men by actively suppressing women’s voices, reflecting a desire for dominance over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame aims to preserve traditional gender hierarchies and maintain the existing social order by keeping women silent."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The framing revolves around asserting control over women by denying them a voice, illustrating a desire to dominate."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It invokes the maintenance of longstanding patriarchal customs that dictate women should not speak up."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It demands that women comply with a social rule of silence, reinforcing obedience to prescribed gender norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "By silencing women, the frame seeks to concentrate influence among men and exclude women from decision-making and discourse."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame appeals to upholding traditional gender roles and customs that historically limit women’s public participation."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It pressures women to follow the implied rule of silence, reinforcing obedience to patriarchal expectations."
+        }
+      ]
+    }
+  },
+  "f5670": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasises men’s control over women’s speech, reflecting a desire for dominance and control over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to preserve a traditional gender hierarchy and maintain existing social order by restricting women’s behavior."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame grants men the authority to permit or deny women’s speech, emphasizing hierarchical control."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes traditional gender roles and patriarchal norms that women must be subordinate to men."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame establishes a formal rule that women must comply with men’s permission before speaking."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame argues that societal stability depends on enforcing male authority and preserving the existing social structure."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame explicitly assigns men the right to control women’s speech, underscoring male authority."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame appeals to upholding traditional patriarchal practices that subordinate women."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame demands women’s obedience to a rule requiring male permission, stressing compliance."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame justifies restricting women’s speech as necessary for maintaining social order and stability."
+        }
+      ]
+    }
+  },
+  "f7544": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to preserve traditional gender roles and maintain the existing social order by preventing women from gaining power, reflecting a desire for social stability and resistance to change."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By opposing women’s access to power and influence, the frame supports the dominance of one group (men) over another, aligning with values that prioritize power and control."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to longstanding cultural and familial norms dictating that leadership and influence are a male domain, emphasizing adherence to historical gender roles."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It invokes unwritten social rules about proper behavior for women, urging compliance with gender expectations and discouraging deviation from established norms."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The argument suggests that allowing women into positions of power would threaten societal stability, thus framing exclusion as necessary for maintaining a secure, orderly society."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame implicitly defends and promotes male control and authority by refusing to share influence with women, underscoring a desire for dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The statement relies on the premise that traditional gender roles must be honored and that women stepping into power violates those inherited customs."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It positions women in leadership as behaving inappropriately, reinforcing social conventions about ‘proper’ female conduct and discouraging norm violations."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame argues that social order depends on keeping women out of power, suggesting that women leaders would destabilize or disrupt societal cohesion."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "By denying women the right to influence decisions, the frame emphasizes the value of concentrated control and influence remaining with men."
+        }
+      ]
+    }
+  },
+  "f5160": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes hierarchical dominance and the pursuit of power over women, which aligns with the value of gaining control and influence over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends the existing social order and traditional gender roles, valuing stability, tradition, and the maintenance of established norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame posits that men have the rightful authority to control and restrict women's roles, highlighting a value of commanding and directing others."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame relies on patriarchal norms and longstanding gender roles, invoking the importance of preserving traditional social structures."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The statement explicitly asserts men's authority to restrict women, reflecting the value of having the legitimate power to issue directives."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By invoking traditional gender roles, the frame encourages adherence to historical customs and established practices regarding male authority."
+        }
+      ]
+    }
+  },
+  "f2261": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional gender roles and the existing patriarchal social order, resisting change to women's autonomy."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame underscores male control and dominance over women, highlighting men's power and authority."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It invokes adherence to traditional customs and gender norms by asserting that women must follow longstanding practices of male guardianship."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It demands compliance with a rule that women need male permission, enforcing obedience to prescribed social conventions."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It grants men the authority to command women’s actions, reinforcing hierarchical power structures."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The statement appeals to maintaining traditional gender roles and customs that subordinate women under male authority."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It enforces the idea that women must obey rules set by men, promoting compliance with male-imposed restrictions."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It explicitly asserts men's authority to permit or deny women's driving, emphasizing men’s power to control women’s behavior."
+        }
+      ]
+    }
+  },
+  "f2737": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds and defends traditional gender hierarchies by asserting that women’s professional roles should remain subordinate, reflecting a desire to preserve the existing social order and resist change."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By claiming men’s professional roles are inherently superior and women’s less legitimate, the frame promotes male dominance and the maintenance of power disparities in professional settings."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame draws on longstanding cultural norms about gender roles, encouraging adherence to traditional beliefs that men belong in valued professional positions while women do not."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It legitimizes men’s authority in the workplace, suggesting that men have the rightful dominance over professional roles and decision-making."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message appeals to respecting and maintaining traditional gender conventions, positioning them as natural and unquestionable."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It implies that men inherently deserve leadership and control in professional contexts, reinforcing their entitlement to command roles."
+        }
+      ]
+    }
+  }
+}

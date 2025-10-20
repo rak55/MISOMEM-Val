@@ -1,0 +1,372 @@
+{
+  "f297": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional social structures and norms regarding gender roles in hiring, emphasizing stability and continuity."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame prioritizes personal gain through dominance and pleasure, focusing on self-interest and superiority over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message draws on conventional beliefs about gender roles, endorsing established practices that favor hiring based on appearance."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The message promotes authority and control by suggesting that those in power—typically men—should dictate women’s professional opportunities."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The message encourages deriving sensory pleasure from women’s appearance, valuing aesthetic enjoyment over professional competence."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Uphold traditional gender roles",
+          "rationale": "Specifically indicates the expectation that women adhere to and are judged by conventional societal norms in the workplace."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Emphasizes a claimed entitlement of men to control women’s career prospects and enforce male authority."
+        },
+        {
+          "level_3_value": "Have pleasure from women’s appearance",
+          "rationale": "Highlights the motivation to seek enjoyment or gratification from women’s looks rather than recognizing their skills."
+        }
+      ]
+    }
+  },
+  "f540": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces preserving traditional social structures by restricting women's roles to physical appearance, maintaining an order where professional competence in women is devalued."
+        },
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame emphasizes the pursuit of sensuous gratification by valuing women primarily for their physical appearance, highlighting a preference for pleasure."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It upholds historic gender stereotypes by demanding continuity with past norms that confine women to ornamental roles."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "It centers on physical attractiveness as the primary source of sensual enjoyment, prioritizing pleasure over professional skills."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It advocates adherence to traditional gender norms that limit women’s value to their appearance rather than their capabilities."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "It focuses on women's physical appearance for sensuous gratification, emphasizing the importance of physical enjoyment above professional competence."
+        }
+      ]
+    }
+  },
+  "f1188": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes denying women promotions to maintain and enhance the power and status of (presumably male) colleagues, reflecting a value on one’s own advancement and dominance over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to preserve existing gender hierarchies in the workplace, emphasizing resistance to change and maintaining traditional social structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By asserting it’s acceptable to deny women raises and promotions, the frame underlines the importance of retaining positions of control and authority over others."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to historical gender roles, implying that women should remain subordinate and that existing patriarchal norms ought to be upheld."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that allowing women to advance would disrupt social order, thereby justifying denial of promotions to preserve a stable workplace hierarchy and societal structure."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Denying women advancement ensures that decision-making power and influence remain concentrated among the favored group."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message draws on the idea that following long-established gender roles is proper, framing women’s subordination as a traditional duty."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The argument implies that preventing women from rising in rank helps avoid upheaval, thereby maintaining societal and organizational stability."
+        }
+      ]
+    }
+  },
+  "f3441": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for preserving and reasserting traditional gender roles and social order, resisting change and upholding established norms about women's place in society."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By demanding that women be removed from the workforce and subordinated to domestic roles, the frame serves the interests of those seeking to dominate and control others, reinforcing hierarchical power structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The demand that women return to ‘traditional domestic roles’ explicitly invokes adherence to long-standing cultural and familial customs regarding gender."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "Forcing women out of jobs and into prescribed domestic duties emphasizes strict compliance with gendered social rules and obligations."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts the right of one group (presumably men or patriarchy) to command and control another group (women), reinforcing dominance relationships."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "be respecting traditions",
+          "rationale": "The call to return women to ‘traditional’ roles centers on honoring and preserving inherited gender norms."
+        },
+        {
+          "level_3_value": "be compliant",
+          "rationale": "The framing demands that women obey and follow imposed social rules by giving up paid work and accepting domestic duties."
+        },
+        {
+          "level_3_value": "have the right to command",
+          "rationale": "The frame legitimizes hierarchical authority by asserting that certain actors (men/institutions) should have the power to decide and enforce women’s roles."
+        }
+      ]
+    }
+  },
+  "f5186": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "This frame appeals to universal concern for the fair and equal treatment of women, highlighting the moral imperative to care about others’ well-being and rights."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The message demands nondiscrimination and justice for women, reflecting a commitment to equality and concern for all individuals regardless of gender."
+        },
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "It emphasizes solidarity with women and the protection of their dignity and professional contributions, underscoring caring interpersonal relationships."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Ensure equality in professional assessment",
+          "rationale": "Calls for objective, unbiased evaluation of women’s skills and achievements, reinforcing fairness and nondiscrimination in the workplace."
+        },
+        {
+          "level_3_value": "Uphold justice by valuing women's skills equally to men's",
+          "rationale": "Highlights the need to correct unjust treatment and grant women the same respect and opportunity as men based on merit."
+        },
+        {
+          "level_3_value": "Foster respect and validation for women's professional contributions",
+          "rationale": "Focuses on acknowledging and honoring women’s workplace achievements, ensuring they receive genuine recognition rather than superficial or image-based acknowledgment."
+        }
+      ]
+    }
+  },
+  "f5267": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to maintaining traditional gender roles and resisting social change like pay equality."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame elevates men's status and dominance by advocating for their greater economic benefit and control over resources."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes the idea that historical norms dictate that women’s work is intrinsically less valuable, preserving patriarchal customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame enforces unwritten social rules requiring women to accept lower pay without challenging the status quo."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that economic hierarchy based on gender is necessary for a stable, orderly society and that equal pay would disrupt this balance."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame supports male authority in economic decision-making, reinforcing a hierarchy where men command higher wages."
+        },
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame aims to preserve men’s control over financial resources by justifying unequal pay that favors men."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Argues for adherence to long-standing gender roles that devalue women’s contributions and maintain male dominance."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Encourages women to accept lower pay without protest, following established rules and norms unquestioningly."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Posits that preserving a gendered pay hierarchy is key to preventing social upheaval and maintaining order."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Frames decision-making power over wages as rightfully belonging to men in a patriarchal hierarchy."
+        },
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "Justifies men retaining a larger share of economic resources by portraying women’s work as inherently less valuable."
+        }
+      ]
+    }
+  },
+  "f5610": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "This frame emphasizes maintaining traditional gender roles and social order by discouraging women from being valued in the workplace, resisting change to the status quo."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts dominance and superiority over women by devaluing their presence and contributions in professional settings, reflecting a desire for power."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It upholds conventional beliefs about women’s roles—keeping them out of valued workplace positions and preserving historical gender norms."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It pressures individuals to adhere to societal expectations about gender behavior, discouraging deviation by women in professional environments."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame reinforces male authority by denying women recognition and influence in the workplace, asserting male dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Encourages adherence to established gender norms and discourages women from pursuing valued workplace roles that challenge those norms."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Demands submissive, non-assertive behavior from women, reinforcing their lack of professional value and maintaining male control."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Affirms male entitlement to authority and decision-making power in the workplace, excluding women from positions of influence."
+        }
+      ]
+    }
+  },
+  "f3911": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The statement appeals to preserving traditional gender roles and social order by excluding women from a domain historically dominated by men, resisting change."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By preventing women from working in professional kitchens, the statement reinforces male dominance and control, prioritizing power over equality."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes respecting and maintaining longstanding cultural norms about gender roles, suggesting that women’s presence in professional kitchens violates tradition."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It demands compliance with an implicit social rule that women adhere to traditional gender divisions and avoid professional kitchen environments."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By excluding women from professional kitchens, the statement upholds a hierarchical power structure in which men retain authority and control in that domain."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It implies that established gender norms should be honored by keeping women out of professional kitchens."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It urges adherence to an unwritten societal rule dictating women’s roles, encouraging compliance with gender-based restrictions."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It reinforces the notion that men should hold authority and control in professional kitchens, excluding women from positions of power."
+        }
+      ]
+    }
+  },
+  "f5998": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts male superiority by valuing men’s jobs over women’s, emphasizing dominance and the pursuit of higher status."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional gender hierarchies and existing social structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It promotes the idea that men should hold positions of control and authority in the workforce, reinforcing male dominance."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It relies on conventional beliefs about gender roles, advocating for the maintenance of historical norms that place women below men."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that men are the rightful leaders and decision-makers in professional settings, legitimizing male authority over women’s work."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame encourages adherence to longstanding cultural practices that assign inferior status to women’s occupations."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "f2852": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "This frame enforces adherence to existing social norms and resistance to changes in body ideals, aiming to preserve traditional standards of appearance."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "Mocking women with large buttocks underscores the importance of conforming to longstanding body ideals and cultural norms about proper female appearance."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame pressures individuals to align with group expectations and to enforce acceptable behavior by shaming those who deviate from conventional body standards."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "This expresses the expectation that women should adhere to culturally approved body norms and uphold traditional standards of appearance."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "This implies that individuals should maintain proper social conduct by refraining from deviating from accepted body ideals, using politeness norms to shame nonconformity."
+        }
+      ]
+    }
+  },
+  "f1159": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame promotes maintaining established social norms and standards for women’s bodies by labeling those who deviate (overweight women) as defective, thus reinforcing adherence to the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame implicitly demands compliance with informal societal rules about proper body shape, suggesting that overweight women violate these conventions and are therefore incomplete."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By calling overweight women defective, the frame underscores the importance of maintaining a positive public image and reputation through adherence to body ideals."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Overweight women are portrayed as failing to ‘behave properly’ by not conforming to accepted body standards."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The frame implies that adherence to thin norms preserves one’s good reputation, and deviation (being overweight) damages it."
+        }
+      ]
+    }
+  },
+  "f6584": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional social norms about appropriate female attire and resists change by forbidding fat women from wearing bikinis."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It invokes traditional standards of beauty and dress, suggesting women must adhere to longstanding cultural customs regarding what is considered acceptable swimwear."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame demands compliance with informal social rules about modesty and appearance, implying fat women should not violate these conventions by wearing bikinis."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "It appeals to maintaining a positive public image and avoiding social embarrassment, suggesting that allowing fat women to wear bikinis would harm societal reputation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The argument enforces adherence to traditional beauty and dress codes for women."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It pressures fat women to follow social conventions about modesty and acceptable attire."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "It frames societal image as dependent on fat women conforming to established norms to avoid shame."
+        }
+      ]
+    }
+  },
+  "f4954": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame elevates thinness as a pathway to social approval and prestige, emphasizing personal gain in terms of public image and status."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces and preserves an established societal standard of beauty, discouraging deviation from the norm and maintaining the status quo in body ideals."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "By declaring thin women more desirable, the frame appeals to maintaining and enhancing one’s public image and respect within the community."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame implicitly enforces adherence to social rules about acceptable body size, signaling that women should comply with these norms to be valued."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "Thinness is linked to higher desirability, implying that adhering to this ideal grants respect, admiration, and approval from others."
+        },
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "The desirability of thin bodies suggests that women must exercise strict personal control over diet and body shape, underscoring the need for self-restraint."
+        }
+      ]
+    }
+  },
+  "f1643": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces existing social norms regarding body size and dietary discipline, emphasizing the importance of maintaining traditional standards of self-control and proper health."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame implies fat women lack the self-discipline required for eating disorders, reinforcing adherence to societal expectations of restraint and proper behavior around food and bodies."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "By denying the legitimacy of eating disorders in fat women, the frame upholds a normative ideal of bodily health and stability, dismissing deviations from this health standard."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "The frame suggests that managing an eating disorder requires strict dietary restraint, which it falsely claims fat women cannot possess."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It portrays fat women as violating social conventions around acceptable body size and eating behavior, implying they lack proper conduct."
+        },
+        {
+          "level_3_value": "Have good health",
+          "rationale": "The frame denies that fat women can experience legitimate health disorders, asserting that their physical condition precludes real health issues."
+        }
+      ]
+    }
+  },
+  "f1855": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame ties a woman’s worth to her physical appearance, emphasizing the pursuit of social esteem and recognition based on breast size."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces adherence to existing social norms about female beauty, pressuring women to conform to established standards."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "By assigning value to breast size, the frame foregrounds the importance of maintaining a public image that elicits admiration and respect."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame dictates that women must comply with a specific criterion of beauty—breast size—treating it as a rule for being valued."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The frame implies that women with larger breasts receive greater social recognition, tying self-worth to external validation."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame pressures women to modify or present their bodies in line with a defined beauty standard, emphasizing compliance with societal rules."
+        }
+      ]
+    }
+  },
+  "f5524": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes imposing control and dominance over a marginalized group, reflecting a desire to assert power over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It explicitly calls for authoritative control—deciding where a group of people should be confined—demonstrating an appeal to dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The recommendation that fat people ‘should be confined’ presumes an unquestioned entitlement to order and control their lives, directly appealing to the value of command authority."
+        }
+      ]
+    }
+  },
+  "f4117": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "Highlights a desire for dominance by controlling which women may wear yoga pants."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "Maintains a fixed social order by enforcing strict norms about who can wear yoga pants, resisting change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Asserts hierarchical control by allowing only young, thin women to wear yoga pants."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "Demands obedience to a strict rule that restricts yoga pants to a specific group."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Claims the authority to dictate who is permitted to wear yoga pants."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Requires women to submit to the restriction on wearing yoga pants."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Emphasizes adherence to a proper dress code by restricting yoga pants to those who fit narrow criteria."
+        }
+      ]
+    }
+  },
+  "f1461": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame focuses on social standing and authority by tying critics’ moral right to judge to their attractiveness, emphasizing their public image and authority."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame disparages critics’ attractiveness to undermine their public image and social recognition."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly denies critics the right to judge performances, controlling who can command or hold authority."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "By labeling critics as ‘unattractive,’ the frame implies that only those with social recognition (attractive individuals) have valid opinions."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame asserts that critics ‘should have no right to judge,’ directly addressing authority and command over judgment."
+        }
+      ]
+    }
+  },
+  "f1428": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces existing gender norms and expected social roles for women, maintaining the status quo and traditional standards of feminine appearance."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The statement upholds traditional beauty norms by suggesting women should adhere to a conventional, slim feminine appearance rather than developing muscular physiques."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame pressures women to conform to others’ preferences about appearance, implying they should avoid upsetting or challenging social expectations about femininity."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "Attractiveness is tied to public image and reputation, suggesting women must maintain a socially approved appearance to preserve their social standing."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame appeals to maintaining longstanding cultural norms about women’s bodies by discouraging muscular physiques as outside accepted tradition."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "By framing muscular women as less attractive, it implies that deviating from traditional feminine appearance is unpleasant or upsetting to others and should be avoided."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The argument links a woman’s attractiveness to her public image, suggesting she must uphold societal beauty standards to protect her reputation."
+        }
+      ]
+    }
+  },
+  "f1706": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts a hierarchical differentiation and directs fat women on what they can or cannot do, reflecting an emphasis on maintaining power and control over a marginalized group."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces a discriminatory social norm about who deserves protection, urging adherence to existing conventions and discouraging deviation from these norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The statement issues a direct command to fat women not to use rape whistles, reflecting a desire to assert authority and control over their behavior."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The statement promotes adherence to a social rule that only certain women 'deserve' safety measures, encouraging fat women to comply with this discriminatory convention."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies the speaker’s authority to dictate fat women’s behavior around personal safety, suggesting they must follow the speaker’s injunction."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame urges fat women to obey the prevailing (misogynistic) rule without question, reinforcing their subordination by demanding compliance."
+        }
+      ]
+    }
+  },
+  "f2659": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces adherence to existing social norms and gender roles, discouraging deviation from conventional beauty standards to maintain the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame demands that women comply with conventional beauty standards as a social obligation, framing noncompliance as unworthy."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "It ties a woman’s social standing and public image directly to her adherence to beauty norms, implying that failing to meet them damages her reputation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame implies that failing to adhere to informal beauty conventions is improper behavior, reinforcing social expectations about appearance."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "It explicitly links a woman’s worthiness to her public image, suggesting that not meeting beauty standards harms her reputation and social acceptance."
+        }
+      ]
+    }
+  },
+  "f2809": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces existing norms about women’s appearance and roles, preserving a traditional view that petite women uniquely embody grace."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame grants exclusive status and privileges to petite women, enhancing their social standing over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame dictates a specific rule that only petite women should teach grace, emphasizing adherence to this norm."
+        },
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "By assigning teaching authority solely to petite women, the frame confers control over an important cultural resource—grace education—to this group."
+        }
+      ],
+      "level_3_values": []
+    }
+  },
+  "f4434": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame seeks to elevate a specific group (those with ideal body types) and grant them exclusive status, reflecting a desire to control social status and privilege."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces conformity to a narrow body standard, emphasizing adherence to established rules and norms within the cosplay community."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame grants exclusive authority over who may participate in cosplay, asserting dominance by defining and controlling membership."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame emphasizes maintaining a certain public image for the cosplay community by restricting participation to those with 'ideal' appearances."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame imposes a rigid rule about body type, demanding compliance with a prescribed standard for acceptable participation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By declaring who is allowed to cosplay, the frame asserts a right to enforce and command community standards."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The frame promises respect and visibility only to those who meet the ideal body criteria, tying social acceptance to appearance."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame demands that individuals adhere to the rule of having an 'ideal' body type to participate in cosplay."
+        }
+      ]
+    }
+  },
+  "f4522": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "This frame prioritizes personal gratification (hedonic gain) through breast-focused weight gain and reinforces a power-over dynamic by valuing women only insofar as they serve others’ desire and status, reflecting both dominance and self-interest."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame emphasizes weight gain as desirable only if it produces pleasurable, sexual outcomes (enhanced breasts), highlighting the pursuit of physical pleasure."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It asserts control over women’s bodies by dictating acceptable weight gain only when it serves others’ visual and status interests, reflecting dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The discourse centers on the pleasurable outcome (enhanced breasts), framing women’s bodies as tools for sexual enjoyment."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It implies a right to dictate and command women’s physical appearance, reinforcing a power-over relationship."
+        }
+      ]
+    }
+  }
+}

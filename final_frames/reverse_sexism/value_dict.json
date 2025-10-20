@@ -1,0 +1,556 @@
+{
+  "f2175": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends preserving existing gender roles and the status quo against proposed changes for gender equality."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame defends men’s group interests and dominance, portraying gender equality as a threat to men’s status."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to maintaining traditional gender roles and customs by labeling equality efforts as undermining established norms."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that promoting gender equality would disrupt social stability and order."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame emphasizes maintaining men’s authority and leadership positions against perceived encroachment by gender equality."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame encourages upholding traditional gender norms and resisting changes to established customs."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame implies that social change toward gender equality would lead to instability, so the existing structure should remain intact."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame defends men’s entitlement to authority and control, portraying gender equality as a threat to male leadership roles."
+        }
+      ]
+    }
+  },
+  "f7278": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces preserving existing traditional gender norms by suggesting men’s emotional expression should be suppressed, reflecting resistance to change and valuing continuity of social conventions."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds the traditional practice that men must remain stoic and not express emotions, emphasizing adherence to cultural customs about masculinity."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By declaring that men’s emotions and suffering are not to be taken seriously, the message advocates maintaining the longstanding tradition of emotional restraint for men and discourages deviation from this norm."
+        }
+      ]
+    }
+  },
+  "f381": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame advocates exerting contempt and dismissal over feminists, signaling a desire to assert dominance and control over a target group."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By condemning extremist feminists who 'hate all males,' the frame seeks to preserve existing social order and gender norms, resisting disruptive change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Calling for contempt and dismissal of a group is an expression of asserting control and dominance over them."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame positions extremist feminists as a threat to societal stability and calls for their rejection to maintain order."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By denouncing those who challenge traditional gender relations, the frame upholds established cultural and familial norms regarding gender roles."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Demanding contempt and dismissal is a way to diminish the target group's voice and reinforce the speaker’s own capacity to shape discourse."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Rejecting perceived extremist ideologies is framed as necessary to prevent chaos and protect the broader social order."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The criticism of feminist 'hatred' serves to reinforce adherence to longstanding gender traditions and customs."
+        }
+      ]
+    }
+  },
+  "f82": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame appeals to concern for an out-group (boys) and emphasizes fairness and justice beyond self-interest, aligning with values that focus on the welfare of all."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The frame highlights unequal treatment of boys versus girls and calls for equal opportunities and fairness, directly reflecting the value of equality and justice for all."
+        },
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "By accusing educational systems of bias, the frame implies a need for impartial and unbiased evaluation methods, emphasizing truth-seeking and neutral assessment."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have equality",
+          "rationale": "The message argues that both genders should receive the same treatment and opportunity in education, advocating for gender equality."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "The claim of bias against boys underscores a demand for fair treatment and non-discrimination, reflecting a call for justice."
+        },
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "Pointing out systemic bias suggests the necessity for objective, data-driven, and unbiased educational practices."
+        }
+      ]
+    }
+  },
+  "f925": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame condemns women's hypocritical and judgmental behavior, appealing to the moral principle of fairness and justice for all individuals."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The frame demands fair and just treatment of men, condemning gender-based discrimination in judgments."
+        },
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "The frame criticizes subjective hypocrisy and calls for unbiased, objective assessment of individuals."
+        },
+        {
+          "level_2_value": "Universalism (tolerance)",
+          "rationale": "The frame implies women should be broadminded and accept diverse physical attributes without prejudice."
+        },
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "By accusing women of hypocrisy, the frame calls for honest and caring interpersonal conduct."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be just",
+          "rationale": "The frame appeals to fairness by condemning unjust and discriminatory judgments."
+        },
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "The frame criticizes biased judgments based on personal preference and calls for objective evaluation."
+        },
+        {
+          "level_3_value": "Be broadminded",
+          "rationale": "The frame implies the need for openness and acceptance of different physical traits."
+        },
+        {
+          "level_3_value": "Be honest",
+          "rationale": "The frame highlights hypocrisy, emphasizing the importance of truthful and sincere behavior."
+        }
+      ]
+    }
+  },
+  "f989": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame expresses hostile sexism by attributing moral failings to all men in order to assert dominance over them, reflecting the pursuit of power over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The statement ‘All men are inherently bad’ assigns moral inferiority to men as a group, reflecting an attempt to dominate and devalue them."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Attributing inherent moral inferiority/evilness to the group",
+          "rationale": "‘All men’ signals a blanket negative stereotype, attributing evilness to the entire group without nuance."
+        }
+      ]
+    }
+  },
+  "f1285": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men’s financial standing and success over women’s, highlighting personal gain, status, and dominance derived from resource control, which aligns with Self-Enhancement."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The message focuses on the control and distribution of financial resources, asserting men’s superiority in wealth acquisition and downplaying women’s economic claims, directly reflecting Power (resources)."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The claim centers on men’s financial losses and overall economic position as proof of superior resource holding, emphasizing the importance of possessing wealth and dismissing claims of a gender pay gap."
+        }
+      ]
+    }
+  },
+  "f2203": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes personal success and competence by holding men solely responsible for a team’s failure, implying that achieving success is paramount and failure unacceptable."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The frame blames men for not meeting the norm of winning, underlining the importance of ambition, capability, and success in social performance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be capable",
+          "rationale": "By assigning blame to men for a team’s loss, the frame implies that men should be competent and effective in their roles, and failure to be so is condemnable."
+        },
+        {
+          "level_3_value": "Have success",
+          "rationale": "The framing underscores that success (winning) is highly valued, and that those (men) who do not deliver it must be held accountable."
+        }
+      ]
+    }
+  },
+  "f2506": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame criticizes men for violating social norms of respect and fidelity, highlighting the importance of maintaining established moral and relational rules."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame invokes the expectation of caring and loyalty in intimate relationships, emphasizing concern for the partner’s well-being."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By calling out disrespect toward partners, the frame underscores the value of politeness and avoiding harm to others in close relationships."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "Accusing men of unfaithfulness points to breaking implicit and explicit relationship obligations, stressing the importance of compliance with those rules."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "Men’s unfaithfulness and disrespect are framed as damaging their reputation, appealing to the need to maintain a good public image."
+        },
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "The frame implies that a proper partner should show love and care, highlighting the interpersonal value of affection and nurturing."
+        },
+        {
+          "level_2_value": "Benevolence (dependability)",
+          "rationale": "By emphasizing men’s infidelity and disrespect, the frame stresses the importance of being reliable and responsible in maintaining trust."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The criticism of disrespect makes politeness salient as an expected behavior toward one’s partner."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Unfaithfulness is framed as a failure to comply with relationship commitments, emphasizing obedience to those informal rules."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Highlighting damage to men’s standing due to unfaithfulness and disrespect appeals to the desire to protect one’s social image."
+        },
+        {
+          "level_3_value": "Be loving",
+          "rationale": "The frame contrasts unfaithfulness with the expectation of showing genuine love and care in partnerships."
+        },
+        {
+          "level_3_value": "Be responsible",
+          "rationale": "Calling out men’s disregard for their partners underscores the value of reliability and fulfilling relational duties."
+        }
+      ]
+    }
+  },
+  "f4370": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes adherence to social norms and maintaining order by criticizing behaviors that inconvenience others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The message urges women to avoid burdening or upsetting others with their actions, highlighting interpersonal consideration."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Criticizing women for taking too long to get ready frames punctuality and consideration for others’ time as a matter of politeness."
+        }
+      ]
+    }
+  },
+  "f5597": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame portrays drunk men as a threat to established norms and stability, reflecting a desire to preserve social order and tradition."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "Depicting intoxicated men as predators underscores concerns about public safety and the need to protect societal well-being."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "Labeling drunk men as aggressive predators highlights fears for individual safety and personal protection."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Framing drunk men as a societal threat emphasizes the importance of maintaining social stability and order."
+        },
+        {
+          "level_3_value": "Have good health",
+          "rationale": "The portrayal of drunk men as dangerous aggressors implies a risk to personal well-being, underscoring the value of maintaining good health."
+        }
+      ]
+    }
+  },
+  "f6068": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes the importance of competence and the rightful distribution of power based on merit, reflecting values around achievement and authority."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to maintaining social stability by preventing those deemed incompetent from holding power, reflecting a desire for a secure and orderly society."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame invokes fairness and justice in who is granted power, reflecting concern for equitable treatment in society."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "Labeling men as inherently incompetent highlights the importance of capability and effectiveness in leadership roles."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By arguing that men should be denied power and that authority should rest with the ‘right’ people, the frame underscores the value placed on legitimate command."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "Warning that incompetent individuals will misuse power and destabilize society invokes concerns for a safe, stable social order."
+        },
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The argument that power must be allocated justly and not misused appeals to principles of fairness and protection of the vulnerable."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be capable",
+          "rationale": "The statement condemns men as incompetent, thereby stressing the necessity for leaders to be effective and skilled."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The call to withhold power from men implies that only those with legitimate authority and competence should lead."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "By suggesting that men will misuse power to society’s detriment, the frame highlights the need for societal stability."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "The frame invokes fairness in power distribution, arguing power should be granted based on merit rather than granted indiscriminately."
+        }
+      ]
+    }
+  },
+  "f6265": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame depicts men as victims losing power to feminists, evoking concerns about maintaining dominance and control."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional gender roles and protecting social stability and reputation."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame highlights men's threatened control and dominance, implying they should reclaim authority from feminists."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests feminists’ actions disrupt societal stability and male security."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame accuses feminists of punishing men simply for being polite, referencing adherence to social etiquette."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame defends men's public image, arguing that feminists unjustly tarnish their reputation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The frame implies men should maintain influence over social discourse and not be marginalized by feminist narratives."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame suggests the existing social order is jeopardized by feminist targeting of men."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The frame underscores that men's basic politeness is being unfairly punished, invoking the value of courteous behavior."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The frame focuses on protecting men's reputation from false victimization claims by feminists."
+        }
+      ]
+    }
+  },
+  "f7659": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional gender roles and social norms regarding masculinity."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "It underscores maintaining one’s public image and social standing as ‘truly masculine.’"
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to traditional beliefs about male appearance and the ‘proper’ markers of masculinity."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "It stresses the importance of social recognition and reputation associated with being perceived as masculine."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame encourages adherence to established customs defining masculine identity, namely wearing facial hair."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "It implies that one must conform to beards as a social marker to gain respect and avoid humiliation as a man."
+        }
+      ]
+    }
+  },
+  "f7974": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame insults men as 'weak and foolish,' implying they lack power, success, and personal efficacy, and thus reinforces the importance of dominating, achieving, and maintaining personal strength."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By using the shaming slur 'simp,' the frame focuses on damaging men's social reputation, highlighting a concern for maintaining a good public image and avoiding humiliation."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "Calling men 'weak and foolish' contrasts them with the ideals of competence and bravery, implying that success and capability are valued to avoid such negative labeling."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Labeling these men as 'simps' suggests they lack authority and influence in relationships, thereby evoking the value of holding control and command over others."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The use of a derogatory term to shame men emphasizes the importance of preserving a good reputation and avoiding public humiliation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be capable",
+          "rationale": "Describing men as 'weak' implies that being capable and effective is valued and that failing in these qualities is grounds for ridicule."
+        },
+        {
+          "level_3_value": "Be courageous",
+          "rationale": "Labeling men as 'foolish' suggests they lack bravery or conviction, implying that courage is an important ideal."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The slur implies these men have little sway or authority, highlighting a preference for individuals who can shape events and decisions."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By insulting men for supposedly being overly deferential or submissive, the frame underscores the value of having clear leadership and command."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The entire insult hinges on shaming men socially, indicating that preserving one's social standing and avoiding negative labels is culturally important."
+        }
+      ]
+    }
+  }
+}

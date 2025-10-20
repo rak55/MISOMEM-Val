@@ -1,0 +1,576 @@
+{
+  "f7717": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional norms by blaming women for relationship failures, pressuring them to maintain existing social order and avoid deviance."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By faulting women for bad relationships, the frame demands they follow peer expectations about how to conduct themselves romantically to be accepted."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame highlights the shame associated with poor relationship choices, pushing women to protect their social standing and honor among their community."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a social recognition",
+          "rationale": "The frame pressures women to adhere to approved relationship norms so they can ‘Have a social recognition’ and gain acceptance from others."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "By blaming women for being in bad relationships, the frame urges them to avoid missteps in love in order to ‘Have a good reputation’ and prevent social stigma."
+        }
+      ]
+    }
+  },
+  "f6040": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional social norms and discouraging behavior (provocative dressing) that is seen as disruptive to social order and moral standards."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes the idea that women should adhere to longstanding cultural or religious norms about modest dress."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By claiming women who dress provocatively are ‘teasing men,’ the frame enforces informal social rules prescribing modest attire and proper conduct."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame suggests women must avoid upsetting others (men) by not provoking them with revealing clothing, stressing the avoidance of interpersonal disturbance."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame implies that a woman’s public image and reputation depend on modest dress, warning that provocative attire harms one’s social standing."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Women are expected to follow established customs of modest dress rather than adopt modern or revealing styles."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame labels provocative dressing as improper behavior, urging women to conform to accepted dress codes."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Women are admonished not to ‘tease’ or disturb men, reinforcing the value of politeness and consideration for others’ feelings."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The frame warns that provocative attire damages a woman’s social reputation, promoting modest dress to protect public image."
+        }
+      ]
+    }
+  },
+  "f6109": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes material wealth and resource management, accusing women of failing to manage money properly, which highlights the importance of material resources and status."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame stresses adherence to social norms and stability around financial conduct, implying that deviation from these norms (financial irresponsibility) is problematic."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame centers on possession and control of financial resources, suggesting that women lack control over their material assets."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "By labeling women as financially irresponsible, the frame invokes concerns about personal financial security and the risks of debt accumulation."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame implies that proper financial behavior requires discipline and adherence to social rules regarding money management."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The accusation underscores the value of accumulating and maintaining wealth, implying that financial success is an important goal women are failing to achieve."
+        },
+        {
+          "level_3_value": "Have no debts",
+          "rationale": "By framing women as financially irresponsible, it highlights the importance of avoiding debt and maintaining debt-free status."
+        },
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "The frame suggests that proper handling of finances requires self-discipline and restraint in spending, which women supposedly lack."
+        }
+      ]
+    }
+  },
+  "f6121": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men’s superiority and the need for control over women, highlighting personal dominance and status enhancement."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame implies a desire to maintain traditional social norms by expecting women to conform to acceptable behavior and not upset men."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The statement suggests that women inherently obstruct men’s lives, implying that men should assert control and command to manage women’s behavior."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By blaming women for making men’s lives difficult, the frame reinforces the norm that women should behave politely and avoid causing trouble."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame presupposes that men deserve the authority to direct and control women to prevent them from causing difficulties."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The criticism of women for making life difficult implies an expectation that women should conform to polite behavior and not upset men."
+        }
+      ]
+    }
+  },
+  "f7286": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame depicts women as driven by a desire for external validation and social standing, which aligns with self-enhancement's focus on personal success and public image."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame centers on women seeking to bolster their public image and gain approval from others, a clear invocation of the importance of social recognition and reputation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The message suggests women cheat in order to achieve respect and validation from an audience, directly reflecting a drive for social recognition."
+        }
+      ]
+    }
+  },
+  "f2401": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame emphasizes companies’ desire for autonomy and the ability to act without external influence, reflecting a value on flexible, independent action."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame defends companies’ authority and interests, highlighting aspirations for power, control, and advantage over external pressures."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame values preserving societal order and stability by resisting perceived disruptive pressure from feminist media."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame appeals to fairness and impartial standards, advocating for decisions based on objective criteria rather than biased influences."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame insists companies should have the freedom to choose their actions and policies without being coerced by external groups."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame upholds the companies’ right to maintain control and authority over their decision-making processes."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that feminist media pressure threatens social stability and collective well-being, emphasizing a need to protect society from disruption."
+        },
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "The frame calls for decisions grounded in impartial and logical reasoning rather than in emotional or ideological bias."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "Reflects the belief that companies should operate independently without external coercion, aligning with self-direction (action)."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Highlights companies’ entitlement to make final decisions and exert control, corresponding to power (dominance)."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Expresses the concern that undue pressure undermines societal order, mapping to security (societal)."
+        },
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "Emphasizes reliance on unbiased, logical perspectives in decision-making, consistent with universalism (objectivity)."
+        }
+      ]
+    }
+  },
+  "f2636": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional gender roles and maintaining existing social norms by asserting that women must know how to cook."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds the traditional expectation that women should inherently possess cooking skills, reinforcing cultural customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame enforces compliance with social rules by blaming women or their mothers for failing to meet the obligation of cooking."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame stresses adherence to the long-standing custom that women are responsible for cooking."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame demands obedience to the informal social rule requiring women to know how to cook, labeling deviations as fault."
+        }
+      ]
+    }
+  },
+  "f5841": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining established gender roles by suggesting women should stay in a subordinate position in driving contexts."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "It elevates men’s status by portraying them as inherently superior drivers and deserving of authority over women."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It appeals to inherited cultural norms about gender roles, reinforcing the idea that driving is traditionally a male domain."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It leverages peer pressure and social expectations by blaming women collectively and insisting they conform to the group’s negative stereotype."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It asserts hierarchical control by claiming men have the right to command and criticize women’s driving."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Honor traditional gender roles",
+          "rationale": "This fine-grained value reinforces the Tradition context by urging deference to established male-dominant driving norms."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Aligned with Conformity (interpersonal), it suggests women should adhere to social etiquette and not challenge male authority."
+        },
+        {
+          "level_3_value": "Assert authority",
+          "rationale": "Reflecting Power (dominance), it legitimizes men’s right to command and control women drivers."
+        }
+      ]
+    }
+  },
+  "f4226": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame condemns deviation from traditional family roles and stresses maintaining social order and stability by blaming single mothers for societal harm."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The argument upholds the traditional nuclear family as a moral ideal and criticizes single motherhood for departing from inherited customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame enforces adherence to social norms and mothers’ obligations by blaming those who do not comply with expected family structures."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It invokes the need for a stable and safe society by portraying single motherhood as a threat that leads to criminal violence."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By shaming single mothers for raising rapists, the frame emphasizes protecting public reputation and avoiding social stigma."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame promotes honoring the traditional family model and criticizes departures from this custom."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It frames single mothers’ choices as violations of expected conduct and calls for proper social behavior."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The message links upholding conventional family structures to preventing crime and ensuring societal stability."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "By blaming single mothers, the frame underscores the importance of maintaining respectability and avoiding humiliation."
+        }
+      ]
+    }
+  },
+  "f5742": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes economic loss and the importance of maintaining material resources and wealth."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame implicitly defends the existing social order and traditional gender roles against change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The argument centers on salaries being halved, highlighting a threat to material wealth."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By blaming feminism for altering workforce demographics, the frame calls for preserving traditional gender roles and workplace composition."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The frame focuses on preserving high salaries and financial prosperity."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame seeks to uphold traditional societal structures by opposing feminist-driven changes in the workforce."
+        }
+      ]
+    }
+  },
+  "f348": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame encourages women to act based on personal gain and advantage rather than broader social or moral considerations, highlighting a focus on self-interest."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By suggesting women should only support equality when it benefits them, the frame appeals to acquiring influence or control over outcomes for personal advantage."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The frame implies that backing gender equality is valuable only if it serves to increase one’s own influence or leverage, making personal power the key consideration."
+        }
+      ]
+    }
+  },
+  "f6285": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame scapegoats women to reinforce hierarchical control and dominance over them, aiming to strengthen the position of the dominant group."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By blaming women for a global pandemic, the frame seeks to restore and maintain social order and traditional structures by identifying a scapegoat deemed responsible for societal instability."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame’s call to blame women implies enforcing hierarchical authority and control over them, reflecting a desire for dominance over the targeted group."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By portraying women as the cause of a societal crisis, the frame appeals to the value of preventing chaos and preserving societal stability through assigning blame."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame relies on traditional gender roles by blaming women collectively, reinforcing patriarchal norms and resisting changes to established social hierarchies."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Scapegoating women to reassert clear hierarchies and justify who holds authority reflects the endorsement of commanding power structures."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Assigning blame for a crisis to women evokes the need to protect societal stability by targeting and controlling a supposed source of disorder."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Blaming women as a group reinforces adherence to patriarchal traditions and discourages deviation from established gender norms."
+        }
+      ]
+    }
+  },
+  "f3809": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame emphasizes seeking happiness and pleasure by avoiding perceived negative influences, aligning with the desire for personal enjoyment and emotional well-being."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The advice to avoid certain women as a means to achieve happiness directly appeals to maximizing pleasure and minimizing discomfort."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The core recommendation is framed around attaining happiness (pleasure) by steering clear of negative individuals, highlighting a focus on sensuous gratification and enjoyment."
+        }
+      ]
+    }
+  },
+  "f5288": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional social order and stability by silencing a group (women) perceived as disruptive."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts dominance over women, aiming to preserve the speaker’s or societal in-group’s status and control by silencing women’s voices."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes the idea that women must adhere to traditional gender roles of silence and deference."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By labeling women’s speech as annoying and unimportant, the frame pressures individuals to avoid behaviors that might upset others."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly calls for commanding women to be silent, reflecting a desire for hierarchical control over them."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It implies that society’s stability depends on silencing women, portraying their speech as a threat to social order."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame argues that women should follow longstanding conventions about female silence."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "It characterizes women’s voices as annoying, urging them to refrain from speech to avoid upsetting others."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame endorses the authority of those in power (implicitly men) to enforce women’s silence."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "It suggests that silencing women is necessary to prevent social disruption and maintain order."
+        }
+      ]
+    }
+  },
+  "f5722": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes the importance of leadership competence and control, suggesting that only certain individuals (implicitly men) should hold power, reflecting a value on personal success and dominance."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends a traditional social order and argues that allowing women into leadership would threaten societal norms, reflecting a value on maintaining established traditions and stability."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The frame argues that women are inherently not good leaders, invoking the importance of competence and success aligned with social norms for effective leadership."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By stating women should not lead, the frame implies only the 'right' people (implicitly men) deserve command, highlighting a value on controlling leadership positions."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to preserving conventional gender roles, suggesting leadership has historically been a male domain that should remain unchanged."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame implies that societal stability depends on maintaining male leadership and that including women would disrupt the social order."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be capable",
+          "rationale": "The frame devalues female leadership by implying only truly capable (implicitly male) individuals should lead."
+        },
+        {
+          "level_3_value": "Have success",
+          "rationale": "The frame suggests that effective leadership must result in success, and women cannot deliver successful outcomes."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame asserts that only certain individuals deserve leadership roles, reinforcing hierarchies of command."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame invokes the preservation of traditional gender roles, emphasizing continuity with past practices."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame implies that societal stability is at risk if women assume leadership positions."
+        }
+      ]
+    }
+  }
+}

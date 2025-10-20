@@ -1,0 +1,342 @@
+{
+  "f3918": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for maintaining traditional gender norms and resisting deviation, emphasizing stability and preservation of the social order."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame encourages asserting dominance over trans women and elevates in-group status through mockery, reflecting a pursuit of power over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By deeming trans women worthy of ridicule, the frame reinforces adherence to established cultural and gender traditions and discourages nonconformity."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame advocates exercising control and authority over a marginalized group by mocking them, demonstrating a value placed on dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Mocking trans women is used to enforce and uphold the traditional binary understanding of gender roles, signaling respect for established customs."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The call to mock trans women implies a hierarchical right to direct social behavior and impose ridicule, reflecting an asserted authority over them."
+        }
+      ]
+    }
+  },
+  "f1632": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional gender norms and discourages deviation from established conventions of femininity, reflecting a desire to preserve the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame endorses a conventional, historical concept of femininity—linking womanhood to physical traits like breast size—thereby promoting traditional cultural values."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By declaring athletic women with smaller breasts as ‘not feminine,’ the frame implies that women must comply with rigid gender rules to be accepted."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame emphasizes the importance of maintaining a feminine public image, suggesting that women’s social acceptance depends on conforming to certain appearance standards."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Argues implicitly that women should follow long-standing gender norms regarding body shape to be recognized as feminine."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Implies that women must abide by prescribed rules of femininity—such as having larger breasts—to avoid social stigma."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Stresses that maintaining a socially approved feminine image (with a certain body type) is crucial for women’s acceptance."
+        }
+      ]
+    }
+  },
+  "f1177": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "This frame emphasizes the need to maintain traditional gender roles and uphold the existing social order, resisting changes posed by feminism."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to upholding longstanding gender norms, suggesting feminist ideas deviate from established customs."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It pressures individuals to conform to traditional expectations of women and discourages deviation through feminist beliefs to maintain group harmony."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By linking feminism to social disruption, it emphasizes preserving societal stability through adherence to traditional gender roles."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Encourages women to honor and follow established cultural norms around femininity to avoid the perceived threat of feminism."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Emphasizes courteous and respectful interactions that align with traditional feminine manners, framing feminism as a breach of proper politeness norms."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Highlights the importance of social cohesion and portrays feminism as a destabilizing force against societal harmony."
+        }
+      ]
+    }
+  },
+  "f4959": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame advocates violence to assert dominance and control over a marginalized group, reflecting a desire to increase one’s own power at the expense of others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to preserve traditional gender norms and social order by punishing those who deviate, emphasizing stability and resistance to change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly calls for violent control over transgender individuals, reflecting the pursuit of dominance over others."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame justifies violence as a means to protect society’s existing norms and maintain social cohesion by eliminating perceived threats."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame opposes transgender identities as violations of traditional gender roles and seeks to punish deviations to uphold customary values."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame enforces compliance with rigid gender norms and advocates punitive measures for those who do not conform."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Advocating violence is a means to exert greater control and influence over transgender individuals’ lives."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Justifying violence to remove perceived threats aligns with the value of maintaining social order and preventing disorder."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Punishing transgender individuals enforces adherence to traditional gender customs and norms."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The call for violence serves as a deterrent, enforcing strict compliance with established gender rules."
+        }
+      ]
+    }
+  },
+  "f4965": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional gender categories and maintaining the existing social order by preventing perceived disruption."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The statement defends traditional binary definitions of gender and rejects changes to long-standing norms in sports."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It suggests that allowing transgender women to compete would threaten the stability and fairness of women’s sports and society’s ordered structures."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame emphasizes following existing sports rules and classifications, enforcing compliance with established regulations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The argument rests on upholding and honoring traditional practices of gender separation in sports."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The statement implies that social stability depends on keeping sports categories unchanged and orderly."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It calls for strict adherence to current sports regulations and rules without exception."
+        }
+      ]
+    }
+  },
+  "f5926": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends traditional gender norms and calls for maintaining the existing social order, excluding transgender people from authority roles to preserve established structures."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By asserting that transgender individuals are unsuitable for positions of authority, the frame aims to preserve power and dominance within a specific in-group, reinforcing hierarchical control."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message appeals to preserving cultural and social traditions around gender, implying transgender identities violate long‐standing norms and thus should be excluded from leadership."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame restricts authority to cisgender individuals, emphasizing the right of a particular group to command and maintain control over positions of power."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By mocking and deeming transgender people unfit for authority, the frame enforces respect for traditional gender roles and disparages those who deviate."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The statement implies that only certain (cisgender) individuals are entitled to leadership, preserving their exclusive right to hold power and authority."
+        }
+      ]
+    }
+  },
+  "f4992": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame demands adherence to strict gender norms and resists deviations, reflecting a desire for social stability and order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame imposes a rule that transgender individuals must fully transition to be considered valid, emphasizing compliance with prescribed social rules."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds traditional gender binaries and resists non-traditional gender identities, reinforcing established cultural practices."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The demand that transgender individuals fully transition enforces strict adherence to social expectations and rules."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By insisting on complete transition, the frame emphasizes maintaining traditional gender roles and cultural customs regarding gender identity."
+        }
+      ]
+    }
+  },
+  "f901": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional gender norms by mocking deviations (suggesting women are transgender), reflecting a desire to maintain existing social and moral structures."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By endorsing mockery, the frame asserts dominance over Thai women, reinforcing the in-group’s superiority and power over the targeted group."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The mockery hinges on enforcing conventional ideas of gender and penalizing those who deviate, showing respect for traditional gender roles."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame uses insult as a tool to assert control and superiority over the targeted group, aiming to dominate social perception."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The disparagement of gender non-conformity serves to uphold and reinforce long-standing cultural norms about gender identity."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The frame seeks to shape attitudes by using mockery, thereby exercising social influence and reinforcing the speaker’s dominance."
+        }
+      ]
+    }
+  },
+  "f4815": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes the use of violence and intimidation to assert control over sex workers, reflecting a focus on personal power and dominance over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly endorses physical violence and intimidation as acceptable means to subjugate and control sex workers, highlighting the value of exerting dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By suggesting that one can legitimately use force to test a sex worker’s authenticity, the frame implies that certain individuals have the rightful authority to command and control others through violence."
+        }
+      ]
+    }
+  },
+  "f7504": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving existing social norms regarding attractiveness and discourages deviation, reflecting a preference for maintaining traditional standards and resisting change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By insisting that cross-dressing individuals must adhere to conventional standards of attractiveness, the frame calls for compliance with informal social conventions and norms about proper appearance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The message upholds conforming to established beauty standards as a criterion for acceptance, directly invoking the value of avoiding violation of social conventions about appearance."
+        }
+      ]
+    }
+  }
+}

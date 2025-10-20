@@ -1,0 +1,190 @@
+{
+  "f162": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes the speaker’s dominance and status by encouraging public ridicule of women’s vulnerabilities, aligning with a value on asserting control and boosting one’s own standing."
+        },
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame treats mockery and humor as a form of personal enjoyment and novelty, highlighting the value of pursuing pleasure through comedic expression."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Endorsing mockery over women’s emotional struggles enforces control and superiority over them, reflecting a desire for dominance in social interactions."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "Presenting women’s emotional pain as valid humor underscores a pursuit of pleasure from mocking, framing amusement as a primary goal."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Mocking vulnerable individuals increases the mocker’s social influence by dictating what is acceptable humor and shaping group norms."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The frame explicitly justifies deriving enjoyment from ridiculing women’s emotional issues, emphasizing that personal gratification is acceptable."
+        }
+      ]
+    }
+  },
+  "f3601": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame trivializes suicide by encouraging joking and humor over seriousness, emphasizing a lighthearted and pleasure-driven approach to a sensitive issue, which aligns with valuing novelty and enjoyment."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The message promotes deriving pleasure from joking about suicide, prioritizing fun and amusement even in contexts where sensitivity and seriousness are typically expected."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "By framing suicide as something to joke about, the discourse directly appeals to seeking enjoyment and amusement, treating a grave issue as a source of pleasure."
+        }
+      ]
+    }
+  },
+  "f4865": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame valorizes novelty and excitement by suggesting women with mental health or addiction issues are more ‘exciting’ or ‘interesting,’ appealing to a desire for change and new experiences."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "The emphasis on women being ‘more exciting’ or ‘interesting’ aligns with the Stimulation value, which prizes experiencing excitement, novelty, and variety."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have an exciting life",
+          "rationale": "The frame implies that associating with women who have mental health or addiction issues will make one’s life more thrilling and stimulating, reflecting the desire for an ‘exciting life.’"
+        }
+      ]
+    }
+  },
+  "f1013": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining social order and resisting disruptive influences, reflecting a desire for stability and preservation of existing norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame criticizes women for violating expected behavioral norms through emotional outbursts, appealing to adherence to formal and informal rules."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By focusing on how women's emotional instability upsets and disrupts others, the frame invokes the value of avoiding harm and maintaining harmony in personal interactions."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The portrayal of women as inherently destabilizing suggests a threat to wider societal stability, appealing to the value of preserving a safe and orderly social environment."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The claim that women’s emotional outbursts are disruptive implies they are failing to conform to proper social conduct."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "By highlighting how women’s behavior upsets others, the frame evokes the importance of politeness and not causing emotional distress."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Characterizing women as a source of societal disruption underlines a need for social stability and order to be maintained."
+        }
+      ]
+    }
+  },
+  "f3143": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame emphasizes using sexual pleasure as a remedy and trivializes mental health issues, prioritizing personal enjoyment and novel experiences over structured care or tradition."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame proposes that sensuous gratification (sexual acts) is the solution to depression, directly appealing to pleasure as a good in itself."
+        },
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "By suggesting excitement through sexual activity can cure mental health problems, it highlights novelty and thrilling experiences as central values."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The use of sexual acts as a cure centers on achieving immediate sensual gratification as the core benefit."
+        },
+        {
+          "level_3_value": "Have an exciting life",
+          "rationale": "The framing encourages seeking thrilling, stimulating sexual experiences as a way to resolve depression."
+        }
+      ]
+    }
+  },
+  "f6088": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to dismiss feminist concerns and preserve existing gender hierarchies and social order, resisting change posed by feminism."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By labeling feminists as mentally ill, the frame asserts superiority over them and reinforces in-group dominance."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds traditional gender norms by portraying feminism as deviant and harmful to cultural and family traditions."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame implies that feminism destabilizes society, advocating for a return to a stable, established social structure."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame diminishes feminists’ authority and justifies controlling or silencing them to maintain dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame defends adherence to traditional gender roles and discourages challenges to established customs."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "By dismissing feminist concerns as mental illness, the frame argues for preserving social stability and avoiding feminist-driven change."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame justifies the in-group’s authority to delegitimize and silence feminist voices, reinforcing hierarchical control."
+        }
+      ]
+    }
+  }
+}

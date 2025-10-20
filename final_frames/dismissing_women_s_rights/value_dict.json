@@ -1,0 +1,368 @@
+{
+  "f1564": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts a hierarchical social order by denying women equal rights, promoting the dominance of one group over another."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to preserve traditional gender roles and maintain the existing social status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By stating that women do not deserve equal rights, the frame emphasizes control and authority of one group over another."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame implies that traditional norms and practices justify denying women equal status and rights."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The statement justifies a hierarchy in which one group (men) retains the authority to make decisions and command, excluding women."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame invokes adherence to traditional social and cultural practices that historically relegated women to subordinate roles."
+        }
+      ]
+    }
+  },
+  "f7267": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes asserting dominance over women through physical violence, aiming to increase the aggressor's control and status over another group."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to preserve traditional gender hierarchies and resist social change that grants women rights and equality."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By advocating physical assault, the frame emphasizes control and command over women, seeking to reinforce male authority."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame dismisses women’s rights as illegitimate, aligning with preserving patriarchal customs and resisting modern gender equality."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Encouraging physical violence to enforce male authority implies a belief that men should have unquestioned command over women."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Denying women’s rights and advocating assault appeals to maintaining traditional gender roles and customs."
+        }
+      ]
+    }
+  },
+  "f6761": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame seeks to justify discriminatory behavior to maintain and increase power over women, reflecting a desire for dominance and control."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame argues that women are wrong and therefore men should have authority over them, endorsing a hierarchical power structure."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By asserting that sexism is justified because women are wrong, the frame implies that men inherently deserve the authority to command and control women."
+        }
+      ]
+    }
+  },
+  "f1433": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame challenges the authority of religious doctrine and implies support for questioning and rethinking entrenched beliefs, indicating a value placed on intellectual and ideological freedom."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame centers on religious texts and traditions, highlighting their role in maintaining existing social hierarchies and norms, which are core concerns of social stability and tradition."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "By drawing attention to gender inequality and the need to challenge it, the frame invokes concern for the welfare and equal treatment of all people beyond one’s own group."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (thought)",
+          "rationale": "Questioning the justification provided by religious texts reflects a value placed on freedom of thought and the right to form one’s own beliefs independently of authority."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The emphasis on religious texts as a source of social norms underlines the importance of longstanding cultural and religious traditions in justifying behavior."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame points to compliance with religious doctrines as leading to gender inequality, indicating the role of rule-following in maintaining social order."
+        },
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "Highlighting gender inequality and the need to oppose it reflects a commitment to fairness and the equal treatment of all individuals."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of thought",
+          "rationale": "Challenging the unquestioned authority of religious texts presumes a right to think independently and critically about established doctrines."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By identifying religious texts as a reference point for social norms, the frame evokes the practice of honoring and adhering to inherited cultural and religious customs."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame notes that following religious rules can perpetuate inequality, underscoring the impact of compliance with formal and informal norms."
+        },
+        {
+          "level_3_value": "Have equality",
+          "rationale": "Calling out gender inequality as a problem implies a value that all genders deserve equal rights and treatment."
+        }
+      ]
+    }
+  },
+  "f3134": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes maintaining male dominance and control over decision-making, reflecting a desire for power over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame invokes preserving traditional gender roles and the existing social order by excluding women from voting."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts that men should hold exclusive authority and decision-making power, emphasizing control over women."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By barring women from voting, the frame appeals to traditional cultural norms and gender roles to justify exclusion."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that excluding women is necessary to maintain societal stability and avoid disruption of the status quo."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that men alone should have the authority to direct and make decisions for society, excluding women from command."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame argues for adherence to longstanding gender norms, portraying the exclusion of women as respect for tradition."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame implicitly claims that allowing women to vote would destabilize social order, positioning exclusion as a means to preserve stability."
+        }
+      ]
+    }
+  },
+  "f3805": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame seeks to elevate the speaker’s or dominant group’s status by devaluing and silencing women, indicating a focus on enhancing one’s own power over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By declaring women’s opinions invalid and unworthy of respect, the frame asserts control over who is allowed to have a voice and maintains hierarchical gender relations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The frame denies women influence in discussions about objectification by deeming their perspectives unworthy, thereby preserving the speaker’s control over the narrative."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that only those in the dominant group (implicitly men) have the legitimate authority to speak and that women lack this right."
+        }
+      ]
+    }
+  },
+  "f5248": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame promotes maintaining restrictive traditional norms and resisting change by asserting that Muslim women should have limited freedoms, aligning with the conservative emphasis on preserving existing social structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame justifies the restriction of women’s freedoms based on the idea that it is part of longstanding cultural or religious customs that must be honored."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By stating that women are ‘meant’ to be restricted, the frame calls for strict adherence to prescribed social or religious rules limiting behavior and freedoms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message implies that women should follow and honor traditional practices that limit their freedoms."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame demands that women obey and comply with restrictive rules governing their behavior and freedoms."
+        }
+      ]
+    }
+  },
+  "f1507": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for preserving traditional social norms and stability by insisting women conform to established roles and remain silent."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It appeals to maintaining conventional gender roles and longstanding cultural practices regarding women's behavior."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It emphasizes not upsetting others and behaving in a socially acceptable manner by being submissive and quiet."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame reinforces adherence to traditional gender expectations, urging women to follow customary roles without challenge."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "By instructing women to be quiet and submissive, it stresses avoiding disturbance and annoyance to others."
+        }
+      ]
+    }
+  },
+  "f3676": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for preserving existing social hierarchies and resisting change by demanding women accept the status quo of financial inequality."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The statement upholds traditional gender roles by insisting that women conform to established financial disparities."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It demands compliance with the existing financial hierarchy and social norms without challenge."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The message implies that accepting financial inequality is necessary to maintain societal order and stability."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame suggests women should adhere to long-standing norms about gendered financial roles."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It encourages women to obey and not question the established financial hierarchy."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "By linking acceptance of inequality to societal well-being, the frame invokes the value of maintaining social stability."
+        }
+      ]
+    }
+  },
+  "f5244": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men’s dominance and superiority by asserting their exclusive entitlement to leadership roles, reflecting a focus on power and status over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to maintain and preserve traditional gender norms and social structures by excluding women from leadership, reflecting a desire for stability and adherence to past practices."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts that only men can hold positions of control and authority, prioritizing hierarchical power relations."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to and reinforces longstanding cultural norms about gender roles, promoting the preservation of traditional practices."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The statement explicitly confers the exclusive right to lead and make decisions to men, asserting their legitimate authority over others."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The statement invokes and defends traditional gender roles by presenting male-only leadership as a customary and proper way of organizing society."
+        }
+      ]
+    }
+  },
+  "f6558": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men's control and dominance over women, valuing power and hierarchical status."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly asserts that women’s rights are only valid insofar as they serve men, endorsing men’s authority and dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The message implies that men have the legitimate authority to command and direct women’s roles and rights."
+        }
+      ]
+    }
+  }
+}

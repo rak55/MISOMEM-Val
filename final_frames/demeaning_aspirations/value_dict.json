@@ -1,0 +1,444 @@
+{
+  "f2524": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame dismisses women's autonomy and desire for new experiences, thus contradicting the value of Openness to Change."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By devaluing women's aspirations and achievements, the frame undermines the importance of personal success and power inherent in Self-Enhancement."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The message enforces conformity and the maintenance of traditional gender roles, aligning with Conservation values."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (thought)",
+          "rationale": "The frame challenges women's freedom to think independently and form their own aspirations."
+        },
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "It denies women the autonomy to pursue their own goals and take actions aligned with their interests."
+        },
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The frame dismisses the importance of striving for success and recognition in women's lives."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By trivializing women's dreams, the frame reinforces adherence to traditional gender expectations."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It pressures women to conform to societal norms by demeaning their individual aspirations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of thought",
+          "rationale": "The message denies women the right to think freely about their own goals and aspirations."
+        },
+        {
+          "level_3_value": "Be creative",
+          "rationale": "It undermines women's creativity by suggesting their ideas and dreams are unimportant."
+        },
+        {
+          "level_3_value": "Be choosing your own goals",
+          "rationale": "The frame devalues women's autonomy in setting and pursuing personal objectives."
+        },
+        {
+          "level_3_value": "Be ambitious",
+          "rationale": "It trivializes ambition in women, implying that they should not aspire to succeed."
+        },
+        {
+          "level_3_value": "Have success",
+          "rationale": "The frame dismisses the importance of women's achievements and successful outcomes."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By demeaning women's aspirations, it promotes adherence to traditional roles over personal growth."
+        }
+      ]
+    }
+  },
+  "f4583": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts that women should not hold power and only men should run the world, highlighting the importance of control over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame relies on preserving traditional gender hierarchies and maintaining social stability by preventing women from assuming leadership roles."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The statement emphasizes that only certain individuals (implicitly men) should have command and control over society, excluding women from leadership."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The argument appeals to long-standing gender roles and customs that have historically kept women out of positions of authority."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The claim warns that allowing women to lead would destabilize society, implying that traditional gender structures ensure social order."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame demands adherence to established gender norms and rules, urging compliance with traditional expectations about male leadership."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame suggests that only the ‘right’ people—i.e., men—should take charge, enforcing a hierarchy that excludes women."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The argument upholds established gender customs by insisting that women remain outside leadership roles."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The statement claims societal stability depends on preserving male-exclusive leadership and avoiding the ‘chaos’ purportedly caused by women in power."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame pressures individuals to comply with traditional gender norms, discouraging deviation from prescribed roles (women as non-leaders)."
+        }
+      ]
+    }
+  },
+  "f6218": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame criticizes the traditional housewife role as delusional and inferior, implying women should break free from restrictive conventions and pursue new, self-determined paths."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By labeling housewifery as inferior, the frame elevates the importance of personal ambition, competence, and outward success over staying in a traditional domestic role."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame implicitly calls on women to reject the limited domestic sphere and take control of their own life choices and actions outside the home."
+        },
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The frame denigrates a non-career role and thus valorizes being ambitious, capable, and successful according to societal standards of accomplishment."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "be independent",
+          "rationale": "The rejection of the housewife role suggests women should gain independence rather than remain tied to domestic dependence."
+        },
+        {
+          "level_3_value": "have freedom of action",
+          "rationale": "By portraying the housewife role as inferior, the frame promotes the idea that women ought to have the liberty to choose their own professional and personal activities."
+        },
+        {
+          "level_3_value": "be ambitious",
+          "rationale": "Calling the traditional domestic role delusional elevates the value of ambition and striving for higher goals beyond home duties."
+        },
+        {
+          "level_3_value": "be capable",
+          "rationale": "Dismissing housewifery as an inferior pursuit underscores the importance of competence and effectiveness in roles deemed meaningful."
+        },
+        {
+          "level_3_value": "have success",
+          "rationale": "The frame positions external success as the measure of a worthwhile role, devaluing purely domestic work and urging women toward recognized achievements."
+        }
+      ]
+    }
+  },
+  "f2108": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame insists on maintaining existing social roles and hierarchies, discouraging change and preserving traditional gender arrangements."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By restricting women to menial tasks, the frame appeals to long-standing customs and gender roles as unquestionable norms."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame enforces adherence to unspoken social conventions, implying that women must comply with prescribed subordinate roles."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It suggests that societal stability depends on everyone staying in their assigned positions, with women confined to low-status work."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The statement justifies limiting women’s roles by invoking respect for inherited cultural and familial practices defining gender duties."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It frames the prescribed subordination of women as proper behavior, discouraging deviation from established gender norms."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "By arguing that women must remain in menial positions, it implies that societal order and harmony rely on fixed gender hierarchies."
+        }
+      ]
+    }
+  },
+  "f6361": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional gender roles and preserving existing social structures regarding women's domestic responsibilities."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It advocates for adherence to long-standing customs that assign domestic chores as the primary role of women, reflecting the preservation of cultural practices."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It implies that social stability and order depend on women performing domestic duties, suggesting that these roles are necessary for a stable society."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message stresses following traditional practices by insisting women’s main function is domestic work, underscoring respect for established norms."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame connects women’s domestic roles to the maintenance of social order, implying that society’s stability relies on these gendered responsibilities."
+        }
+      ]
+    }
+  },
+  "f5610": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame resists changing traditional gender roles and calls for preserving existing social norms about women’s place, reflecting a desire to conserve established practices and norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to maintaining long-standing cultural traditions that women belong in private/domestic spheres rather than in workplaces, invoking the importance of following established practices."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By suggesting that women should not be valued in the workplace, the frame implies that social stability depends on upholding the existing gender hierarchy and avoiding disruptions to the traditional social order."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message encourages adherence to traditional gender norms and roles, promoting the preservation of customary practices that exclude women from professional environments."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The framing suggests that maintaining the gender status quo in the workplace is necessary to prevent societal disruption and ensure the stability of the broader social structure."
+        }
+      ]
+    }
+  },
+  "f616": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame discourages change by praising maintenance of traditional gender roles and warning against women seeking new rights, aiming to preserve the existing social order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to preserving established cultural norms for women, implying they should adhere to traditional roles rather than advocate for rights."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "By warning that women who seek rights will be unhappy and unsuccessful, the frame invokes the value of personal stability, happiness, and comfort."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame implies women must follow prescribed social rules and avoid activism, casting rights advocacy as improper behavior with negative consequences."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame encourages women to uphold long-standing gender norms and family customs instead of pursuing new rights."
+        },
+        {
+          "level_3_value": "Have a comfortable life",
+          "rationale": "The message warns that rights advocacy leads to unhappiness and failure, emphasizing the importance of personal well-being and comfort."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "By labeling activism as a path to personal failure, the frame enforces conformity to expected social behavior for women."
+        }
+      ]
+    }
+  },
+  "f863": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame discourages women from challenging objectification and seeks to preserve traditional gender norms and social order, resisting change to the status quo."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame reinforces power and dominance by mocking women, asserting authority over them and elevating the speaker’s social control."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame implicitly appeals to maintaining patriarchal cultural traditions by condemning women who deviate from expected gender roles."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame emphasizes avoiding upsetting others and demands that women remain polite and deferential rather than challenge objectification."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame endorses men’s right to subordinate and ridicule women, reinforcing a hierarchical relationship and control over them."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It suggests that women should abide by traditional gender roles and not challenge the status quo by speaking out."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "It imposes the expectation that women remain quiet and well-behaved, avoiding actions that might upset men."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It positions men as rightful authorities who can mock and control women who dare to speak out against objectification."
+        }
+      ]
+    }
+  },
+  "f2021": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame discourages change in women’s fashion and emphasizes maintaining established norms, reflecting a preference for preserving the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame asserts that women should stick to traditional fashion standards rather than innovating, valuing adherence to cultural customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame promotes compliance with existing fashion norms and suggests that deviations from these rules merit ridicule."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame valorizes following traditional fashion practices and condemns attempts to revolutionize them as outdated."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame advocates adherence to established fashion norms by implying that those who deviate should be mocked."
+        }
+      ]
+    }
+  },
+  "f5343": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional social structures and discouraging change in women's roles, reflecting a priority on preserving existing norms and stability."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame defends traditional roles for women and portrays deviation from those roles as inherently immoral, highlighting the importance of honoring and preserving cultural customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By condemning women who reject traditional roles as engaging in 'degrading sexual acts,' the frame reinforces adherence to social rules and proper behavior, implying that deviation violates accepted norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame criticizes women for abandoning traditional roles, signaling that following established customs and gender expectations is considered morally correct."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Labeling the sexual behavior of nonconforming women as 'degrading' invokes a moral standard of proper conduct and shames those who deviate from accepted social conventions."
+        }
+      ]
+    }
+  },
+  "f6259": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional gender roles and maintaining the existing social order by urging women to prioritize serving men over pursuing other interests."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame endorses male authority and control, valuing men’s positions of dominance over women and promoting hierarchical power relations."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to longstanding gender norms and customs by urging women to adhere to the traditional role of serving men."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It prescribes women to obey patriarchal expectations and societal rules about gender roles, demanding compliance with male authority."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It promotes men’s control and authority over women, endorsing a hierarchical relationship in which men command and women serve."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It encourages adherence to long-established customs regarding women’s roles in relation to men."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It demands obedience from women to patriarchal dictates, emphasizing compliance with male authority."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It supports the notion that men should have unquestioned authority and command over women’s actions."
+        }
+      ]
+    }
+  }
+}

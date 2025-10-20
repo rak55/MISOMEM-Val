@@ -1,0 +1,184 @@
+{
+  "f3366": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes asserting men’s superiority and gaining control over women in sexual encounters, reflecting a desire for personal power and dominance over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame centers on men holding positions of control and authority in sexual interactions, highlighting a hierarchical relationship where men dominate women."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The claim that men are superior and dominant in sexual encounters explicitly suggests that men have the authority and right to direct and control sexual situations."
+        }
+      ]
+    }
+  },
+  "f3971": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame highlights the unfair privilege of one group and implies a need for concern and justice beyond personal or in-group interests."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The statement criticizes unequal treatment and suggests an underlying value of fairness and justice for all, reflecting concern for equality and protection of the vulnerable."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have equality",
+          "rationale": "By condemning white male entitlement, the frame invokes the ideal that no group should have unjust advantages and that all should be treated equally under the same rules."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "The critique of one group ‘getting away with anything’ signals a call for impartial justice and fairness, holding everyone to the same standards."
+        }
+      ]
+    }
+  },
+  "f4012": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame devalues men attracted to feminists by labeling them weak and inferior, emphasizing a hierarchy and desire for power or dominance over those seen as weaker."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces traditional norms and seeks to preserve established gender roles and reputational standards by shaming deviations from those norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By branding men attracted to feminists as weak and inferior, the frame implicitly promotes maintaining influence and dominance over others."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The message threatens to damage men’s social standing and reputation if they are seen as attracted to feminists, emphasizing importance of public image."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds traditional gender roles and expresses disapproval of men who deviate by being attracted to feminist women, advocating preservation of existing customs."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The frame implies that real men should retain influence and avoid appearing weak, promoting a desire for control over others."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "By portraying certain men as inferior, the frame underscores the need to protect one’s public image and avoid reputational harm."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame mocks those who depart from traditional gender norms, encouraging adherence to longstanding cultural customs regarding masculinity and relationships."
+        }
+      ]
+    }
+  },
+  "f5848": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional gender norms and advocates punitive measures to maintain the existing social order, reflecting a desire to preserve cultural continuity and stability."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame calls for mocking and punishing those who deviate from norms, emphasizing the exertion of dominance and control over others to reinforce hierarchy."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame explicitly defends traditional masculine roles and disparages any deviation, aligning with valuing the preservation of cultural and gender traditions."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame demands adherence to established masculine norms and threatens mockery or punishment for non-compliance, reflecting the importance of upholding social rules."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that deviation from traditional roles threatens social stability and calls for measures to prevent such deviations, reflecting a desire for a stable and orderly society."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By advocating punishment and mockery of those who deviate, the frame emphasizes the exercise of authority and control over others to enforce norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame promotes adherence to long-standing gender roles and condemns departures from these norms, emphasizing respect for tradition."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame pressures individuals to conform to prescribed masculine behaviors and criticizes those who do not comply."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame portrays deviations from traditional roles as a threat to societal order, promoting the view that social stability depends on fixed gender norms."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame legitimizes the authority of those enforcing gender norms to punish or mock non-conformists, reinforcing hierarchical control."
+        }
+      ]
+    }
+  },
+  "f7478": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes dominance and control by ‘real men’ over women’s bodies, reflecting a desire for power over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces traditional gender norms and calls for adherence to established social conventions about masculinity and female appearance."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The assertion that ‘real men’ should dictate women’s body types implies a belief in the right to command and control others’ appearance."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The idea of what constitutes a ‘real man’ and acceptable female body types draws on traditional cultural norms and gender roles."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame sets up a prescriptive rule that men must prefer a certain body type, enforcing compliance with an informal social norm."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame’s demand that men dictate women’s body preferences reflects an endorsement of commanding authority over others."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By invoking the concept of a ‘real man,’ the frame appeals to maintaining traditional gender customs and roles."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame enforces a norm about proper masculine behavior—men conforming to the rule about body type preference."
+        }
+      ]
+    }
+  }
+}

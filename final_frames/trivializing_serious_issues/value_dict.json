@@ -1,0 +1,184 @@
+{
+  "f5283": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame highlights the need to care for the welfare of those suffering (starvation) and protect fairness, aligning with Self-Transcendence’s focus on empathy and concern for others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for maintaining proper social norms and respect for serious issues, reflecting Conservation’s emphasis on social order and proper behavior."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "The frame criticizes trivializing suffering, implying the value of compassion and caring for those in need."
+        },
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The frame signals the importance of fairness and justice by condemning the disrespect of serious issues."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame advocates for respectful, polite communication that does not trivialize others’ suffering."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be loving",
+          "rationale": "Encouraging empathy and compassion towards those facing starvation aligns with fostering close, caring relationships."
+        },
+        {
+          "level_3_value": "Be helpful",
+          "rationale": "Emphasizing compassion implies taking action to assist or support those who are suffering."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "Condemning the trivialization of serious issues underscores the importance of fairness and protecting the vulnerable."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Opposing disrespectful, trivial humor highlights the need to communicate respectfully and avoid harming others."
+        }
+      ]
+    }
+  },
+  "f2465": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes elevating oneself by demeaning others, reflecting a drive to enhance personal status at the expense of someone else's dignity."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By endorsing insults to control or humiliate another person, the frame appeals to a desire to assert dominance and control over others."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame uses public shaming of someone's appearance as a means to boost one's own social standing and reputation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Insulting someone’s physical appearance is framed as a tool to shape others’ perceptions and assert social control, thereby increasing one’s influence."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "Publicly mocking another’s looks is presented as a way to gain respect or notoriety from others, enhancing the insulter’s own social reputation."
+        }
+      ]
+    }
+  },
+  "f3926": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame encourages rejecting established medical guidelines and promotes novel, unorthodox behavior by trivializing a serious health crisis."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "It emphasizes individual autonomy in deciding the seriousness of the pandemic, urging people to act independently of external authority."
+        },
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "By downplaying health risks, the frame promotes risk-taking and seeks the excitement of living without constraints."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The trivialization of a pandemic centers on maximizing immediate enjoyment and pleasure without concern for potential harm."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "The message calls for the freedom to ignore public health measures and make one’s own choices about pandemic response."
+        },
+        {
+          "level_3_value": "Be independent",
+          "rationale": "It urges individuals not to rely on or follow expert advice, promoting self-reliance in assessing COVID-19’s seriousness."
+        },
+        {
+          "level_3_value": "Be daring",
+          "rationale": "Trivializing a dangerous disease encourages a daring, risk-embracing attitude toward public health threats."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "By minimizing the severity of the pandemic, the frame focuses on preserving leisure and enjoyment despite health risks."
+        }
+      ]
+    }
+  },
+  "f6241": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame invokes stereotypes to maintain traditional gender roles and preserve the social order, reflecting a desire for stability and resistance to change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame trivializes serious issues by reinforcing long-established customs about women’s domestic roles."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It pressures women to adhere to expected social behaviors and norms in interactions, demanding polite and subdued conduct."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "This captures the expectation that women should follow established customs and uphold traditional gender norms."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "This encapsulates the interpersonal pressure for women to conform to polite, nonconfrontational behavior."
+        }
+      ]
+    }
+  },
+  "f5085": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame relies on and highlights societal norms and strict dieting rules about carbohydrate restriction, emphasizing the importance of maintaining existing beauty standards and social order around body control."
+        },
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "By framing the act of eating carbs as brave, the message celebrates defiance of restrictive norms and encourages novelty and risk-taking, aligning with a willingness to embrace change and challenge the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame presupposes a rule or obligation to restrict carbohydrates for body image goals, invoking the cultural value of adhering to formal or informal dietary norms and expectations."
+        },
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "Describing carb consumption as an act of bravery highlights the excitement and risk associated with breaking free from strict dietary conventions, reflecting a desire for novel and thrilling experiences."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "The implicit norm being challenged is the strict self-discipline required to limit carbohydrate intake; the frame’s surprise at defiance underscores the value placed on restraint and self-regulation."
+        },
+        {
+          "level_3_value": "Be daring",
+          "rationale": "Labeling eating carbs before a major event as ‘bravery’ directly evokes the notion of risk-taking and courage, encouraging individuals to challenge restrictive dietary rules."
+        }
+      ]
+    }
+  }
+}

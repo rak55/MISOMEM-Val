@@ -1,0 +1,464 @@
+{
+  "f4537": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional social order and moral norms by warning that false accusations threaten societal stability and established gender roles."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame underscores men’s authority and status, portraying false accusations as a threat to male dominance and personal standing."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame appeals to concern for personal reputation, suggesting that false allegations damage a man’s social standing and honor."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame highlights the need for a stable and secure society by arguing that false accusations undermine trust in institutions and social cohesion."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame stresses adherence to legal norms and due process, portraying false allegations as violations of established rules and justice."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame invokes men’s hierarchical status and authority, suggesting that false accusations threaten male dominance and control."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Aligns with Face: The frame warns that false accusations harm a man’s honor and social image."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Aligns with Security (societal): The frame argues false allegations erode public trust and societal order."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Aligns with Conformity (rules): The frame emphasizes following legal procedures and norms to prevent unjust accusations."
+        },
+        {
+          "level_3_value": "Have influence over others",
+          "rationale": "Aligns with Power (dominance): The frame suggests that men must maintain authority and control to guard against baseless claims."
+        }
+      ]
+    }
+  },
+  "f139": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame depicts women as violating moral norms and social expectations, emphasizing the importance of preserving established traditions and social order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By condemning women’s promiscuity, the frame invokes the need to uphold traditional sexual and family customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "Labeling women as untrustworthy and immoral suggests a desire for individuals to comply with moral rules and social conventions."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The focus on women’s reputations highlights the value of maintaining a good public image and avoiding humiliation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The reproach of women’s promiscuity implies a value placed on adhering to long-standing cultural and familial practices."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Characterizing women as untrustworthy and immoral underscores the importance of proper social conduct and discipline."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Accusing women of untrustworthiness centers on their reputational standing, stressing the importance of preserving one’s public image."
+        }
+      ]
+    }
+  },
+  "f5740": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame centers on protecting the accused’s personal standing and leveraging their positive actions to override serious allegations, reflecting a drive to enhance and defend individual status and influence."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to preserve existing social order and the accused’s reputation by discouraging scrutiny of sexual assault claims, emphasizing stability and continuity over change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By suggesting that a person’s good deeds grant them the authority to dismiss serious allegations, the frame elevates the idea that those with sufficient influence can control outcomes and evade accountability."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The insistence that the accused’s positive reputation should outweigh any claim underscores a focus on maintaining public image and avoiding reputational damage."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "Dismissing sexual assault claims as unimportant is presented as a way to prevent social upheaval or discomfort, valuing a stable and orderly community over addressing injustice."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame discourages taking allegations seriously to avoid upsetting or challenging respected individuals, appealing to harmony and politeness in social relations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The frame implies that the accused’s positive actions afford them sufficient sway to override allegations, highlighting the value of personal power to shape outcomes."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Emphasizing that the accused’s favorable reputation should shield them from scrutiny reflects a priority on sustaining one’s positive public image."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "By framing sexual assault allegations as a threat to social harmony that should be dismissed, the argument values societal stability over justice."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The suggestion to downplay or ignore assault claims so as not to embarrass or upset the accused appeals to norms of courtesy and avoiding interpersonal conflict."
+        }
+      ]
+    }
+  },
+  "f6622": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional social norms and resistance to change regarding women’s sexual behavior, aligning with the value of Conservation."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message appeals to longstanding cultural expectations that women must preserve sexual purity and uphold inherited norms."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It enforces strict adherence to prescribed behavioral rules about women’s sexual history, pressuring compliance with societal prescriptions."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Encourages women to honor and follow established sexual purity norms, reflecting the frame’s demand for adherence to tradition."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Demands that women strictly follow and comply with societal rules about sexual behavior, consistent with Conformity (rules)."
+        }
+      ]
+    }
+  },
+  "f3309": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame defends men’s authority and status, emphasizing the importance of maintaining their dominance over feminist movements."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to preserve the existing social order and traditional gender roles by portraying feminist movements as a threat."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame emphasizes men’s right to maintain control and authority, framing feminism as undermining their command."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame implicitly upholds traditional gender roles by casting feminist movements as harmful to men’s historic privileges."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that feminist movements endanger the stability of the wider society by disrupting established norms."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The frame portrays feminist movements as a direct threat to men’s personal well-being and safety."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Argues that men should retain their authoritative position and decision-making power over societal matters, opposing feminist challenges."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Implies that established gender roles and customs should be honored, resisting changes advocated by feminist movements."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Frames feminism as a source of social disruption, valuing the maintenance of existing societal structures."
+        },
+        {
+          "level_3_value": "Have good health",
+          "rationale": "Suggests that feminist movements pose a risk to men’s physical or psychological well-being, emphasizing personal security."
+        }
+      ]
+    }
+  },
+  "f3597": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends traditional norms (chivalry) and criticizes challenges to these established behaviors, indicating support for preserving social stability and resisting change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By upholding chivalry as a positive custom and condemning women who question it, the frame emphasizes maintaining cultural and gender traditions."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame attacks women’s hypocrisy and inconsistency in attitudes, promoting adherence to informal social rules and proper behavior without deviation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame lauds the custom of chivalry and implies that women should honor and follow this longstanding practice."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "By highlighting hypocrisy and inconsistency, the frame suggests individuals should consistently adhere to social expectations and not violate norms."
+        }
+      ]
+    }
+  },
+  "f3732": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes protecting personal safety and social stability by warning against disease and preserving reputational boundaries."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "Labeling women as disease carriers appeals to the desire to maintain physical health and avoid contamination."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "Depicting women as promiscuous injures their reputation, invoking concerns about public image and social standing."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have good health",
+          "rationale": "The disease-carrier claim leverages the value of bodily health and the need to prevent illness."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Calling women promiscuous directly attacks their social reputation, highlighting the importance of a positive public image."
+        }
+      ]
+    }
+  },
+  "f5735": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame invokes norms of trust and care in relationships but exploits these benevolence norms manipulatively to shame women for allegedly lying, rather than genuinely promoting welfare."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Benevolence (dependability)",
+          "rationale": "The critique focuses on women’s reliability and faithfulness in friendships, highlighting expectations of dependability and aligning with Self-Transcendence’s emphasis on caring for others."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have loyalty towards friends",
+          "rationale": "This directly addresses the betrayal of trust implied by lying about friendships, emphasizing the fine-grained expectation that women maintain loyalty in their relationships."
+        }
+      ]
+    }
+  },
+  "f7632": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The statement serves as a warning to guard against potential deceit in online interactions, prioritizing safety, order, and self-preservation."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The frame focuses on protecting oneself from perceived harm or dishonesty, reflecting a concern with personal safety and defense."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be wary of deception",
+          "rationale": "Directs vigilance against misleading appearances online, emphasizing self-protection and caution in interpersonal exchanges."
+        }
+      ]
+    }
+  },
+  "f7562": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame ‘Women are deceitful and untrustworthy’ emphasizes preserving traditional social hierarchies and moral order by policing women’s behavior, aligning with the value of maintaining stability and order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame enforces strict adherence to prescribed gender norms and moral rules, warning that women must comply with societal expectations or be labeled as deceptive threats to order."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Adhere to traditional gender roles",
+          "rationale": "Highlights the expectation that women must conform to long‐standing patriarchal roles to maintain societal stability."
+        },
+        {
+          "level_3_value": "Obey patriarchal authority",
+          "rationale": "Implies that women should submit to male‐defined rules and hierarchies to avoid social disruption and deceit."
+        }
+      ]
+    }
+  },
+  "f628": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for maintaining traditional gender roles and restricting women’s driving privileges to ensure safety and social order."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes male dominance and values competence and influence, implying that men should be in control of driving."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame reinforces the traditional gender role that driving is a male domain and women should adhere to this norm."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "By labeling women as bad drivers, the frame evokes the need for personal safety and well-being, suggesting restricting women from driving to avoid accidents."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame implies that women should comply with societal rules that limit their driving, advocating adherence to such restrictions."
+        },
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The frame implicitly promotes competence and success in driving, valuing skill and capability which women supposedly lack."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts male authority over women by suggesting men are better drivers and should control driving decisions."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame appeals to preserving traditional practices by suggesting women should not assume roles like driving that contradict tradition."
+        },
+        {
+          "level_3_value": "Have good health",
+          "rationale": "It evokes concern for health and safety, implying that restricting women from driving prevents accidents and health risks."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame encourages women to comply with norms and rules that discourage them from driving."
+        },
+        {
+          "level_3_value": "Be capable",
+          "rationale": "The frame prizes the value of competence, highlighting that good driving is a sign of capability women supposedly lack."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It suggests men should hold authority over driving regulations and control who is allowed to drive."
+        }
+      ]
+    }
+  },
+  "f1025": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame invokes norms around caring and trust, emphasizing expectations for individuals to act with reliability and integrity in their interactions, which aligns with the self-transcendence goal of promoting welfare and trust in others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Benevolence (dependability)",
+          "rationale": "By condemning supposed dishonesty about injuries, the frame appeals to the value of dependability—expecting individuals to fulfill social expectations of reliability and truthful reporting."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be responsible",
+          "rationale": "The frame underscores the expectation that women should take responsibility by accurately reporting and explaining the cause of their injuries, framing truthful reporting as a core aspect of dependability."
+        }
+      ]
+    }
+  },
+  "f7190": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame invokes historical stereotypes of witches to stigmatize women and discourage deviation from traditional gender roles, aiming to preserve the existing social order."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame belittles women to assert dominance and reinforce hierarchical power structures, thereby upholding the superiority of men."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By likening women to witches, the frame draws on historical folklore to uphold traditional patriarchal norms and stigmatize women who deviate from them."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame marginalizes women to reinforce male authority and control, implying that women belong in a subordinate, fantastical realm."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame encourages acceptance of outdated witch stereotypes, reinforcing compliance with traditional gender roles."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By demeaning women as witches, the frame implies that men have the rightful authority to judge and confine women."
+        }
+      ]
+    }
+  }
+}

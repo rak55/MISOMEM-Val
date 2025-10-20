@@ -1,0 +1,116 @@
+{
+  "f1613": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes a husband's dominance and control over his wife’s autonomy, reflecting a desire for personal power and superiority."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional marital norms and established gender roles, emphasizing stability and continuity of social conventions."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts the husband’s authority to override the wife’s consent, directly invoking the notion of commanding others."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes and upholds longstanding cultural expectations about spousal roles within marriage, promoting adherence to traditional practices."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame grants the husband unquestioned authority to initiate sexual acts without needing his wife’s agreement, embodying the right to command."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame endorses traditional marital practices that presume spousal compliance, signaling respect for established customs."
+        }
+      ]
+    }
+  },
+  "f1528": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame criticizes marriage as an oppressive institution that restricts women, highlighting a desire for autonomy, change, and breaking away from traditional constraints."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "By framing marriage as silencing women, the message appeals to a broader moral concern for fairness and equal treatment of all individuals, especially a marginalized group."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (thought)",
+          "rationale": "The frame rejects the idea that women should be muted or controlled in marriage, implying a need for freedom of thought and expression."
+        },
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "By condemning marriage as a tool of control, the frame emphasizes women’s right to independent action and self-determination outside of traditional roles."
+        },
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The criticism of marriage as silencing women invokes a moral imperative for equality and justice across social institutions."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of thought",
+          "rationale": "The frame opposes silencing women, underscoring the importance of women having their own ideas and speaking them freely."
+        },
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "By viewing marriage as a controlling mechanism, the message advocates for women’s unrestricted ability to make their own life choices."
+        },
+        {
+          "level_3_value": "Be independent",
+          "rationale": "The condemnation of marriage’s control highlights the value of women’s independence from patriarchal structures."
+        },
+        {
+          "level_3_value": "Have equality",
+          "rationale": "The frame implies that women deserve equal status and rights within relationships and society, rather than being subjugated."
+        }
+      ]
+    }
+  },
+  "f5420": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame legitimizes male dominance and control over women, emphasizing power and authority over them."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to maintaining traditional patriarchal norms and established gender hierarchies."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame advocates the use of violence as a justified means for men to assert control and command over women."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds and reinforces traditional gender roles and patriarchal customs that grant men authority over women."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that men are entitled to use violence as a legitimate tool to enforce obedience, reflecting a belief in their rightful authority."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame draws on patriarchal traditions that endorse male dominance and the preservation of conventional gender hierarchies."
+        }
+      ]
+    }
+  }
+}

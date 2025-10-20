@@ -1,0 +1,158 @@
+{
+  "f65": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional gender roles and resisting change, reflecting a desire to maintain established social norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The statement asserts a traditional custom that women’s place is in the kitchen, emphasizing adherence to long‐standing cultural practices and family roles."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By assigning women to a fixed domestic role, the frame implies that such prescribed roles ensure a stable and orderly society."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The message enforces compliance with rigid social expectations for gender behavior, urging individuals to follow prescribed norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame explicitly calls for upholding traditional practices by confining women to domestic duties."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "It implies that societal stability depends on women remaining in their traditional roles."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It demands that women obey social conventions and restrict themselves to the kitchen."
+        }
+      ]
+    }
+  },
+  "f2093": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes using women as means to men’s personal advantage, emphasizing power and control over women for sexual gratification."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces traditional social roles for women, preserving a patriarchal status quo where women’s value is confined to sexual objectification."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame depicts women as objects subject to men’s command, highlighting a desire for dominance and control over women."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds longstanding patriarchal norms that restrict women’s roles to being sexual objects, appealing to traditional gender expectations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By framing women as objects of sexual desire, the statement implies men have the authority to dictate and use women’s bodies for their pleasure."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The statement relies on and reinforces traditional patriarchal values that limit women’s roles, suggesting adherence to customary gender hierarchies."
+        }
+      ]
+    }
+  },
+  "f568": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts dominance and control over Saudi women, treating them as subjects to be commanded and subjugated, which reflects a self-enhancement value centered on power and hierarchy."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes enforcing traditional norms and manners, preserving social order, and imposing compliance with established cultural conventions."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame depicts Saudi women as needing to be commanded and controlled, invoking the right of certain groups to dominate others."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By stating that women need to be taught manners, the frame calls for adherence to established social rules and proper behavior."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The call to teach manners implies a need for women to be polite and avoid upsetting others, reflecting interpersonal conformity."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The notion of teaching manners invokes respect for cultural and familial traditions and the maintenance of traditional gender roles."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "This captures the frame’s emphasis on authorized control over women, aligning with the power (dominance) value."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "This reflects the demand that women comply with informal rules and social conventions regarding conduct."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Teaching manners explicitly appeals to politeness and the avoidance of causing offense, an interpersonal conformity value."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By advocating for the teaching of manners, the frame implicitly calls for adherence to long-standing cultural and traditional practices."
+        }
+      ]
+    }
+  },
+  "f6927": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men exerting control and dominance over women, prioritizing power and superiority."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "It calls for reinforcing and preserving traditional patriarchal norms and the existing social order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame advocates for men having authority and control over women, highlighting dominance as a key value."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It seeks to uphold and respect patriarchal traditions and age-old gender hierarchies."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "have the right to command",
+          "rationale": "The frame explicitly states that men should hold authority and command over women’s redemption and behavior."
+        },
+        {
+          "level_3_value": "be respecting traditions",
+          "rationale": "The message upholds patriarchal customs and calls for their continuation as part of social norms."
+        }
+      ]
+    }
+  }
+}

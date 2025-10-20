@@ -1,0 +1,262 @@
+{
+  "f4731": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame emphasizes performing actions (ogling women) without needing consent, reflecting a desire for unfettered personal freedom and autonomy."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame centers on pursuing one’s own pleasure and asserting dominance over others, highlighting self-focused gain and power."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame advocates for individuals to freely engage in ogling without external constraints, promoting autonomy in one’s actions."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame justifies sensuous gratification through objectifying women, emphasizing the importance of personal pleasure."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame endorses exerting control and influence over women by treating them as objects for one’s gaze."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "Implies individuals should be free to ogle women without seeking permission or facing restrictions."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "Highlights deriving enjoyment and sensual gratification from ogling women."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Suggests individuals can assert power and control by objectifying women with their gaze."
+        }
+      ]
+    }
+  },
+  "f7316": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "This frame centers on personal gain and dominance, entitling the individual to prioritize sexual gratification over a woman's autonomy, reflecting a power-over orientation."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame prioritizes immediate personal pleasure (sexual gratification) without regard for moral or social constraints, reflecting a hedonistic pursuit of self-indulgence."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It asserts the individual's entitlement to exert control and dominance over a woman by invading her privacy, reflecting power-over dynamics."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "Emphasizes the pursuit of sexual pleasure as a primary justification for invading privacy."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Frames invading a woman's privacy as an entitlement to command her behavior and enforce dominance."
+        }
+      ]
+    }
+  },
+  "f3554": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame normalizes and encourages sexualization as a form of pleasure and gratification, highlighting the value of sensuous experiences."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "It promotes power dynamics by endorsing male dominance and control over women’s roles and status in professional settings."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "It reinforces and preserves traditional gender norms, maintaining an existing patriarchal social structure."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame casts sexual objectification as a desirable source of pleasure and enjoyment."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It serves to assert male authority and control over women by endorsing their sexualization at work."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It upholds conventional gender roles by treating women’s sexualization as a normative, customary practice."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The frame presents the sexualization of women as a means to achieve sensual gratification."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It implies that men possess the authority to objectify and sexualize women in professional environments."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It appeals to preserving traditional gender roles by framing sexualization as an accepted custom."
+        }
+      ]
+    }
+  },
+  "f5185": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame centers on gaining individual career advancement and dominance over others through coercive sexual exchanges, highlighting personal success at others’ expense."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces and perpetuates existing oppressive social norms and hierarchical structures, advocating compliance with a sexist status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame normalizes the exercise of authority by suggesting that those in power can demand sexual favors as a condition for promotions."
+        },
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame links promotions—which include salary increases and career benefits—to forced sexual compliance, treating them as controlled resources."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to entrenched patriarchal customs by presenting sexual coercion as an expected and accepted pathway for women’s advancement."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame imposes an unwritten corporate rule requiring women to perform sexual acts to advance, emphasizing obedience to informal but powerful norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It implies that those making promotion decisions have legitimate authority to demand sexual favors from subordinates."
+        },
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "It treats promotions and their attendant financial or material rewards as commodities to be exchanged for sexual compliance."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It relies on the perceived acceptability of longstanding patriarchal practices that subordinate women’s autonomy."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It pressures women to obey an informal rule of surrendering sexual autonomy in order to secure professional advancement."
+        }
+      ]
+    }
+  },
+  "f5635": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame emphasizes permissiveness and freedom in making sexual jokes, suggesting individuals should be unconstrained in their actions."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame supports power hierarchies by enabling individuals to assert dominance over women through sexual jokes."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "It advocates personal freedom to perform actions—specifically, making sexual jokes—without societal or moral constraints."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "It appeals to the pursuit of pleasure and amusement, positioning sexual jokes as an enjoyable form of entertainment."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It encourages the maintenance of dominance over women by permitting jokes that belittle them, reinforcing a hierarchical social order."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "The frame states it is acceptable to make sexual jokes, implying that individuals should have the freedom to engage in such humor."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The frame frames sexual jokes as a source of amusement and enjoyment, appealing to sensuous gratification."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "By normalizing jokes at women's expense, the frame enables jokesters to shape social attitudes and maintain control over the narrative."
+        }
+      ]
+    }
+  },
+  "f6905": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame encourages seeking novel and exciting experiences (explicit sexual propositions) and emphasizes individual freedom to act on sexual desires."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "It promotes asserting power and dominance over women for personal gratification, framing control over women’s responses as a desirable outcome."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame normalizes and valorizes explicit sexual propositions as a form of pleasurable and sensuous gratification."
+        },
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "It encourages bold, exciting, and novel interactions with women, framing such daring approaches as inherently desirable."
+        },
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "It advocates for the freedom to act on sexual desires without restrictions, promoting individual autonomy in initiating sexual contact."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It reinforces a dynamic where men assert authority and control over women by using deception and sexual propositions to achieve their aims."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "Explicit sexual propositions are presented as a source of immediate sensual enjoyment and gratification."
+        },
+        {
+          "level_3_value": "Be daring",
+          "rationale": "Men are urged to take bold risks by approaching women with explicit offers, portraying such behavior as courageous and exciting."
+        },
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "The frame insists on the right to act on one’s desires (sexual propositions) without considering external constraints or consent."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It implies that men are entitled to initiate and direct explicit sexual encounters, treating women’s consent as optional."
+        }
+      ]
+    }
+  }
+}

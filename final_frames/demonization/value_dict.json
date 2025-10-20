@@ -1,0 +1,356 @@
+{
+  "f2090": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame invokes the concept of hell—a religious punishment—emphasizing adherence to and preservation of traditional moral norms rooted in religious beliefs."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By pronouncing women as deserving eternal punishment, the speaker asserts dominance and authority over them, reflecting a desire for control and power."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "Reference to hell draws directly on religious customs and long‐standing beliefs about divine justice and moral order."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The statement positions the speaker as judge and punisher, illustrating an assertion of control and hierarchical authority."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be holding religious faith",
+          "rationale": "Invoking hell presupposes belief in religious doctrine and eternal punishment, thus calling on the value of devout faith and adherence to religious teachings."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Declaring that women deserve to be sent to hell embodies the assertion of moral authority and the right to dictate others’ fates."
+        }
+      ]
+    }
+  },
+  "f7016": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame dehumanizes women to assert dominance and superiority, reflecting a desire for empowerment and control over another group."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The message portrays women as inferior ‘animals’, endorsing hierarchical control and the right of one group to dominate another."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By labeling women as animals to be ridiculed and dehumanized, the frame implicitly grants men a justified authority to control and command them."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The demeaning language seeks to reinforce social influence over women, legitimizing the power to shape others’ status and behavior."
+        }
+      ]
+    }
+  },
+  "f3603": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame focuses on social status and reputation, portraying unattractive women as inferior and consumed by jealousy, indicating a concern with social standing."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame targets public image and how unattractive women are perceived, emphasizing the importance of social recognition and avoiding humiliation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "By attributing jealousy to a lack of attractiveness, the frame implies that social recognition and respect are highly valued, and their absence leads to negative emotions."
+        }
+      ]
+    }
+  },
+  "f4545": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame condemns older women dating younger men as 'abnormal' and 'predatory,' promoting maintenance of traditional social norms and resisting change to established gender and age-role conventions."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes the idea that relationships should follow traditional age hierarchies and cultural norms, labeling deviations from these customs as unacceptable."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By portraying older women dating younger men as a threat to normalcy, the frame suggests preserving stability and order in society by discouraging such relationships."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame implicitly demands adherence to long-standing customs about appropriate age pairings in relationships, treating any departure as 'abnormal.'"
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The language of threat and predation frames these relationships as destabilizing, implying that societal well-being depends on upholding conventional relationship norms."
+        }
+      ]
+    }
+  },
+  "f4372": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame positions Black women as inferior to reinforce dominance and superiority of another group, seeking to enhance the in-group’s status at their expense."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds existing social hierarchies and beauty standards, resisting social change and preserving the perceived purity of desirable traits."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The demeaning description of Black women serves to claim control and uphold hierarchical dominance over them."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By labeling Black women as undesirable \"raw meat,\" the frame aims to protect the in-group’s public image and reputation for beauty."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The message implies maintaining the current structure of desirability norms and preventing social changes that challenge the prevailing hierarchy."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The statement implies that certain groups (implicitly those making the judgment) have authority to define who is desirable or not."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "It suggests excluding Black women from desirability preserves the in-group’s reputation for attractiveness and social standing."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "It calls for resisting the inclusion of Black women into accepted desirability, thereby maintaining the status quo of social norms."
+        }
+      ]
+    }
+  },
+  "f3515": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame depicts Islam as endorsing men’s authority over women to advance and protect their own interests at the expense of women’s autonomy, reflecting a focus on power and dominance characteristic of Self-Enhancement."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts that Islam condones male authority and dominance over women, directly invoking the value of asserting control over others inherent in Power (dominance)."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that Islam grants men the right to command and control women, highlighting an entitlement to exercise dominance consistent with Power (dominance)."
+        }
+      ]
+    }
+  },
+  "f3521": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes protecting social order and stability by portraying refugees as a threat, aligning with the value of maintaining a secure and stable environment."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By depicting refugees as a sexual threat, the frame appeals to the need for a safe country and social stability, suggesting that society must be defended from this danger."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame implies that refugees violate social and moral norms, invoking the importance of compliance with rules and laws to prevent such misconduct."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame draws on traditional sexual morality by suggesting that refugees threaten established cultural customs around acceptable behavior, thereby invoking respect for tradition."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a safe country",
+          "rationale": "The claim that refugees endanger societal safety underscores the importance of national security and protecting the country from perceived threats."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "By implying that refugees do not follow rules of proper behavior, the frame highlights the value of abiding by social norms and legal obligations."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The portrayal of refugees as violating sexual norms appeals to the value of upholding and honoring traditional cultural and moral practices."
+        }
+      ]
+    }
+  },
+  "f3582": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional family structures and gender roles by criticizing feminists for allegedly hating male children, appealing to preserving existing social norms."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame emphasizes the moral importance of caring for the welfare of children, appealing to concern for the well-being of others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By condemning feminists for hating male children, the frame reinforces adherence to longstanding family customs and gender roles."
+        },
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "The frame implies that it is good to love and care for one’s children, stressing compassion and concern for family members."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message discourages deviation from traditional family roles by portraying feminists as hostile to male children, thereby promoting respect for established customs."
+        },
+        {
+          "level_3_value": "Be loving",
+          "rationale": "By claiming feminists hate male children, the frame highlights the moral duty to show affection and care for one’s children."
+        }
+      ]
+    }
+  },
+  "f5861": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional moral norms and social order by condemning and punishing perceived deviance, reflecting a desire to conserve existing social structures."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The call to insult and punish evaluators asserts the power and control of certain individuals or groups over others, reflecting a value placed on dominance and authority."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame references adherence to traditional sexual morality and upholds established customs regarding women’s behavior."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It calls for enforcing compliance with implicit moral rules by advocating punishment for those who break them."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame endorses the authority of those who judge to command punishment, highlighting control over others."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The condemnation of promiscuity is grounded in enforcing traditional behavioral standards."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Punishment is prescribed for failure to comply with societal moral rules."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame legitimizes the power of judges to punish, implying their entitlement to command others’ behavior."
+        }
+      ]
+    }
+  },
+  "f6152": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame depicts ex-girlfriends as dangerous and threatening to one’s personal environment, emphasizing the need to preserve safety and stability by avoiding them."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "By likening ex-girlfriends to radioactive zones, the frame stresses the importance of protecting one’s immediate environment and health from contamination and danger."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have good health",
+          "rationale": "Describing ex-girlfriends as ‘contaminated’ implies a threat to physical well-being, evoking the value of avoiding sources of disease and maintaining personal health."
+        }
+      ]
+    }
+  },
+  "f7531": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional gender roles by insisting female gamers remain within a patriarchal order and be valued only for their sexuality, resisting change to women’s roles."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame reinforces male dominance by subordinating female gamers and granting men control over how women are perceived and valued."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame demands that female gamers honor longstanding cultural stereotypes about women’s roles as sexual objects, preserving patriarchal customs."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts men’s authority to dictate women’s value, centralizing male control and reinforcing hierarchical gender power."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame pressures women to comply with restrictive gender norms and not deviate from patriarchal expectations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame promotes adherence to traditional gender stereotypes, expecting women to fulfill conventional sexual roles."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies men possess the authority to define and limit how women are valued, enforcing male leadership over female behavior."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame calls for women to conform to patriarchal rules by valuing themselves solely through sexual appeal rather than their gaming skill."
+        }
+      ]
+    }
+  }
+}

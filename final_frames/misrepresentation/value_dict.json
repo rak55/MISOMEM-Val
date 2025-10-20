@@ -1,0 +1,580 @@
+{
+  "f628": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame focuses on driving competence, implying that being capable is a key social norm and that women fail to meet this norm."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By portraying women drivers as dangerous or incompetent, the frame implicitly appeals to stability and safety, valuing the preservation of personal security."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The criticism centers on driving ability as a measure of success and effectiveness, aligning with the value of achieving competence in socially accepted tasks."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The portrayal of women as bad drivers implies a threat to health and physical safety, invoking the need for a secure and healthy immediate environment."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be capable",
+          "rationale": "The statement denigrates women’s driving skills, emphasizing the importance of individual competence in driving."
+        },
+        {
+          "level_3_value": "Have good health",
+          "rationale": "By suggesting women drivers endanger safety, the frame underscores the value of maintaining health and avoiding accidents."
+        }
+      ]
+    }
+  },
+  "f6441": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes women’s pursuit of personal gain and advantage, focusing on material and social rewards."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame asserts that women are primarily interested in men’s financial assets and material possessions."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame suggests women seek men for their social status and public recognition."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The frame portrays women as motivated by financial gain and material wealth from men."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The frame implies women aim to obtain social standing and prestige through associations with men."
+        }
+      ]
+    }
+  },
+  "f6956": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving established social norms for appearance and discourages deviation, reflecting a desire for stability and order in social behavior."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By prescribing punitive treatment for women with a nonconforming hairstyle, the frame enforces compliance with informal social rules regarding acceptable appearance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame implies that proper behavior includes adhering to conventional hairstyle norms and that failure to do so deserves negative treatment, reinforcing adherence to social conventions."
+        }
+      ]
+    }
+  },
+  "f6009": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving the existing social order by discrediting social and political movements led by marginalized groups, thereby resisting change and maintaining stability."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame seeks to reinforce the dominance and authority of established groups over marginalized ones, reflecting a desire to retain power and control."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By labeling movements as driven by undesirable or marginalized groups, the frame discourages challenges to cultural or social norms and promotes adherence to established traditions."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame denies legitimacy to movements outside the established power structure, reinforcing the authority and control of those already in power."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame implicitly calls for upholding and maintaining traditional social norms by discrediting movements perceived as threats to those traditions."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame suggests that only the established, ‘proper’ groups should lead social and political change, thereby asserting their exclusive authority and command."
+        }
+      ]
+    }
+  },
+  "f3740": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men retaining exclusive benefit from their own achievements and resources, reflecting a focus on personal success and dominance over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends traditional gender hierarchies and social order, resisting change to established norms regarding men’s and women’s roles."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The argument centers on men earning success through personal effort and excluding those who didn’t contribute, underscoring the importance of individual achievement."
+        },
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame highlights men as rightful owners of material and financial resources, rejecting women’s entitlement to share them."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The speaker asserts male authority and control over women, aiming to maintain a hierarchical dominance in gender relations."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It appeals to established gender roles and customs, insisting women adhere to traditional expectations regarding resource sharing."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that allowing women to claim men’s success would threaten the stability and proper functioning of society."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "have success",
+          "rationale": "Men deserve sole claim to the results of their efforts without sharing with women who didn’t contribute."
+        },
+        {
+          "level_3_value": "be capable",
+          "rationale": "Only those who demonstrate competence and contribution should benefit, excluding women portrayed as lacking involvement."
+        },
+        {
+          "level_3_value": "have wealth",
+          "rationale": "Material wealth should remain with the men who earned it, not be distributed to women deemed unworthy."
+        },
+        {
+          "level_3_value": "be respecting traditions",
+          "rationale": "Adherence to traditional gender norms is upheld, reinforcing that women should not deviate from established roles."
+        },
+        {
+          "level_3_value": "have a stable society",
+          "rationale": "Maintaining clear gender-based divisions is presented as essential for societal order and security."
+        },
+        {
+          "level_3_value": "have authority",
+          "rationale": "Men should retain decision-making power and control over resource distribution, reflecting a desire for dominance."
+        }
+      ]
+    }
+  },
+  "f4977": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes the need for women to adhere to established health advice, reflecting a desire to preserve stability and order through compliance with norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The message criticizes women for failing to follow health guidelines, underscoring the importance of abiding by rules and formal obligations."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "By focusing on health advice, the frame invokes the value of personal security and well-being through maintaining good health."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame implies that women should follow health directives and rules, and it admonishes them for not doing so."
+        },
+        {
+          "level_3_value": "Have good health",
+          "rationale": "The critique of ignoring health advice highlights the importance of preserving one’s health and avoiding illness."
+        }
+      ]
+    }
+  },
+  "f5498": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men’s dominance in the community and the exclusion of women, reflecting a value placed on power and control over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame resists change by insisting on preserving a men-only tradition and the existing social order, reflecting a desire for stability and maintenance of established practices."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts that men should control the community and exclude women, embodying the value of having authority and influence over others."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to the notion that Reddit has historically been and should remain a male-only space, invoking respect for longstanding customs."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By declaring that Reddit is meant to be a male-only community, the frame implies that men inherently hold the authority to set membership rules and enforce them."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame justifies the exclusion of women by appealing to the preservation of the community’s historical practice of remaining male only."
+        }
+      ]
+    }
+  },
+  "f6141": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to preserve existing social norms and gender hierarchies by justifying negative treatment of women, reflecting the Schwartz value of Conservation which emphasizes resistance to change and maintenance of the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By invoking Islamic law as an inherited and authoritative practice, the frame appeals to Tradition, emphasizing the importance of preserving established cultural and religious customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame insists on strict adherence to religious statutes governing gender roles, aligning with Conformity (rules) which values obedience to formal norms and regulations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame demands that individuals 'be compliant' with religious prescriptions enforcing negative treatment of women, directly reflecting the expectation to follow rules without question."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By urging adherence to age-old religious customs that subordinate women, the frame embodies 'be respecting traditions' as a directive to uphold longstanding practices."
+        },
+        {
+          "level_3_value": "Be holding religious faith",
+          "rationale": "The frame uses belief in Islam as the ultimate justification for gender inequality, highlighting 'be holding religious faith' to stress the centrality of religious conviction in maintaining these norms."
+        }
+      ]
+    }
+  },
+  "f400": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame praises breaking from traditional constraints and endorses personal freedom to embrace natural impulses, highlighting a value on change and autonomy."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame encourages women to freely act on their desires and choose infidelity as a personal behavior, emphasizing autonomy in action."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame promotes seeking sexual and emotional pleasure through unfaithfulness, valuing immediate gratification and sensuous experiences."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "The frame explicitly advocates for women to be self-determined in their behavior and to act without external restrictions."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The frame frames infidelity as a source of enjoyment and encourages embracing it for sensual gratification."
+        }
+      ]
+    }
+  },
+  "f794": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional gender norms and resisting the ‘deceptive’ behavior of transgender women, reflecting a desire to maintain the existing social order and cultural stability."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The statement relies on established binary gender roles as a cultural tradition to delegitimize transgender identities and calls for upholding those longstanding customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By labeling transgender women as ‘deceptive’ for not abiding by the assumed rule of transparent gender presentation, the frame enforces compliance with social conventions around gender identity."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The argument draws on the value of honoring inherited gender conventions and discourages deviation from traditional womanhood."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It criticizes transgender women for violating informal norms of honesty about one’s gender, framing such deception as improper behavior."
+        }
+      ]
+    }
+  },
+  "f2449": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes superiority, dominance, and hierarchical power over women, aligning with motives to enhance one’s own power and status."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame argues that men are superior to women due to physical strength, suggesting men should exert control and command over women."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By asserting that greater physical strength justifies superiority, the frame implies that men inherently have the right to command and lead over women."
+        }
+      ]
+    }
+  },
+  "f2594": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces maintaining traditional gender norms and preserving the established social order in gender relations."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message upholds and defends a customary gender-based behavior—women being late—as an acceptable standard to honor longstanding social customs."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame implicitly encourages men to tolerate and not object to women’s tardiness out of courtesy and to avoid interpersonal conflict."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame urges acceptance of a gendered behavioral norm (women always being late) as part of traditional practices that should not be questioned."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "By deeming it acceptable for men to wait on tardy women, the frame promotes accommodating and courteous behavior in interpersonal interactions."
+        }
+      ]
+    }
+  },
+  "f2909": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to maintaining traditional gender norms and definitions by denying a woman’s gender identity, reinforcing beliefs about immutable, conventional gender roles."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame denies female accomplishment and asserts male superiority, emphasizing that only men can legitimately hold public influence and authority."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame seeks to uphold traditional cultural norms about gender by insisting on a strict, binary understanding and dismissing female identity."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By denying Michelle Obama’s womanhood, the frame undermines her status to reinforce male dominance and control over public roles and influence."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame implies one must adhere to long-standing, conventional notions of gender and resist newer, progressive understandings."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "By attributing Michelle Obama’s public achievements to a man, the frame asserts that influence and authority belong to men rather than women."
+        }
+      ]
+    }
+  },
+  "f3769": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes personal gain through sexual gratification and exertion of power over a partner, aligning with self-enhancement's focus on pursuit of one's own interests."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The tactic is explicitly geared toward achieving sexual pleasure for the individual, reflecting the desire for pleasure and gratification."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By manipulating a partner’s behavior and arousal, the tactic exerts dominance and control, fitting the power (dominance) value."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The core goal of the tactic is to secure personal sexual gratification through deception."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The tactic manipulates the partner’s behavior and decisions, indicating a desire to influence and control."
+        }
+      ]
+    }
+  },
+  "f4316": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces traditional social norms and seeks to maintain established gender roles by characterizing women’s talkativeness as a deviation from a preferred silent ideal."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By asserting that a silent woman is rare, the frame upholds and romanticizes an older custom that women should be demure and quiet, emphasizing preservation of this gendered practice."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The statement implies that proper behavior for women includes being silent, pressing them to follow an unwritten rule of not speaking too much to align with social expectations."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "Labeling women as generally talkative suggests that excessive speech is impolite or annoying, thus encouraging silence to avoid upsetting or burdening others."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame insinuates that deviation from the silent ideal (i.e., talkativeness) is undesirable, hinting that social stability relies on women adhering to a quiet role."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By portraying talkative women as unusual or problematic, the frame stresses the importance of maintaining a woman’s public image through silence, avoiding damage to her reputation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame valorizes adherence to a traditional expectation of female silence, arguing implicitly for the preservation of this custom."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It suggests that proper conduct for women involves remaining quiet, framing talkativeness as a breach of social conventions."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "By characterizing women’s talkativeness negatively, the message promotes silence as a form of politeness that avoids annoying others."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The statement implies that societal harmony depends on women conforming to a quiet role, viewing talkativeness as a threat to social order."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Portraying talkative women as rare underscores the idea that silence preserves a woman’s positive public image and social standing."
+        }
+      ]
+    }
+  },
+  "f5938": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame condemns women for behaving irresponsibly in serious situations, emphasizing the importance of adhering to social norms, order, and responsibility."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame highlights women’s prioritization of social media recognition, pointing to a focus on maintaining and increasing their public image."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame criticizes women for failing to self-regulate and follow social conventions of responsible behavior in serious contexts."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By emphasizing women’s focus on taking pictures for social media, the frame invokes the value of gaining social recognition and public image."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "The frame implies women should exercise restraint and prioritize obligations over trivial activities like social media photography."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The frame portrays the pursuit of likes and social media attention as the primary motivation for women’s actions, highlighting the value placed on public approval."
+        }
+      ]
+    }
+  },
+  "f7421": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes the idea that male rappers should be superior and dominant over female rappers, reinforcing a hierarchy that benefits men."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends and seeks to preserve the traditional gender roles in rap music, maintaining the existing male-centric status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By claiming male rappers are inherently more talented, the frame asserts a right for men to control and dominate the rap music scene."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds a traditional view that rap is a male domain and discourages deviation from that historical norm."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that male rappers deserve authority in the genre, marginalizing female artists’ agency and voice."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By devaluing female rappers’ talent, the frame reinforces adherence to the established, male-dominated tradition in rap music."
+        }
+      ]
+    }
+  }
+}

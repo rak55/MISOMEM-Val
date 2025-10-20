@@ -1,0 +1,113 @@
+seed: 0
+delay: 1
+model: o4-mini-2025-04-16
+max_tokens: 1024
+temperature: 1.0
+response_format:
+  type: "json_schema"
+  json_schema:
+    name: cultural_values
+    schema:
+      type: object
+      properties:
+        values:
+          type: object
+          properties:
+            level 1 values:
+              type: array
+              items:
+                type: object
+                properties:
+                  level 1 value:
+                    type: string
+                    description: Level 1 cultural value applicable to the frame.
+                    enum:
+                      Openness to Change
+                      Self-Enhancement
+                      Conservation
+                      Self-Transcendence
+                  rationale:
+                    type: string
+                    description: Rationale explaining why the level 1 value is applicable to the frame.
+                required:
+                  - level 1 value
+                  - rationale
+                additionalProperties: false
+            level 2 values:
+              type: array
+              items:
+                type: object
+                properties:
+                  level 2 value:
+                    type: string
+                    description: Level 2 cultural value applicable to the frame.
+                    enum:
+                      Self-direction (thought)
+                      Self-direction (action)
+                      Stimulation
+                      Hedonism
+                      Achievement
+                      Power (dominance)
+                      Power (resources)
+                      Face
+                      Security (personal)
+                      Security (societal)
+                      Tradition
+                      Conformity (rules)
+                      Conformity (interpersonal)
+                      Humility
+                      Benevolence (caring)
+                      Benevolence (dependability)
+                      Universalism (concern)
+                      Universalism (nature)
+                      Universalism (tolerance)
+                      Universalism (objectivity)
+                  rationale:
+                    type: string
+                    description: Rationale explaining why the level 2 value is applicable to the frame.
+                required:
+                  - level 2 value
+                  - rationale
+                additionalProperties: false
+            level 3 values:
+              type: array
+              items:
+                type: object
+                properties:
+                  level 3 value:
+                    type: string
+                    description: Level 3 cultural value applicable to the frame.
+                  rationale:
+                    type: string
+                    description: Rationale explaining why the level 3 value is applicable to the frame.
+                required:
+                  - level 3 value
+                  - rationale
+                additionalProperties: false
+          required:
+              - level 1 values
+              - level 2 values
+              - level 3 values
+          additionalProperties: false
+      required:
+        - values
+      additionalProperties: false
+    strict: true
+system_prompt: >-
+  You are an expert linguistic assistant.
+  Frames of Misogyny select particular aspects of misogyny and make them salient in communicating a message.
+  Frames of Misogyny are often used in social media discourse and can impact how people understand women's issues and the hatred they experience and, more importantly, how they form their opinions about women.
+  Frames of Misogyny are said to consist of four elements: problems, cause (or causes) for the problems addressed, implicitly / explicitly evoked moral or cultural values, and implied / explicit solution recommendations for addressed problems.
+  You will be tasked with identifying cultural values evoked in a given frame of misogyny.
+  For identifying these cultural values, use the taxonomy described below.
+  The main source taxonomy is the Schwartz Value Survey. Additional values are taken from the Rokeach Value Survey, the Life Values Inventory, and the World Values Survey.
+  The cultural values in the taxonomy are organized in 3 levels. Level 1 consists of four broad cultural values, which are further divided into more specific values (20) in Level 2.
+  Each value in Level 2 is associated with a list of fine-grained values, each defined by specific arguments or discourse indicators.
+  Value Taxonomy:
+  {values_yaml}
+  Note: Each value from Level 3 has one label per level, except 'have pleasure' which has two labels: 'self-enhancement' and 'openness to change' for Level 3.
+  Identify cultural values evoked by the given frame using Hierarchical Thought Decomposition. Start with indentifying Level 1 values, then Level 2 values, and finally Level 3 values.
+user_prompt: |-
+  Frame of Misogyny:
+  {Frame}
+ 

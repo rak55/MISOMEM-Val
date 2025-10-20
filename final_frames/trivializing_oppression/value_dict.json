@@ -1,0 +1,48 @@
+{
+  "f5976": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame glorifies humor and boundary-pushing comedic expression, emphasizing novelty and excitement in mocking marginalized groups."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By positioning transphobia and misogyny as acceptable humor, the frame allows speakers to assert social superiority and dominance over their targets."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "Framing hateful content as comedy promotes the thrill of taboo-breaking jokes and the excitement of provocative humor."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame centers on deriving pleasure and amusement from humor that targets vulnerable groups."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Mocking a marginalized community as a form of humor asserts control and reinforces the speaker's social power over them."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be daring",
+          "rationale": "Implying that telling transphobic or misogynist jokes is bold or edgy encourages risk-taking humor."
+        },
+        {
+          "level_3_value": "Have an exciting life",
+          "rationale": "Suggests that engaging in controversial comedic material enriches life with excitement and novelty."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "Positions the laughter and enjoyment derived from these jokes as a key source of sensuous gratification."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Encourages speakers to use transphobia and misogyny as humor to gain followers and sway public discourse."
+        }
+      ]
+    }
+  }
+}

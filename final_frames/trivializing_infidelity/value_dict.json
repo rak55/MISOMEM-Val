@@ -1,0 +1,187 @@
+{
+  "f6598": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame dismisses traditional moral constraints on relationships, promoting novelty, freedom, and change in personal behavior."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (thought)",
+          "rationale": "By suggesting individuals decide for themselves whether infidelity is serious, the frame emphasizes personal autonomy in moral judgments."
+        },
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "Normalizing cheating promotes the idea that individuals should be free to choose their own actions in relationships without external restraint."
+        },
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "Downplaying the seriousness of infidelity highlights a preference for excitement and novelty in romantic experiences."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "Framing infidelity as not serious prioritizes personal pleasure and gratification over commitment and moral rules."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of thought",
+          "rationale": "The frame encourages people to reject conventional moral views on infidelity and form their own judgments."
+        },
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "By normalizing cheating, the frame implies individuals ought to act on their desires in relationships without restriction."
+        },
+        {
+          "level_3_value": "Have an exciting life",
+          "rationale": "Suggesting infidelity adds excitement reflects a value on thrilling and varied experiences in love."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "Downplaying the seriousness of infidelity elevates immediate enjoyment and sensual gratification above fidelity."
+        }
+      ]
+    }
+  },
+  "f753": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men’s right to personally benefit and gratify themselves through infidelity, prioritizing their own pleasure over relational commitments."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends and seeks to maintain traditional gender hierarchies by justifying men’s infidelity as an acceptable social norm."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "Men’s infidelity is portrayed as a legitimate means to satisfy personal pleasure and desires when women deviate from dieting."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame relies on conventional gender roles and norms to justify male cheating as an established, respected practice."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "Justifies men’s infidelity as a way to ‘have pleasure,’ aligning with the Hedonism value of enjoying personal gratification."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Frames male cheating as ‘respecting traditions’ by enforcing conventional gender norms that excuse men’s behavior based on women’s actions."
+        }
+      ]
+    }
+  },
+  "f1315": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The statement reflects distrust of women and implies a desire for control or dominance, aligning with a power-driven self-enhancement motivation."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The frame centers on fear of betrayal and a need for personal or emotional security in relationships."
+        }
+      ],
+      "level_3_values": []
+    }
+  },
+  "f4897": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional gender norms and maintaining social order by enforcing existing conventions about female fidelity and male honor."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame justifies the use of violence to assert control and dominance over women, highlighting the value placed on power over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes age-old customs about female chastity and male honor, demanding adherence to traditional norms regarding infidelity."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It stresses that women must follow established social rules on proper sexual behavior or face punishment for violations."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It promotes the idea that men have the right to exert control over women—even through violence—to maintain authority in the relationship."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame appeals to preserving one’s public image and honor, suggesting violence is a way to protect or restore social reputation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame underscores the importance of following long-standing customs about monogamy and punishes those who deviate."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It implies that women must conform to accepted standards of conduct or be considered deserving of violence."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame endorses the notion that men should hold authority and the power to punish women for infractions."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "It uses concerns about public honor and reputation to justify violence as a means of maintaining one’s standing."
+        }
+      ]
+    }
+  },
+  "f4899": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional sexual norms and preserving the existing moral order regarding women's behavior, resisting change to these norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes longstanding cultural customs about female sexual purity and chastity, emphasizing respect for inherited moral practices."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It demands compliance with strict moral rules governing sexual behavior, reinforcing the need to follow prescribed norms."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame ties a woman's public image and social reputation directly to her sexual fidelity, highlighting the importance of preserving honor and avoiding shame."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame upholds traditional expectations about female chastity and insists on adherence to established customs regarding sexual behavior."
+        },
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "It requires women to exercise strict self-control over their sexuality to meet the moral standard of fidelity."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "It focuses on safeguarding a woman’s public image and social standing through her conformity to fidelity norms."
+        }
+      ]
+    }
+  }
+}

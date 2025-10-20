@@ -1,0 +1,80 @@
+{
+  "f3746": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men’s superiority and dominance over women, aligning with a value orientation that prioritizes personal/group success and power over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The frame highlights intelligence as a measure of success and competence, valuing cognitive ability as a socially recognized achievement."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By asserting men are smarter, the frame justifies male authority and control, supporting the idea that superior intelligence grants the right to command."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be intellectual",
+          "rationale": "The frame centers on intellectual ability (‘smarter’) as a key trait, promoting the ideal of high cognitive skill."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By linking intelligence to leadership, the frame implies that men deserve authority and decision-making power."
+        }
+      ]
+    }
+  },
+  "f1397": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame emphasizes objective, scientific truth-seeking and unbiased measurement of a personal attribute, aligning with values of universal concern and truth."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "The demand that women’s attractiveness be \"objectively measurable\" and \"scientifically validated\" directly appeals to rational, unbiased search for truth and neutral assessment."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "The frame explicitly calls for objective, scientifically grounded standards for evaluating attractiveness."
+        },
+        {
+          "level_3_value": "Be logical",
+          "rationale": "By insisting on scientific validation, the frame appeals to rational, consistent reasoning in assessing beauty."
+        }
+      ]
+    }
+  },
+  "f7535": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame promotes a traditional folk belief about gender determination in the domestic setting, emphasizing preservation of existing cultural customs rather than innovation or individual autonomy."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message encourages adherence to an old wives’ tale and domestic ritual for influencing biological outcomes, reinforcing respect for and continuation of cultural customs."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame explicitly relies on and promotes a traditional practice (having sex in the kitchen to influence baby’s gender), emphasizing the value of following and preserving long-standing customs."
+        }
+      ]
+    }
+  }
+}

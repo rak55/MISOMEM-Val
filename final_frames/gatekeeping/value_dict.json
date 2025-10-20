@@ -1,0 +1,230 @@
+{
+  "f344": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes a hierarchical control dynamic, granting wives authority and dominance over husbands' personal actions, which aligns with seeking power over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for strict adherence to prescribed rules and obedience to authority, reflecting a desire to maintain order and stability in relationships."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly assigns wives the right to command men by requiring men to seek permission before acting, highlighting hierarchical control."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame demands that men comply with a rule set by their wives, reinforcing obedience to established authority."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By prescribing obedience to wives’ authority as necessary, the frame implies that following this rule preserves proper order and stability in the household and by extension society."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame explicitly gives wives authority to approve or deny husbands’ personal activities, underscoring the right to command."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame instructs men to obey and follow the rule of seeking permission from their wives."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame suggests that compliance with wives’ authority is essential for maintaining order in familial relations and societal stability."
+        }
+      ]
+    }
+  },
+  "f1362": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional gender roles and resisting societal change regarding women's public activities."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The statement upholds long-standing cultural norms that women should remain in the home and not participate in public life."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It calls for women to comply with restrictive social rules that limit their freedom to drive or leave home."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It suggests that restricting women's activities is necessary to maintain a stable and orderly society."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame advocates honoring and maintaining established customs that confine women to domestic roles."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It encourages women to follow prescribed rules and refrain from challenging social expectations."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "It implies that enforcing restrictions on women’s mobility is essential for societal stability and preventing disorder."
+        }
+      ]
+    }
+  },
+  "f1405": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame focuses on who deserves recognition and success as representatives, emphasizing individual achievement and competence in technical roles."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The frame criticizes certain women as “unfit” due to lack of competence, underscoring the importance of success and effectiveness in representation."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By warning against undermining efforts and damaging the public image of women in tech, the frame highlights the value of maintaining a positive reputation and social recognition."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be capable",
+          "rationale": "Labeling some women as “unfit” implies that representatives should demonstrate competence and skill to be acceptable."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The frame’s concern over who should represent women in tech reflects a desire to grant respect and avoid humiliation by ensuring only respected individuals hold that position."
+        }
+      ]
+    }
+  },
+  "f2381": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame opposes the inclusion of women, seeking to preserve traditional boundaries and resist social change."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts male dominance and exclusion of women, reinforcing hierarchical control over the group."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes historical or cultural norms of the subculture as male-only, appealing to the preservation of tradition."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame demands compliance with group norms, excluding those who do not adhere to established rules."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that including women would destabilize the subculture, appealing to societal stability."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame seeks to maintain male authority and control by excluding women from the group."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The argument emphasizes following longstanding cultural practices that define the subculture as male-only."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The argument insists that individuals must obey the group’s rules and norms by excluding women."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The argument claims that excluding women preserves the social order of the subculture and prevents chaos."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The argument supports the idea that men should hold authority in the group, excluding women from power."
+        }
+      ]
+    }
+  },
+  "f3787": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional gender norms and resisting changes to social order, aligning with Conservation’s emphasis on stability, tradition, and conformity."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "Highlights the importance of longstanding cultural norms regarding gender roles, framing deviations (i.e., certain feminist expressions) as inauthentic and undeserving of recognition."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "Focuses on adherence to prescribed social behaviors by labeling feminism that challenges established norms as improper or forced."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "Centers on preserving social standing and communal harmony by denying legitimacy to feminist expressions deemed insincere, thereby avoiding social disapproval."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Upholding traditional gender roles",
+          "rationale": "Asserts that only feminist expressions consistent with established gender roles are authentic, reinforcing the preservation of tradition."
+        },
+        {
+          "level_3_value": "Enforcing social norms of proper behavior",
+          "rationale": "Criticizes feminist activities that appear to break unwritten social rules, emphasizing conformity and obedience."
+        },
+        {
+          "level_3_value": "Protecting social reputation by rejecting ‘forced’ feminism",
+          "rationale": "Frames refusal to acknowledge certain feminist expressions as a means to maintain community approval and avoid social discord."
+        }
+      ]
+    }
+  },
+  "f5414": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts a hierarchy among gamers, emphasizing exclusion of women casual players to elevate the social standing and influence of the in-group 'real gamers'."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The frame implies that only those with sufficient gaming skill and seriousness qualify as 'real gamers,' highlighting success and competence according to gaming norms."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By defining who counts as a 'real gamer,' the frame promotes social recognition for the in-group and protects its public image and prestige."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be capable",
+          "rationale": "The frame sets a standard of gaming competence, suggesting that only skillful gameplay merits the identity of a 'real gamer.'"
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The frame demands acknowledgment of status only for those who meet the 'real gamer' criteria, reinforcing in-group approval and prestige."
+        }
+      ]
+    }
+  }
+}

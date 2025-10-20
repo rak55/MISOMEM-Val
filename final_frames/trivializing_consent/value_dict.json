@@ -1,0 +1,248 @@
+{
+  "f3804": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes using personal resources and power to achieve one’s own goals at the expense of others’ autonomy and well-being."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame suggests that wealth can be used to procure someone’s consent, highlighting material resources as the primary means to control or influence others."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By framing consent as something that can be bought, the message implies a hierarchical relationship where one party commands or dominates another through financial means."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame trivializes consent in service of immediate sexual gratification, placing the pursuit of pleasure above moral or interpersonal considerations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The assertion that consent can be purchased underscores the importance of financial means to secure compliance."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The frame conveys that money confers the power to persuade or manipulate someone into granting consent, reflecting a value on instrumental use of influence."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "By minimizing the significance of consent, the frame prioritizes the enjoyment of sexual activity, promoting pleasure as the chief objective."
+        }
+      ]
+    }
+  },
+  "f2884": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame trivializes sexual violence and elevates the aggressor’s status, emphasizing dominance and control over victims, reflecting a value on personal power and superiority."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By dismissing rape as a serious crime if the victim dies, the frame seeks to uphold and preserve patriarchal norms and traditional legal attitudes that have historically devalued women’s suffering."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The statement reinforces a hierarchy in which perpetrators wield unchecked power over victims, underscoring a desire to maintain and legitimize dominance."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to outdated social and legal traditions that historically minimized the severity of violence against women, seeking to preserve those norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Implying that rape is acceptable under certain conditions grants perpetrators an unquestioned authority over victims, reflecting a belief in their inherent right to exert dominance."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By upholding norms that dismiss violence against women, the statement promotes adherence to patriarchal traditions that devalue female autonomy and suffering."
+        }
+      ]
+    }
+  },
+  "f4073": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame glorifies asserting dominance and control over women through violence, reflecting a desire for social power and superiority."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The statement condones physical and sexual violence as a means to assert control and dominance over women."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By suggesting that women \"deserve\" to be slapped in the face with a penis, the frame implies that men have the rightful authority to physically command and humiliate women."
+        }
+      ]
+    }
+  },
+  "f880": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame advocates asserting dominance and power over the rapist, emphasizing control and retribution as a form of exercising authority."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to maintaining social order and security by punishing offenders to deter future crimes and stabilize society."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame is justified in the name of justice and fairness, positioning retribution as a moral imperative to restore balance."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame calls for imposing one's will on the rapist through forced violence, reflecting a desire for control and hierarchical enforcement."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It frames retribution as necessary to uphold societal safety and prevent further offenses, appealing to the need for a stable social environment."
+        },
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The frame presents violent retribution as an act of fairness and justice, appealing to the value of just treatment for wrongdoing regardless of the perpetrator."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By endorsing the rape of a rapist, the message asserts a moral right to take command and dictate consequences for criminal behavior."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame argues that severe retribution is required to maintain societal stability and deter future crimes, emphasizing prevention of chaos."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "It characterizes retribution—specifically rape of the offender—as the morally just response to sexual violence, invoking a concept of blind justice."
+        }
+      ]
+    }
+  },
+  "f2145": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving safety and stability by ensuring sexual consent to prevent rape, aligning with Conservation’s focus on maintaining security and order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The message stresses protecting individual women from physical and psychological harm, which directly corresponds to the value of personal security."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have good health",
+          "rationale": "Preventing rape through consent protects women’s physical integrity and well-being, ensuring they can maintain good health."
+        },
+        {
+          "level_3_value": "Have a comfortable life",
+          "rationale": "By avoiding the trauma and disruption caused by sexual violence, women can enjoy a more comfortable and stable life."
+        }
+      ]
+    }
+  },
+  "f4748": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame promotes personal leisure and autonomy—prioritizing individual enjoyment over social obligations or partner’s needs."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame emphasizes the individual’s freedom to play video games without regard for a partner’s needs or desires."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame elevates the pursuit of personal pleasure from gaming above the moral or relational obligation to respect a partner."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "Encourages the ability to engage in gaming activities at will, implying one should not be constrained by a partner’s expectations."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "Suggests that deriving enjoyment from playing video games is more important than satisfying a partner’s needs."
+        }
+      ]
+    }
+  },
+  "f5258": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame endorses maintaining traditional gender roles and social stability by prescribing women’s domestic duties, reflecting a desire to preserve existing social norms."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men’s dominance and control over women, highlighting a value placed on power and hierarchical superiority."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame specifies women's traditional role in domestic tasks, underscoring the importance of following cultural customs."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It encourages women to please men to avoid displeasing them, reflecting norms of interpersonal compliance and politeness."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It implies that assigning women domestic roles contributes to social stability by upholding established gender norms."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It assigns men the authority to command women, indicating a norm of dominance and control."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame explicitly calls for women to adhere to traditional domestic roles, emphasizing respect for customs."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Pleasing men through domestic work is framed as a way for women to avoid upsetting men, reflecting politeness to not harm others."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Maintaining strict gender roles is justified as a way to keep societal order stable."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Men are portrayed as having the authority to require women to perform domestic tasks, reflecting a power hierarchy."
+        }
+      ]
+    }
+  }
+}

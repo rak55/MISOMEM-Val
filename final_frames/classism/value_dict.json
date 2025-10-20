@@ -1,0 +1,270 @@
+{
+  "f6473": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes wealth and material resources as necessary to attain beauty, reflecting a focus on personal gain and success through material means."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The claim that only wealthy women can be beautiful elevates financial wealth as the key resource for achieving a valued status (beauty)."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame links beauty to social image and recognition, implying that public esteem (face) is tied to wealth."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The frame explicitly privileges financial resources, suggesting that money is required to attain beauty."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "By equating beauty with wealth, the frame implies that only wealthy women gain the social recognition associated with physical attractiveness."
+        }
+      ]
+    }
+  },
+  "f1290": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts a superior social position and encourages dominance over a lower class, prioritizing personal advancement and power over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends maintaining existing social structures and class hierarchies, emphasizing social stability and adherence to traditional norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame promotes asserting control and influence over a lower social class by describing them as 'trash' and encouraging dominance."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By denigrating the lower class, the frame seeks to enhance the speaker’s social recognition and prestige relative to others."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame draws on long-standing class-based social conventions, suggesting that lower classes have always been viewed as inferior and should remain so."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame implies that maintaining a clear class hierarchy preserves social order and prevents perceived chaos caused by lower-class influence."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame encourages adherence to informal social rules that dictate respect and deference to higher social classes, enforcing class-based behavior norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The frame calls for extending power and control over a marginalized group, reflecting a desire for social influence."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The frame seeks to elevate the speaker’s status and reputation by disparaging a lower class."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame appeals to preserving class-based traditions by maintaining the historical view of lower classes as inferior."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame argues that clear class boundaries and hierarchical order are necessary for societal stability."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame enforces conformity to unwritten social rules that lower classes should be looked down upon by higher-status individuals."
+        }
+      ]
+    }
+  },
+  "f1291": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame seeks to uphold traditional sexual morality and maintain existing social order by shaming those who deviate from established norms."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts superiority of higher socioeconomic groups over lower ones and encourages dominance through ridicule."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame defends traditional moral standards regarding women's sexual behavior and encourages respect for long-standing customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame enforces informal social conventions by ridiculing individuals who violate accepted norms of modesty and behavior."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame reinforces hierarchical dominance by targeting a marginalized group and legitimizing social punishment through ridicule."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message promotes adherence to traditional sexual mores as a moral imperative that must not be transgressed."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The message shames those who violate informal social conventions of modesty, enforcing proper conduct through ridicule."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The message assumes authority to judge and punish a marginalized group, legitimizing the speaker's dominance and control over moral standards."
+        }
+      ]
+    }
+  },
+  "f2282": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes asserting superiority and dominance over another group, reflecting a pursuit of power over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The message promotes control and hierarchical superiority by declaring lower classes to be inferior and subject to contempt."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that the dominant group deserves unquestioned authority and the right to look down upon and command lower social classes."
+        }
+      ]
+    }
+  },
+  "f4975": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional social norms about women’s appearance and punishing deviations, reflecting a desire to maintain the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The insult appeals to conventional beliefs about appropriate feminine behavior and appearance, urging adherence to inherited cultural standards."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It pressures individuals to enforce group norms and shame women who deviate from socially accepted standards of appearance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Labeling tattooed women as 'white trash' implies they have violated cultural traditions and must conform to respect heritage and conventional norms."
+        }
+      ]
+    }
+  },
+  "f6487": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts superiority and dominance of one group over another, reflecting a desire to enhance one’s own relative success and power."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By upholding existing social hierarchies and stigmatizing a subgroup, the frame preserves the social order and in-group loyalty inherent to conservation values."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Labeling ‘white trash’ as inferior emphasizes control and dominance over that group."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame attacks the social esteem and reputation of the targeted group, reinforcing in-group prestige and maintaining positive face for the dominant group."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Demonstrates the desire to exert control and maintain influence over the stigmatized group."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "Highlights the importance of being recognized and esteemed socially, contrasting the respected in-group with the devalued out-group."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Captures the focus on positive social reputation by demeaning the out-group’s character and standing."
+        }
+      ]
+    }
+  },
+  "f6488": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes adherence to established social norms and preservation of a woman's public image, underlining the importance of maintaining the existing social structure and conventions."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame centers on a woman's public image and reputation at social events, suggesting her class and worth depend on her visible conduct and status."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It implies that a woman must follow proper social rules and accepted behavior at events to uphold her class and worth."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The notion that a woman's worth is judged by her public image and social standing directly invokes the value of maintaining a good reputation."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "By asserting her behavior defines her worth, the frame enforces the expectation of proper conduct according to social rules."
+        }
+      ]
+    }
+  },
+  "f7443": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts the superiority of the speaker over women in trailer parks and emphasizes a hierarchical social order where the target group is demeaned, which aligns with Self-Enhancement’s focus on boosting one’s own status at the expense of others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame expresses a desire to assert control and dominance by insulting and demeaning a marginalized group, reflecting the Power (dominance) value of maintaining authority and social hierarchy."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By stating that women in trailer parks deserve to be looked down upon, the speaker implies they have the authority to judge and dictate social status, directly invoking the value of having the right to command."
+        }
+      ]
+    }
+  }
+}

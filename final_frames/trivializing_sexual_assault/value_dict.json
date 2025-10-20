@@ -1,0 +1,202 @@
+{
+  "f3442": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame seeks to maintain and enhance men's social power by discrediting women's credibility, thereby reinforcing male dominance and privilege."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By casting doubt on women's allegations, the frame preserves traditional gender hierarchies and aims to prevent perceived social disruption from believing rape claims."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Labeling women's allegations as untrustworthy serves to reinforce male authority and control over social narratives, ensuring men retain dominance."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "Arguing that allegations are often false is presented as a way to avoid moral panic or undue social upheaval, thereby preserving societal stability."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame aligns with traditional patriarchal norms by discrediting women’s voices and upholding historic gender roles that privilege men."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "Discrediting allegations protects the reputations and public images of men, preventing humiliation and maintaining good standing."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By dismissing women’s claims as unreliable, the frame implicitly grants men unchallenged authority in disputes."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Portraying allegations as often false is used to argue against societal disturbance, implying that doubting claims keeps society orderly."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Denying the validity of women’s allegations appeals to preserving longstanding patriarchal practices and gender norms."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Casting doubt on accusations is positioned as necessary to protect men’s reputations from false claims and public shame."
+        }
+      ]
+    }
+  },
+  "f4265": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame promotes unrestricted expression and novelty in humor, prioritizing freedom to joke over established norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (thought)",
+          "rationale": "The frame argues against censorship and for the right to think and express jokes about any topic, including sexual assault."
+        },
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame asserts individuals should have the freedom to choose their own actions, such as making jokes about sensitive subjects."
+        },
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "By endorsing taboo humor, the frame appeals to seeking excitement and boundary-pushing in comedic expression."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame justifies joking about sexual assault as a source of amusement and pleasure for the joker and the audience."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of thought",
+          "rationale": "The frame opposes restrictions on what topics can be joked about, defending mental autonomy and free ideas."
+        },
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "It emphasizes the right to perform actions (telling jokes) regardless of their social acceptability."
+        },
+        {
+          "level_3_value": "Be daring",
+          "rationale": "It valorizes edgy humor that pushes social boundaries and shock value."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "It portrays jokes—even about sexual assault—as legitimate sources of enjoyment and fun."
+        }
+      ]
+    }
+  },
+  "f7528": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame urges preserving social harmony by discouraging what it portrays as unnecessary disruption from feminists, reflecting a preference for maintaining existing norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By suggesting feminists should not upset others with their reactions and should adhere to proper behavior, the frame appeals to the interpersonal conformity value of politeness."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Labeling feminist concerns as overreactions implies they are being impolite or annoying, highlighting the importance of politeness and avoiding behaviors that upset others."
+        }
+      ]
+    }
+  },
+  "f6877": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame calls for compassion and fair treatment of all survivors, highlighting concern for others beyond oneself."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The frame emphasizes the need for equal treatment and justice for all rape victims regardless of gender."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have equality",
+          "rationale": "By pointing out unequal belief in rape claims based on gender, the frame calls for equal consideration of male victims."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "The frame underscores the importance of fairness and impartial treatment of rape survivors, reflecting a value of justice."
+        }
+      ]
+    }
+  },
+  "f758": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame reduces women to their social value and attractiveness, implying their public recognition determines their worth and risk of assault."
+        },
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame implicitly frames sexual assault as driven by pursuit of pleasure, highlighting a hedonistic motive."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame assesses women’s public image (physical attractiveness) as the key factor influencing social treatment and risk."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame treats sexual assault as driven by the perpetrator’s desire for pleasure and sensual gratification."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The frame implies that only women recognized as attractive by societal standards are targeted, valuing public recognition based on appearance."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The frame suggests sexual assault occurs only when the act yields sensual gratification, emphasizing the pursuit of pleasure."
+        }
+      ]
+    }
+  },
+  "f4787": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame assigns differential severity based on a woman’s physical attractiveness, implying that attractive individuals deserve more favorable treatment and social advantage."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "By privileging attractive teachers, the frame leverages the importance of public image and social standing as factors that should mitigate punishment."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "It suggests that attractive individuals garner more social approval and recognition, and thus should face less severe consequences."
+        }
+      ]
+    }
+  }
+}

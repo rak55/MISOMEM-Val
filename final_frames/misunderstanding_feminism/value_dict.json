@@ -1,0 +1,538 @@
+{
+  "f3797": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The statement pathologizes feminist ideology as a deviation from accepted norms and advocates preserving existing social structures and traditions, reflecting a desire to maintain the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By labeling feminists as mentally ill, the frame implies that feminism violates cultural and family traditions and must be rejected to preserve those traditions."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The insult discourages deviation from informal gender norms and social conventions, promoting adherence to established behaviors."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame portrays feminism as a threat to social stability, suggesting that rejecting feminist ideas is necessary to maintain a stable society."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By claiming that feminists are mentally ill, it warns individuals that association with feminist ideas would damage their public image and reputation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame reinforces the importance of following longstanding cultural and family customs by condemning feminism as a departure from tradition."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Calling feminist behavior mentally ill reinforces the need to conform to accepted social conventions and avoid behaviors seen as improper."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The depiction of feminism as destabilizing implies that rejecting feminist ideology is key to preserving societal stability."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The threat of being labeled mentally ill emphasizes protecting one’s public image and social standing by distancing from feminist ideas."
+        }
+      ]
+    }
+  },
+  "f6070": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame invokes the notion of equal rights for all, reflecting a concern for the welfare and fair treatment of every individual, which is central to self-transcendence."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "By focusing on equal rights, the frame appeals to the value of equality and justice for all people, which falls under universalism (concern)."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have equality",
+          "rationale": "The frame’s reference to equal rights directly invokes the idea that all individuals should have equal opportunities and status."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "By challenging who ‘cares’ about equal rights, the frame implicitly invokes the principle of fairness and just treatment for everyone."
+        }
+      ]
+    }
+  },
+  "f7186": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame normalizes and promotes male dominance over women, prioritizing power hierarchies and control over women’s autonomy."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional, patriarchal social structures and maintaining social order through defined gender roles."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts that men should hold control and command authority over women, reinforcing hierarchical power relations."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes longstanding cultural and linguistic precedents to justify women’s subordination as a traditional norm."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame demands adherence to established gender rules, implying that women must comply with male-defined social expectations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame suggests men inherently possess the authority to command women, naturalizing male leadership."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame calls for upholding traditional gender distinctions rooted in language and history."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame implies women should obey and accept their subordinate role without challenge."
+        }
+      ]
+    }
+  },
+  "f2074": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame rejects change in gender roles and emphasizes preserving the traditional female identity, reflecting a desire to maintain existing social norms and stability."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame insists that women maintain their traditional identity and not adopt 'male' characteristics, appealing to upholding long-standing cultural and gender customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By arguing that feminists should not depart from their 'proper' female role, the frame promotes adherence to prescribed gender norms and social expectations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame explicitly invokes maintaining traditional gender identities and ways of thinking about womanhood, urging women to honor established customs."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame calls for women to follow established social rules for gender behavior, discouraging deviation from conventional female roles."
+        }
+      ]
+    }
+  },
+  "f6226": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame defends male economic power and status by rejecting the idea of women earning more, emphasizing control over resources and dominance."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for preserving traditional gender roles and maintaining the established social order by labeling women’s ambition to surpass men’s income as unacceptable."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame focuses on the distribution of wealth and implicitly argues that financial resources should remain under male control rather than be surpassed by women."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to maintaining traditional gender norms where men are expected to be the primary earners and women should not challenge that historical pattern."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame enforces adherence to a social rule—that women should not seek to out-earn men—by labeling such ambitions as hypocritical and improper."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The frame centers on monetary resources, suggesting that earning more wealth than men is inappropriate for women."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame advocates following longstanding gender traditions by condemning women who deviate from the expected earning hierarchy."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame pressures women to comply with established gender expectations and avoid challenging the norm of male financial primacy."
+        }
+      ]
+    }
+  },
+  "f3038": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds rigid, static group distinctions and emphasizes maintaining existing social order by attributing negative traits uniformly to one gender."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It enforces strict adherence to a blanket negative stereotype of all men, discouraging any deviation from the prescribed in‐group/out‐group expectations in interpersonal relations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Hostile generalization",
+          "rationale": "It indiscriminately assigns a hostile characteristic (misogyny) to an entire group (all men), reflecting a broad negative stereotyping that violates norms of respectful interpersonal conduct."
+        }
+      ]
+    }
+  },
+  "f7342": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes adherence to social norms of polite discourse and avoiding upsetting others by condemning sweeping negative statements about men, reflecting a desire for social harmony and stability."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "By calling out unfair generalizations and advocating for fair and unbiased treatment of men, the frame appeals to broader principles of justice, equality, and humane treatment."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The criticism of sweeping negative statements underscores the importance of being polite and avoiding harm to others in conversation."
+        },
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "Condemning unfair stereotyping and calling for equal treatment of men appeals to the value of justice and equitable treatment for all."
+        },
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "The frame decries biased, emotional generalizations and promotes rational, unbiased evaluation of individuals rather than broad judgments."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The frame urges avoiding sweeping negative statements to maintain civil and respectful discourse and not upset others."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "By highlighting unfair treatment of men through generalizations, the frame calls for fairness and impartiality in how individuals are judged."
+        },
+        {
+          "level_3_value": "Have equality",
+          "rationale": "Opposing broad negative statements about men advocates for equal and non-discriminatory treatment across genders."
+        },
+        {
+          "level_3_value": "Be logical",
+          "rationale": "The frame criticizes irrational, generalized attacks and encourages reasoned, coherent argumentation."
+        },
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "By rejecting biased sweeping statements, the frame endorses neutral, fact-based assessments over emotional broad-brush judgments."
+        }
+      ]
+    }
+  },
+  "f6013": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The statement defends the existing social order and discourages changes proposed by feminism, emphasizing the preservation of traditional gender roles and social structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By portraying feminism as hostile to men, the frame implies that one should adhere to long-standing customs and gender roles rather than embrace feminist change."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The statement suggests that feminism destabilizes society by creating conflict between genders, thus valuing the maintenance of social stability and order."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By framing feminism as hateful toward men, the frame appeals to norms of polite interaction and discourages behavior that upsets or harms others."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame encourages upholding established gender norms and cultural practices instead of embracing feminist reforms."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "It implies that rejecting feminism preserves societal cohesion and prevents conflict, prioritizing social stability."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "By condemning hatred toward men, the frame appeals to the value of courteous behavior and discourages insulting or harmful speech."
+        }
+      ]
+    }
+  },
+  "f3935": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame appeals to concern for the welfare of men and calls for fairness, justice, and equality, which transcends self-interest to include all individuals."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The frame demands equal consideration of men’s suffering and highlights the need for fairness and justice in addressing the welfare of all people regardless of gender."
+        },
+        {
+          "level_2_value": "Universalism (tolerance)",
+          "rationale": "The frame calls for broadmindedness by encouraging feminists to listen to and acknowledge the experiences and mistreatment of men, a viewpoint often overlooked."
+        },
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "The frame emphasizes the need for an unbiased and factual acknowledgment of men’s experiences, urging an objective perspective beyond ideological biases."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have equality",
+          "rationale": "The frame asserts that men deserve equal recognition of their suffering, promoting equal treatment for all genders."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "The frame criticizes what it sees as an unjust omission by feminists and calls for fairness in addressing mistreatment of all groups."
+        },
+        {
+          "level_3_value": "Be broadminded",
+          "rationale": "The frame encourages openness to differing experiences and viewpoints, specifically that of men’s mistreatment often ignored in feminist discourse."
+        },
+        {
+          "level_3_value": "Be objective",
+          "rationale": "The frame highlights the importance of acknowledging factual evidence of men’s mistreatment without ideological bias."
+        }
+      ]
+    }
+  },
+  "f176": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes the need to uphold societal duties and responsibilities, highlighting preserving established norms and order rather than pursuing change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame criticizes feminists for not meeting obligations associated with their demands for rights, calling attention to compliance with social rules and duties."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "By accusing feminists of avoiding equal responsibilities, the frame appeals to the value of abiding by rules and fulfilling one's obligations when claiming rights."
+        }
+      ]
+    }
+  },
+  "f7666": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional gender roles and preserving the existing social order by excluding women from military challenges."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By asserting that women are unprepared and implicitly privileging men’s capability, the frame reinforces male dominance and authority over socially valued challenges."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to longstanding cultural norms about gender roles, suggesting women should not be drafted and should stick to traditional expectations."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By invoking the idea that women are not ready for draft, the frame reinforces informal social rules and conventions about what women ‘properly’ do or do not do."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame implies that societal stability depends on keeping women out of military service, preserving the status quo of gender‐based division of labor."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame upholds male authority by implying that only men are fit for the challenges of military service, reinforcing hierarchical gender power."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The argument that women should not face the same challenges as men appeals directly to following established cultural customs regarding gender."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame promotes adherence to social conventions about gender-appropriate roles, suggesting that women must not transgress those boundaries."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The claim that drafting women would disrupt societal order evokes the value of preserving a stable and predictable social structure."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By implying that men alone are suited for military leadership and challenges, the frame supports clear hierarchies and male authority."
+        }
+      ]
+    }
+  },
+  "f2979": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame highlights concern for victims' welfare and moral outrage, reflecting care beyond self-interests."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes adherence to social norms and proper behavior toward serious issues like rape."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "The frame calls to protect victims and prioritize their welfare by discouraging hurtful humor."
+        },
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The frame appeals to justice and fairness by condemning trivialization of severe harm."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame invokes social conventions and norms forbidding jokes about rape as improper behavior."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be helpful",
+          "rationale": "Encourages protecting and supporting victims by discouraging harmful humor."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "Appeals to fairness and justice by condemning trivialization of severe harm."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Demands adherence to social norms forbidding humor on grave issues like rape."
+        }
+      ]
+    }
+  },
+  "f5110": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame discourages change in women’s roles and emphasizes maintaining traditional social norms and stability."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame implies that young women should adhere to long-standing cultural and family expectations rather than pursue independence."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It suggests that women must comply with established social norms and not deviate from prescribed behavior."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By labeling independent women as naïve, the frame pressures them to avoid upsetting or challenging others’ expectations."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame posits that women’s independence threatens societal stability, valuing preservation of the existing social order."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame promotes following traditional gender roles and honoring cultural customs over personal self-discovery."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It enforces adherence to informal social conventions by criticizing those who step outside expected roles."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Labeling independent women as misguided pressures them to conform in order not to disturb social harmony."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame argues that individual independence undermines the security and stability of the broader community."
+        }
+      ]
+    }
+  },
+  "f7128": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving the status quo and discouraging challenges to existing social norms by labeling critiques of sexism, racism, and homophobia as ‘overly sensitive.’"
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame rejects calls for social change and upholds traditional power structures by dismissing critiques of discrimination as unnecessary or excessive."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By branding activists as overly sensitive, the frame promotes avoiding offense or upset, encouraging people to conform to unwritten social norms of not publicly criticizing injustices."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame appeals to maintaining a stable social order by discouraging actions (calling out discrimination) that are portrayed as disruptive."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame implies that maintaining long-standing social norms and not challenging traditional hierarchies is preferable to addressing issues of discrimination."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Labeling those who speak out as overly sensitive promotes the idea that one should avoid causing offense or discomfort by not publicly critiquing societal injustices."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame suggests that dismissing claims of discrimination preserves social harmony and prevents upheaval."
+        }
+      ]
+    }
+  }
+}

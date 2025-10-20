@@ -1,0 +1,346 @@
+{
+  "f4996": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts a hierarchy that elevates men over women, encouraging male dominance and superiority."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds and defends traditional gender roles, emphasizing the maintenance of a fixed social order where women remain subordinate."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By labeling women as inherently unintelligent, the frame justifies and reinforces the control and authority of men over women."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to longstanding cultural norms about gender, insisting that women must stay in an inferior role as part of historical tradition."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The claim that women are meant to be unintelligent implies that only men have the competence and right to lead or make decisions."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By enforcing traditional gender stereotypes, the frame promotes adherence to established practices that keep women in a subordinate position."
+        }
+      ]
+    }
+  },
+  "f2817": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame elevates women’s physical attractiveness as their primary asset for gaining success and recognition, promoting personal advancement through image rather than intellectual achievement."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By insisting women don’t need education if they are attractive, the frame upholds and preserves traditional gender roles and discourages social change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame encourages women to rely on their public image—physical beauty—as the key to social status and approval instead of their capabilities or education."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It reinforces conventional cultural norms by suggesting that women’s roles should remain centered on appearance rather than intellectual development."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The message implies that physical attractiveness alone suffices to earn respect and acknowledgment in society, making education unnecessary."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It appeals to maintaining longstanding customs about women’s societal roles, advocating adherence to a traditional view that beauty outweighs education."
+        }
+      ]
+    }
+  },
+  "f5929": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes domination over women by undermining their achievements, reflecting a desire for control and superiority."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for preserving traditional gender hierarchies and resisting social change that empowers women."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It explicitly encourages asserting authority over women by trivializing their professional roles, emphasizing dominance."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It appeals to maintaining established patriarchal norms by suggesting women’s professional gains should be kept in their ‘proper’ place."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It implies that social stability depends on keeping women subordinate, framing change as a threat to societal order."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Normalizes the idea that certain groups (men) are entitled to control and diminish others’ accomplishments."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Evokes adherence to long-standing gender roles as a justification for undermining women’s professional status."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Frames the subjugation of women as necessary to prevent disorder and maintain the existing social structure."
+        }
+      ]
+    }
+  },
+  "f451": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends traditional norms against adultery and emphasizes maintaining social stability and established moral codes, which aligns with Conservation’s emphasis on tradition and stability."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By insulting women as unintelligent and lacking common sense, the frame implicitly values intelligence and competence, aligning with Self-Enhancement’s focus on personal achievement and capability."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame condemns women who support adultery, implying that upholding marital fidelity and traditional values is important."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By labeling supporters of adultery as behaving improperly, the frame enforces compliance with moral rules of fidelity and proper conduct."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The insult implies that women who condone adultery damage their reputation, highlighting the importance of maintaining a good public image."
+        },
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The frame’s focus on intelligence and common sense implies that cognitive competence and success in reasoning are valued."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame presents support for adultery as a violation of norms, implying the importance of honoring longstanding marital traditions."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "By branding supporters of adultery as lacking common sense, the frame underscores the value of proper moral behavior."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The disparagement suggests that condoning adultery harms one’s standing, elevating the value of preserving one’s reputation."
+        },
+        {
+          "level_3_value": "Be intellectual",
+          "rationale": "Calling these women unintelligent signals that intellectual capability is a valued attribute."
+        },
+        {
+          "level_3_value": "Be capable",
+          "rationale": "Accusing them of lacking common sense indicates a preference for practical competence and effective reasoning."
+        }
+      ]
+    }
+  },
+  "f2417": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts male intellectual superiority and endorses male dominance over women’s understanding of films, appealing to personal power and status."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional gender roles and calls for maintaining existing social hierarchies where women defer to men’s explanations."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It reinforces hierarchical authority by claiming men have the right to explain movies to women, positioning men as the rightful leaders in interpreting culture."
+        },
+        {
+          "level_2_value": "Achievement",
+          "rationale": "It emphasizes intellectual competence as a valued trait—implicitly praising men’s cognitive abilities and devaluing women’s understanding."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It promotes adherence to conventional gender roles that place men in instructor positions and women in passive, dependent roles."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame explicitly grants men authority to instruct women, positioning men as the legitimate explainers of cultural content."
+        },
+        {
+          "level_3_value": "Be intellectual",
+          "rationale": "The frame presupposes that intellectual ability to comprehend films is highly valued and implicitly reserved for men."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame advocates for following traditional gender norms, where women are expected to defer to men’s explanations."
+        }
+      ]
+    }
+  },
+  "f3975": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame highlights material success and financial gain (pay raises) as the key measure of worth and status, reflecting a focus on self-interest and personal achievement."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "By emphasizing that raises should be earned through merit and hard work, the frame invokes the value of success in accordance with social norms and competence."
+        },
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The focus on obtaining pay raises underscores the importance of material possessions and financial resources as a cultural value."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have success",
+          "rationale": "Describing pay raises as the rightful reward for merit positions success (measured in salary increases) as a central value."
+        },
+        {
+          "level_3_value": "Be capable",
+          "rationale": "The insistence on earning raises through hard work implies an expectation of competence and capability."
+        },
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The frame’s emphasis on pay raises highlights the desirability of wealth and financial prosperity."
+        }
+      ]
+    }
+  },
+  "f1132": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame promotes maintaining existing social norms and gender roles, discouraging change and preserving traditional social structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It implies that women should follow longstanding cultural or familial customs by remaining silent, upholding traditional gender roles."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It emphasizes the need for women to comply with a social rule or expectation that they should not voice opinions."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame suggests that women must honor and adhere to traditional practices of silence and submissiveness."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame demands that women obediently comply with societal rules dictating they must remain silent."
+        }
+      ]
+    }
+  },
+  "f2980": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame devalues women’s abilities in problem-solving and elevates the importance of individual competence and success, reflecting a focus on personal achievement and superiority."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "By criticizing women as unhelpful in solving problems, the frame highlights the importance of being capable and successful according to social standards of effectiveness."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be capable",
+          "rationale": "The statement implies that solving problems effectively is a key virtue and that women fail to meet this standard, emphasizing the value of competence in task performance."
+        }
+      ]
+    }
+  },
+  "f4486": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame promotes objective, unbiased understanding over personal or group-based intuition, aligning with the universalist emphasis on seeking truth beyond individual biases."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "The frame explicitly rejects intuitive, subjective knowledge in favor of rational, unbiased reasoning and truth-seeking."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be logical",
+          "rationale": "By labeling women’s intuition as a myth and advocating ignoring it, the frame appeals to a rational, logic-based approach over emotional or instinctive reasoning."
+        },
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "The frame encourages forming opinions based on neutral, evidence-based standards rather than subjective gut feelings."
+        }
+      ]
+    }
+  },
+  "f5044": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame elevates the importance of rationality and objective truth, devaluing mystical beliefs in astrology and aligning with universalist ideals under self-transcendence."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "The frame criticizes astrology-based beliefs as irrational and endorses ridiculing them for lacking unbiased, evidence-based reasoning, reflecting the value of objectivity."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be logical",
+          "rationale": "By labeling these beliefs as irrational, the frame emphasizes the importance of logical reasoning and coherent thought."
+        },
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "The frame dismisses astrological determinism for lacking an unbiased, truth-seeking perspective, promoting an objective viewpoint."
+        }
+      ]
+    }
+  }
+}

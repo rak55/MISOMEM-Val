@@ -1,0 +1,860 @@
+{
+  "f4867": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional moral standards and condemning deviation from established norms, highlighting a desire for social stability and order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The statement upholds traditional sexual norms by implying women should follow longstanding moral codes regarding appropriate behavior."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It calls for compliance with informal moral rules about female sexuality, suggesting that women must not violate these social conventions."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By labeling women who use Snapchat as promiscuous, it seeks to protect social reputation and avoid public humiliation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame promotes adherence to traditional values about sexual propriety, implying that women must follow established customs."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It pressures women to conform to accepted moral standards and avoid actions considered socially improper."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "It warns that using Snapchat damages women’s public image, emphasizing the importance of maintaining a positive reputation."
+        }
+      ]
+    }
+  },
+  "f918": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes social status derived from physical appearance, focusing on personal success and recognition through looks."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "It stresses the importance of maintaining one’s public image and gaining respect based on physical attractiveness."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The frame implies that women must be physically attractive to earn respect and avoid social humiliation."
+        }
+      ]
+    }
+  },
+  "f6446": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts a hierarchy by demeaning blonde women’s intelligence, thereby promoting an in‐group’s superiority and the speaker’s dominance over the targeted group."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "By characterizing blonde women as inherently ‘dumb,’ the frame implicitly values intellectual success and competence in others, contrasting it with the targeted group’s alleged failure to achieve those standards."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The statement uses a negative stereotype to assert control and maintain dominance over blonde women, reinforcing social hierarchies based on intelligence."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be intellectual",
+          "rationale": "The frame denigrates blonde women by denying them intelligence, thereby implicitly elevating intellectual capability as a valued trait."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "By labeling a group as dumb, the speaker enhances their own social influence and control over accepted norms and beliefs about intelligence."
+        }
+      ]
+    }
+  },
+  "f1731": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame rejects feminist perspectives and promotes preserving the existing social and cultural order, resisting change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By invalidating feminist views, the frame upholds traditional gender norms and cultural practices, discouraging new ideas."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame portrays feminist perspectives as a threat to societal stability and calls for their dismissal to maintain social order."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The argument that feminist views are invalid implicitly emphasizes adherence to established cultural and familial traditions over new perspectives."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Ridiculing feminist ideas is presented as necessary to prevent disruption and preserve a stable, orderly society."
+        }
+      ]
+    }
+  },
+  "f5598": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The statement condemns women’s behavior to maintain existing social norms and order, emphasizing stability, tradition, and proper conduct."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "By calling drunk women \"hapless idiots,\" the frame implies they are damaging their public image and reputation, highlighting the importance of maintaining social standing."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame presumes women should adhere to traditional norms about feminine behavior and disapproves when they deviate by drinking."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "Labeling drunk women as idiots enforces the expectation that women behave properly and follow social conventions regarding acceptable behavior."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The statement implies that women who drink lose their social standing and reflecting poorly on them, underscoring the value of protecting one's reputation."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame suggests women should follow traditional customs about sobriety and proper feminine conduct."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Calling women idiots for drunkenness enforces adherence to social conventions and norms governing appropriate behavior."
+        }
+      ]
+    }
+  },
+  "f201": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional social structures and resisting changes to women’s roles, advocating maintenance of established norms."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By portraying women—especially single mothers—as undesirable or problematic, the frame asserts in-group dominance and control over a subordinate group."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes respect for conventional family customs and gender roles, implying that deviations (like single motherhood) violate cultural traditions."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It suggests that single mothers threaten the stability and order of society, calling for safeguarding the existing social structure."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame reinforces hierarchical authority by positioning men (or traditional familial structures) as justified in controlling or judging women’s behavior."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message devalues single motherhood by framing it as a breach of customary family and gender norms, thus urging adherence to traditional practices."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "It labels single mothers as problematic for social order, thereby promoting the goal of maintaining societal stability."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By casting women as undesirable, the frame legitimizes dominant authority over them, suggesting some groups have a superior right to dictate others’ behavior."
+        }
+      ]
+    }
+  },
+  "f3979": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame explicitly promotes dominance and control over women, highlighting self-interest in rising above and commanding others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame supports maintaining a rigid social hierarchy by suppressing women's autonomy, thereby preserving traditional power structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The message advocates for men to exercise authority and control over women, emphasizing dominance as a social value."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame implies that women must obey imposed rules and submit to control without resistance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The statement 'Women need to be controlled like animals' directly endorses the right to command women."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "By comparing women to animals, the frame demands their complete compliance and obedience to authority."
+        }
+      ]
+    }
+  },
+  "f5528": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame diminishes older women to elevate the pursuit of status and personal gratification tied to youth and attractiveness."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces traditional norms about female beauty and age, aiming to preserve established social order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame celebrates youthful beauty as a source of pleasure and self-gratification, devaluing older women who no longer provide such pleasures."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "Declaring older women 'ruined' threatens their social respect and recognition, implying that youth is necessary for social approval."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame relies on cultural scripts that associate women's value primarily with youth and purity, upholding age-based norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Experience pleasure from youthful beauty",
+          "rationale": "Reflects the pursuit of sensory gratification and pleasure derived from youth, central to the devaluation of older women."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "Older women are considered 'ruined,' undermining their respect and standing in society, highlighting the need for social approval only when youthful."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Labels older women undesirable when they deviate from traditional norms that value youth and purity, reinforcing ageist traditions."
+        }
+      ]
+    }
+  },
+  "f5161": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional gender roles and social order by restricting women’s roles to cooking and serving."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes dominance of men over women, valuing power and control of one group over another."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame calls for women to adhere to long-established cultural roles of cooking and serving men, highlighting the importance of maintaining traditional family practices."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By insisting women refrain from voicing opinions, the frame encourages compliance with social expectations and avoidance of upsetting the male authority."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame justifies men’s right to command and control women’s behavior, reflecting a value placed on hierarchical dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Arguments insist women follow customary domestic roles, reinforcing the value of honoring and maintaining tradition."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Women are told not to voice opinions in order to avoid offending men, emphasizing interpersonal restraint and politeness."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame grants men authority to dictate women’s actions, endorsing the idea that certain individuals deserve control over others."
+        }
+      ]
+    }
+  },
+  "f4337": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "This frame supports and reinforces hierarchical power dynamics by invalidating women's concerns to maintain male authority in relationships."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame discourages changes to traditional gender roles by calling women’s legitimate feelings 'craziness', thus preserving the existing social order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By dismissing women’s suspicions as 'craziness', the frame upholds men’s control and authority in relationships, reinforcing male dominance."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It promotes adherence to traditional gender norms that women should remain passive and not challenge their partners, thereby preserving established customs."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that men have the unquestioned authority to override or dismiss women’s perspectives in relationships."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It encourages women to conform to traditional roles by labeling their valid concerns as unacceptable, thus enforcing customary behavior."
+        }
+      ]
+    }
+  },
+  "f6740": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts a sense of superiority in order to elevate the speaker’s or their group’s status over women."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By labeling women as inferior, the frame enforces a hierarchical relationship in which one group holds dominance over another."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The claim that women are inferior implies that those in the dominant group (men) have the authority and right to command or control women."
+        }
+      ]
+    }
+  },
+  "f701": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to maintaining social norms and order by condemning deceptive behavior (photo editing) as a violation of accepted standards."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame emphasizes the importance of honesty and trustworthiness in interpersonal relationships, reflecting concern for others’ welfare."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By labeling photo editing as untrustworthy behavior, the frame enforces compliance with informal norms against deception."
+        },
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "The frame stresses the value of honesty to preserve trust, which supports caring and cooperative relationships within the group."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame implies that editing photos is improper behavior, thus valuing adherence to social conventions of authenticity."
+        },
+        {
+          "level_3_value": "Be honest",
+          "rationale": "The frame directly criticizes deceptive editing and promotes honesty as a key virtue for trustworthy individuals."
+        }
+      ]
+    }
+  },
+  "f7813": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame discourages reporting sexual assault to preserve the existing social order and maintain harmony, emphasizing resistance to change or disruption."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By labeling women who report assault as unreasonable and ungrateful, the frame enforces interpersonal norms of politeness and discourages upsetting others."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The frame implies that reporting assault is impolite and socially disruptive, reinforcing a norm that women should not burden or disturb others with their experiences."
+        }
+      ]
+    }
+  },
+  "f901": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame explicitly disregards interpersonal norms of politeness and respect, highlighting a stance on social conventions and how people should or should not treat each other."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By mocking and demeaning Thai women, the frame promotes asserting dominance and elevating one’s own status over a marginalized group."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame implicitly references the notion of tolerance by showing contempt for gender diversity, thus invoking the opposed value of accepting others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The statement rejects the value of avoiding harm and upsetting others, directly undermining the expectation to be polite in social interactions."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Encouraging mockery and humiliation is an expression of asserting control or superiority over the targeted group."
+        },
+        {
+          "level_2_value": "Universalism (tolerance)",
+          "rationale": "By suggesting it is acceptable to mock transgender identity, the frame opposes the ideal of accepting and understanding those who are different."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The frame’s instruction to mock Thai women violates the implicit norm of politeness it references and rejects."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Promoting mockery implies a belief in having authority to demean others and assert dominance."
+        },
+        {
+          "level_3_value": "Be broadminded",
+          "rationale": "The contempt for transgender identity directly opposes the value of open-minded acceptance of diverse individuals."
+        }
+      ]
+    }
+  },
+  "f1290": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes superiority and dominance over a lower social class, aligning with the pursuit of power over others which is central to self-enhancement."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame supports maintaining existing social hierarchies and social order by reinforcing disdain for lower classes, reflecting conservation’s emphasis on a stable society."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By advocating looking down on people of lower social class, the frame promotes the idea that the upper class should control and dominate lower-class individuals."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The disparagement of lower social classes serves to reinforce class boundaries and preserve a stable social structure, consistent with societal security."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that the upper class has inherent authority to judge and dictate the status of lower classes, supporting clear hierarchies of command."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "By demeaning lower classes, the message seeks to maintain existing social structures and prevent challenges to the established order, promoting societal stability."
+        }
+      ]
+    }
+  },
+  "f80": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame condemns bridesmaids for seeking attention, implying they must adhere to established social norms and avoid disruptive behavior, which aligns with maintaining tradition and social order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Humility",
+          "rationale": "By labeling bridesmaids as attention seekers, the frame implicitly promotes the virtue of modesty and the avoidance of arrogance or self-promotion."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be humble",
+          "rationale": "The statement criticizes bridesmaids for drawing attention to themselves, thereby endorsing the value of humility and discouraging behaviors seen as boastful or vain."
+        }
+      ]
+    }
+  },
+  "f1212": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame uses demeaning language to assert dominance over women, aiming to elevate the speaker’s status by belittling a group."
+        },
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame emphasizes the acceptability of expressing insulting opinions freely, valuing unconstrained personal action."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The insult is deployed to assert control and superiority over the targeted group."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By encouraging public insults, the frame seeks social recognition and esteem within the speaker’s in-group."
+        },
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The message defends the freedom to act (in this case, to insult) without restraint."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Using insults to shape opinions and dominate the discourse demonstrates a desire for influence over others."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "Deriding a group publicly aims to earn approval and status from like-minded peers."
+        },
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "The frame explicitly asserts that individuals should be free to insult others to express their views without limitation."
+        }
+      ]
+    }
+  },
+  "f1694": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional social norms and resisting changes to accepted relationship behaviors, highlighting the importance of maintaining established order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame underscores adherence to longstanding cultural expectations around marriage and fidelity, valuing respect for inherited norms."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It reinforces following social rules regarding sexual exclusivity, discouraging deviation from accepted moral codes."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame focuses on preserving social image and avoiding public disgrace, emphasizing the importance of reputation in community standing."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Encourages upholding traditional marriage norms and fidelity practices to align with cultural expectations."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Reflects the demand to conform to established rules of sexual exclusivity and not challenge accepted relationship boundaries."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Highlights the need to avoid social stigma, particularly the negative perception of being a complicit side-chick, to maintain social standing."
+        }
+      ]
+    }
+  },
+  "f3162": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes violence and dominance over a despised group (overweight women), reflecting a desire for power and control over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame degrades overweight bodies as unclean or disorderly and calls for their removal to restore bodily ‘order’ and health, appealing to the value of maintaining a neat, secure environment."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly calls for harpooning overweight women, asserting a right to command violence and control over them."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The frame frames overweight women as unhealthy and disorderly bodies that threaten personal and societal well-being, implying they must be eliminated for health and cleanliness."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The call to harpoon overweight women asserts that the speaker has authority to order violent actions against them."
+        },
+        {
+          "level_3_value": "Have good health",
+          "rationale": "Labeling overweight women as akin to whales invokes concerns about health and disease, suggesting their elimination preserves communal well-being."
+        },
+        {
+          "level_3_value": "Be neat and tidy",
+          "rationale": "Comparing women to large, messy animals implies a violation of cleanliness and bodily order, and the violence is proposed to enforce tidiness."
+        }
+      ]
+    }
+  },
+  "f3354": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds and enforces traditional gender norms by demeaning women and resisting any change in women's social value."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame reinforces hierarchical power by demeaning women to elevate and maintain male dominance."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame draws on the long-standing traditional trope that women are inherently impure and undesirable, urging respect for these outdated beliefs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By labeling real women as dirty and undesirable, the frame enforces strict norms of purity and proper behavior, shaming those who cannot conform."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame sustains male dominance by portraying women as inferior, unclean, and unworthy, thereby legitimizing control over them."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame implicitly calls for acceptance and preservation of misogynistic traditions that depict women as unclean and undesirable."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame implies that women must adhere to strict standards of purity and cleanliness or be condemned as improper."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By portraying women as inferior and unclean, the frame legitimizes men’s authority and control over women."
+        }
+      ]
+    }
+  },
+  "f3522": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame condemns women who deviate from traditional moral norms by using refugee support for personal gain, emphasizing maintaining proper behavior and social order."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame implicitly appeals to genuine care and altruism, criticizing insincerity and valorizing honesty in humanitarian actions."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By portraying support for refugees as improper when used for sexual attention, the frame enforces adherence to moral norms and restraint from exploiting good causes for self-interest."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame implies that women should follow established standards of modesty and moral conduct, rejecting behavior that contradicts traditional expectations."
+        },
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "By accusing women of insincere motives, the frame underscores the value of honest and genuine concern for others rather than manipulative gestures."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "The frame criticizes women for allowing personal desires (sexual attention) to drive their public actions, urging restraint and adherence to moral rules."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame invokes traditional norms of modesty and proper female behavior, condemning those who flout longstanding social expectations."
+        },
+        {
+          "level_3_value": "Be honest",
+          "rationale": "By labeling the women’s support as insincere, the frame elevates honesty as a key moral standard for genuine humanitarian action."
+        }
+      ]
+    }
+  },
+  "f4865": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame emphasizes excitement and novelty by suggesting that women with mental health or addiction issues are seen as 'more exciting or interesting', aligning with the value of embracing new experiences."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "The frame specifically appeals to the desire for excitement, novelty, and change by portraying women's mental health struggles as sources of thrilling experiences."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have an exciting life",
+          "rationale": "The notion that women with mental health or addiction issues are considered 'more exciting or interesting' directly invokes the idea of seeking an exciting life through intense and novel interpersonal experiences."
+        }
+      ]
+    }
+  },
+  "f6552": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame seeks to assert male dominance by demeaning female soldiers, emphasizing control and superiority over them."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces and preserves traditional gender roles by reducing women in the military to their gender and appearance rather than acknowledging their professionalism."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Using the term 'chicks' is a means to assert control and dominance over female soldiers, undermining their authority and expertise."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "Referring to women in the military by a diminutive term upholds a traditional, patriarchal view that women belong in subordinate roles rather than professional ones."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The demeaning label implies that male soldiers have the unquestioned authority to define and diminish the role of female soldiers."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The term 'chicks' evokes adherence to traditional gender norms, treating women as lesser and preserving a patriarchal social order."
+        }
+      ]
+    }
+  },
+  "f6565": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes adherence to social norms around bodily self-control and public reputation, valuing stability and order in behavior."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame criticizes women for lacking self-discipline in dieting, urging compliance with societal rules about body image and personal restraint."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By labeling women who struggle with dieting as 'whores,' the frame invokes concern for maintaining a good public image and avoiding social shame."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "The frame portrays dieting struggles as a failure of self-control and promotes the value of exercising restraint even without external supervision."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Calling women 'whores' for not dieting implies they violate accepted social conventions, underlining the importance of proper behavior."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The derogatory labeling underscores the need to protect one’s social standing and avoid public humiliation."
+        }
+      ]
+    }
+  },
+  "f6922": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts superiority and the pursuit of status by ridiculing and dehumanizing ex-wives to reinforce the speaker’s dominance."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The message emphasizes asserting control and dominance over ex-wives by reducing them to demeaning comparisons."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame implies deriving personal pleasure and satisfaction from mocking and demeaning ex-wives."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The speaker assumes authority to demean and ridicule ex-wives, reflecting a belief in their right to issue degrading commands."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The message aims to shape attitudes toward ex-wives by influencing the audience’s perception through dehumanization."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The ridiculing and demeaning tone indicates that the speaker gains pleasure from dehumanizing ex-wives."
+        }
+      ]
+    }
+  }
+}

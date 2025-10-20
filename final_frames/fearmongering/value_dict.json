@@ -1,0 +1,258 @@
+{
+  "f4637": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving existing social and moral order by controlling women’s sexual behavior, reflecting a desire to maintain traditions and social stability."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame advocates exerting control over women’s sexuality, reflecting an emphasis on power and dominance over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes traditional sexual norms by suggesting women’s desires must be constrained, highlighting the importance of adhering to cultural and family traditions."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By portraying women’s sexual desires as a threat, the frame seeks to protect social stability and order from perceived moral chaos."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame encourages compliance with social rules regarding appropriate sexual behavior, emphasizing following established norms."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame calls for exerting authority and control over women’s sexuality, underlining the importance of dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Implies that women should follow established moral codes regarding sexuality as part of cultural customs."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Portrays unchecked female sexuality as destabilizing, thus advocating measures to maintain societal order."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Suggests women must comply with social expectations to avoid moral transgression."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Advocates for certain individuals (e.g., men or authorities) to exert control over women’s sexual expression."
+        }
+      ]
+    }
+  },
+  "f3760": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame portrays women as wielding manipulative power to harm others, emphasizing control and dominance over people’s actions."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By casting women as a threat, the frame appeals to maintaining the existing social order and preventing disruption."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The accusation that women use manipulation to harm highlights concerns about individuals having undue influence and control over others."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "Framing women as manipulative agents implies a threat to social stability and underscores the desire for a stable, orderly society."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The claim that women use their gender to manipulate others directly centers on the idea of gaining and exercising influence."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Implicit in the criticism is the notion that only the ‘right’ individuals should command, suggesting women should be excluded from positions of authority."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The depiction of women as a societal threat evokes the value of preserving stability and preventing social chaos."
+        }
+      ]
+    }
+  },
+  "f54": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving the existing social order and preventing destabilization, core aspects of conservation values."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame implies maintaining power and control over society by suppressing feminism, reflecting a desire for dominance."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame focuses on protecting social order and stability from the perceived threat of feminism."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame suggests upholding traditional gender roles and customs against feminist change."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame calls for adherence to established societal rules and discourages feminist disruptions."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame supports maintaining hierarchical authority over women and suppressing feminist influence."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Portrays feminism as a threat to societal stability, highlighting the importance of avoiding chaos and preserving order."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Defends traditional gender norms by positioning feminism as a challenge to cultural customs."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Advocates compliance with existing social rules and discourages feminist challenges to the status quo."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Implies that authorities (implicitly men) should suppress feminism to preserve their hierarchical power."
+        }
+      ]
+    }
+  },
+  "f571": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts male dominance and portrays women as inferior, emphasizing control and superiority, which aligns with self-enhancement values of power and status."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends traditional gender roles and upholds the existing patriarchal social order, reflecting a desire to conserve established norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame underscores a desire for control over women and legitimizes a hierarchy in which men command and women are subjugated."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to maintaining long-standing gender customs and patriarchal norms about women's behavior."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By suggesting men should maintain authority over irrational women, the frame explicitly endorses men’s right to command and control."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The claim that women are inherently irrational and violent reinforces traditional expectations and justifies preserving patriarchal customs."
+        }
+      ]
+    }
+  },
+  "f3521": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes the need to protect societal order and stability by portraying refugees as threats that must be controlled."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The statement depicts refugees as posing a danger to national and communal safety through uncontrolled sexual behavior, invoking a desire for a secure society."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By characterizing refugees as lacking self-restraint and violating social norms regarding sexual behavior, the frame appeals to the value of adhering to established rules and standards."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a safe country",
+          "rationale": "The frame implies that refugees threaten the country’s safety, suggesting a need to protect the nation from criminal or dangerous behavior."
+        },
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "By accusing refugees of being driven by uncontrollable urges, the frame underscores the importance of self-restraint and disciplined behavior."
+        }
+      ]
+    }
+  },
+  "f6399": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining existing gender roles and public safety, appealing to preserving tradition, order, and stability against perceived threats."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame argues that issuing licenses to women threatens public safety and social stability, appealing to concerns about a secure and orderly society."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "By warning that women’s driving endangers safety, the frame appeals to protecting individuals’ health and well-being."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame relies on the traditional view that women should not drive, invoking adherence to longstanding cultural and gender norms."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame suggests women must comply with established gender norms and not transgress the informal rules prohibiting them from driving."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a safe country",
+          "rationale": "The claim that women drivers endanger public safety appeals to the value of a country that protects its citizens from harm."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Framing women’s driving as a threat to social order invokes the desire to maintain societal stability and prevent disorder."
+        },
+        {
+          "level_3_value": "Have good health",
+          "rationale": "By portraying women’s driving as dangerous, the frame appeals to preserving individuals’ physical safety and health."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The argument invokes respect for traditional gender roles and cultural norms that exclude women from driving."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame emphasizes that women should adhere to established norms and not challenge rules about driving."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Labeling women drivers as improper suggests they must conform to expected social conventions and behaviors."
+        }
+      ]
+    }
+  }
+}

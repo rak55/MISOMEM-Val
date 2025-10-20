@@ -1,0 +1,156 @@
+{
+  "f4024": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame advocates for the freedom to make jokes about taboo or harmful topics, emphasizing personal autonomy and a break from traditional moral constraints."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The statement 'It is acceptable to joke...' promotes individuals' right to act freely without limitation, specifically in the context of joking about sensitive subjects."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "By declaring it acceptable to joke about a woman's overdose and suffering, the frame underscores the importance of being able to perform actions (joking) without external restrictions."
+        }
+      ]
+    }
+  },
+  "f1381": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame encourages women to seek novelty and change by promoting excessive drinking and short-term relationships, which are activities associated with excitement and pleasure seeking."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "The frame portrays women's involvement in excessive drinking and short-term relationships as exciting, novelty-seeking and risk-taking behavior."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame promotes engaging in sensual gratification and pleasure through excessive drinking and short-term relationships."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have an exciting life",
+          "rationale": "Encourages women to participate in activities that offer excitement and thrill, such as excessive drinking and short-term relationships."
+        },
+        {
+          "level_3_value": "Be daring",
+          "rationale": "Encourages risk-taking behavior by promoting involvement in excessive drinking and numerous short-term relationships."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "Endorses seeking pleasure and sensual gratification through alcohol consumption and casual sexual encounters."
+        }
+      ]
+    }
+  },
+  "f2349": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame celebrates humiliating a vulnerable group to elevate the speaker’s own status and superiority."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame enforces punitive measures against perceived rule-breakers to maintain social norms and stability."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame advocates control over addicts through public humiliation, reflecting a desire for dominance."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame aims to publicly shame addicts to reinforce the speaker’s social standing and moral image."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame punishes addicts for failing to adhere to expectations of self-discipline, enforcing compliance with societal norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame asserts the speaker’s entitlement to humiliate addicts, enforcing authority over them."
+        },
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "The frame uses public shaming as a means to gain approval and demonstrate moral superiority."
+        },
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "The frame criticizes addicts for lacking self-control, promoting personal discipline as a core value."
+        }
+      ]
+    }
+  },
+  "f2686": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame trivializes porn addiction and encourages joking about it, emphasizing immediate enjoyment and personal freedom over concern for negative consequences."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "By downplaying the seriousness of addiction and focusing on humor, the frame promotes pleasure and sensuous gratification as paramount."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The suggestion that porn addiction should be joked about reflects a belief that deriving pleasure and amusement from porn use outweighs potential harms."
+        }
+      ]
+    }
+  },
+  "f3962": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame encourages audiences to view a serious issue—women’s drug addiction—as a source of amusement and entertainment, emphasizing pleasure and novelty in mocking them."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By prescribing how discourse about women addicts should be conducted, the frame asserts dominance and control over the narrative, reflecting a desire for status and authority."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame’s call to trivialize addiction and make it the subject of humor highlights the pursuit of pleasure and enjoyment at the expense of empathy."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The imperative that women’s drug addiction ‘should’ be mocked demonstrates an assertion of authority and control over how others discuss and treat the topic."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The explicit directive to turn women’s drug addiction into humor underscores the value placed on deriving enjoyment and sensational amusement."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame imposes a normative demand on discourse—telling people what they ‘should’ do—indicating a claim to authority over the conversation."
+        }
+      ]
+    }
+  }
+}

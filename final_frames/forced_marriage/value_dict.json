@@ -1,0 +1,78 @@
+{
+  "f635": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional patriarchal marriage practices and the existing social order by preventing women’s autonomy in marital decisions."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame grants male guardians the authority and control over women’s marriage decisions, highlighting dominance and hierarchical power."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame calls for continuing arranged marriages under male guardianship, invoking adherence to longstanding cultural and familial customs."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "By insisting that women obey their fathers or male guardians, the frame appeals to respecting and not upsetting elders and authority figures."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly assigns decision-making authority to male guardians, endorsing a clear hierarchy and the right of certain individuals to command."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame stresses the importance of following established marriage customs and familial traditions without deviation."
+        },
+        {
+          "level_3_value": "Be honoring elders",
+          "rationale": "The frame requires women to defer to their fathers or male guardians, emphasizing obedience and respect toward older authority figures."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame posits that male guardians inherently possess the authority to make binding decisions on behalf of women."
+        }
+      ]
+    }
+  },
+  "f3380": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional social practices around marriage by suggesting bride kidnapping is an acceptable, time-honored custom."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes men's power and control over women, endorsing the notion that men have the authority to abduct women for marriage."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes respect for familial and cultural customs by justifying kidnapping as a legitimate marital practice."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame endorses a hierarchical social order in which men assert command over women, legitimizing coercive control."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It explicitly frames bride kidnapping as an acceptable traditional practice that must be honored."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It suggests that men inherently possess the authority to seize women against their will in order to fulfill marital desires."
+        }
+      ]
+    }
+  }
+}

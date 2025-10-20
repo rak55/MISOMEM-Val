@@ -1,0 +1,496 @@
+{
+  "f2114": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The statement dismisses efforts to change traditional gender roles and advocates for maintaining the existing social order, reflecting a desire to preserve the status quo."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By ridiculing women’s rights, the frame upholds male dominance and a hierarchical view that men should have greater power over women."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame defends conventional gender norms and mocks any departure from long-standing social roles for women."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Implicitly supports men’s authority and control by rejecting the idea that women deserve equal rights and influence."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "Suggests that extending rights to women would disrupt social stability, underlining a preference for preserving an unchanged societal structure."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By portraying women’s rights as absurd, the frame encourages adherence to historical norms and customs regarding gender roles."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The statement implies that men should retain decision-making authority over women and rejects any shift toward shared power."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "It suggests that recognizing women’s rights would lead to instability, thus valuing the maintenance of current social arrangements."
+        }
+      ]
+    }
+  },
+  "f6428": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes upholding existing social norms and preserving social stability by discouraging dissent through reputational attacks."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame leverages threats to one’s social standing and respect to deter criticism, focusing on maintaining honor and status."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame discourages individuals from deviating from accepted group norms by penalizing critical speech and reinforcing peer pressure."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The message underscores the importance of preserving one’s community standing to avoid social sanctions."
+        },
+        {
+          "level_3_value": "Have a social recognition",
+          "rationale": "The frame highlights the need for public approval and acknowledgment to maintain social cohesion and deter criticism."
+        }
+      ]
+    }
+  },
+  "f7471": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "This frame seeks to uphold and preserve traditional gender roles and social structures in the Middle East by trivializing feminist struggles, reflecting a resistance to change."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By belittling the dangers faced by feminists, the frame reinforces male dominance and the pursuit of power over women’s rights and voices."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "Emphasizes maintaining longstanding cultural and religious gender norms that feminism challenges."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "Prioritizes social stability and order by dismissing feminist activism as a threat to cohesive society."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "Encourages adherence to group expectations and discourages deviation, including feminist critiques of gender roles."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Highlights the desire to sustain hierarchical control and authority over women by minimizing their struggles."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Advocates upholding established cultural practices, framing feminist calls for change as disrespectful."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Frames feminist activism as disruptive, promoting the notion that true social stability requires ignoring women’s grievances."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Reinforces social norms of deference and discourages outspoken critique, thereby trivializing feminist voices."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Positions men as entitled to authority over women, aligning with a dominance-focused view of power."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Represents the aim to maintain social power structures by undermining and marginalizing feminist perspectives."
+        }
+      ]
+    }
+  },
+  "f6700": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving classic media and resisting changes or diversification, reflecting a preference for stability and tradition."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame argues for maintaining the original content of classic media, aligning with the desire to respect cultural and artistic traditions."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By claiming diversification 'ruins' the original content, the frame enforces adherence to established norms and conventions in media."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The call to preserve original media content directly invokes the value of maintaining traditional forms and resisting innovation."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The argument implies that altering classic media through diversification is improper and a violation of accepted artistic norms."
+        }
+      ]
+    }
+  },
+  "f4511": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes adherence to societal norms about body weight and eating habits, discouraging deviation and preserving traditional standards."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It implicitly urges women to exercise restraint in eating, aligning with rules about self-control and discipline."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It stigmatizes body size as improper behavior, reinforcing expectations to behave in ways that do not upset social norms or others."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "It frames being overweight as a threat to personal health, appealing to the value of maintaining bodily well-being."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By mocking feminism as linked to being overweight, it highlights the importance of maintaining a positive public image and reputation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "The frame criticizes a perceived lack of restraint in eating, promoting self-discipline in food consumption."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It labels being overweight as improper, reinforcing norms about acceptable appearance and conduct."
+        },
+        {
+          "level_3_value": "Have good health",
+          "rationale": "The frame equates obesity with poor health, appealing to the value of avoiding health risks."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "It suggests that feminists damage their public image by not conforming to slimness norms, emphasizing reputation maintenance."
+        }
+      ]
+    }
+  },
+  "f3914": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional gender roles and warns against deviating from established norms, highlighting a preference for preserving existing social structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame advocates respect for cultural and familial traditions by presenting the rejection of the traditional housewife role as leading to negative outcomes."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message encourages adhering to longstanding customs regarding women’s roles, implying that abandoning these practices is undesirable."
+        }
+      ]
+    }
+  },
+  "f1118": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving existing office norms and resisting changes based on social concerns, advocating maintenance of the status quo."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame appeals to objective truth and rationality to judge concerns as ‘ridiculous’, invoking universal standards of logic."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It encourages compliance with established office thermostat rules and discourages challenging those formal arrangements."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It defends maintaining customary office temperature settings and rejects adjustments made for equity, upholding traditional workplace practices."
+        },
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "It appeals to logical reasoning and an unbiased perspective, treating concerns as invalid if they don’t meet an objective standard of evidence."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Encourages employees to follow existing AC norms without questioning them."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Upholds customary workplace temperature settings as legitimate and worth preserving."
+        },
+        {
+          "level_3_value": "Be logical",
+          "rationale": "Frames concerns as lacking logic and relies on rationality to dismiss them as ridiculous."
+        }
+      ]
+    }
+  },
+  "f272": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes men’s power and dominance over women by suggesting physical retaliation is a legitimate form of equality."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame supports the idea that men should exert control and physical dominance over women, reinforcing hierarchical relations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By arguing that men are entitled to hit women back, the frame implies men have a legitimate right to command and enforce obedience through violence."
+        }
+      ]
+    }
+  },
+  "f1965": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes women's demands as insincere grabs for financial resources, reflecting a focus on material possessions and social power."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame resists the idea of bodily autonomy by upholding traditional gender roles and maintaining the existing social order, thereby opposing change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame portrays women's claims as demands for financial support, highlighting control over material resources as central to the issue."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By depicting women as financially dependent, the frame reinforces traditional gender norms and discourages deviation from established roles."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "Dismissing bodily autonomy claims as insincere is used to preserve the established social order and prevent perceived threats to societal stability."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The core accusation is that women’s autonomy claims are actually a ploy for financial gain, emphasizing the importance of maintaining monetary resources."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame upholds a traditional model of male provision and female dependence, arguing against shifting roles or new social norms."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The message implies that acknowledging bodily autonomy demands would disrupt societal harmony, so preserving the status quo is paramount."
+        }
+      ]
+    }
+  },
+  "f5796": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends traditional gender hierarchies and resists social change in gender roles by rejecting the concept of 'toxic masculinity.'"
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame supports maintaining male dominance and power by dismissing feminist critiques as illegitimate, thereby reinforcing male status."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It upholds conventional gender norms and male traditions by labeling feminist analyses of masculinity as false inventions."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It seeks to preserve existing social structures and avoid perceived societal disruption caused by feminist challenges to male behavior."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It emphasizes the right of men to maintain authority and dismisses any critique that might undermine their control."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Argues for the preservation of inherited male customs and norms by rejecting feminist terminology as invalid."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Positions the feminist framing of masculinity as a threat to social stability, advocating for the status quo."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Asserts that men’s authority should go unquestioned, dismissing feminist critiques that challenge male leadership."
+        }
+      ]
+    }
+  },
+  "f1940": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for punishing women to maintain existing social norms and gender roles, resisting any change to the status quo."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes asserting control and dominance over women by advocating punishment, reflecting a desire for power over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame urges preserving traditional norms that discourage women from speaking out about sexual harassment."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It demands adherence to informal rules forbidding women’s activism, advocating punishment for non-compliance."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame portrays raising awareness as a threat to social stability, calling for punishment to restore order."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It endorses the right of authority figures to control and punish women, reinforcing hierarchical dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The speaker appeals to upholding traditional gender norms and punishing those who deviate."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame advocates forcing women into compliance with unwritten rules against speaking up."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Raising awareness is framed as endangering social order, so punishment is justified to maintain stability."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "It supports those in power having the authority to punish women for activism."
+        }
+      ]
+    }
+  },
+  "f4109": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame centers on the personal quality of bravery as a marker of worth and success, emphasizing a valued trait that enhances an individual's status and standing according to social norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "By focusing on courage and dismissing certain struggles as not brave, the frame invokes the achievement domain’s concern with personal accomplishments and standing up for one’s beliefs."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be courageous",
+          "rationale": "The statement implicitly upholds courage as a key virtue by declaring LGBTQ+ struggles insufficiently brave, thereby invoking the value that individuals should stand up firmly for their beliefs."
+        }
+      ]
+    }
+  },
+  "f6213": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends traditional language norms and seeks to preserve existing social structures, resisting changes proposed by feminism."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame aims to uphold patriarchal power by mocking feminist efforts, reinforcing dominance of one group over another."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By deriding the term 'womyn', the frame promotes adherence to traditional linguistic customs and established norms for referencing women."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The criticism of nonstandard spelling enforces compliance with conventional language rules and discourages deviation."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that feminist innovations threaten social stability, thus advocating for maintaining the status quo and preventing disorder."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The mockery of feminist language serves to reinforce existing hierarchies and maintain male authority over women."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame valorizes sticking to the conventional term 'women' and views attempts to alter language as illegitimate deviations."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "By criticizing the alternative spelling, the frame pressures individuals to adhere to established linguistic rules."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame implies that feminist language reforms could destabilize social order, thus valuing societal stability."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The mockery reinforces existing hierarchical relationships by upholding male-dominated linguistic standards."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "f1043": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame seeks to elevate the speaker’s group by demeaning women with physical differences, emphasizing a hierarchical superiority and personal uplift over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly advocates for asserting dominance and control over a marginalized group by demeaning them as sub-human and deserving mockery."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By labeling women with physical differences as sub-human and encouraging mockery, the frame claims a hierarchical right to degrade and control their treatment."
+        }
+      ]
+    }
+  },
+  "f1028": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame devalues women with disabilities to reinforce in-group superiority and dominance, aligning with self-enhancement's focus on asserting power over others and elevating one’s social status."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By portraying women with disabilities as inherently less valuable, the frame emphasizes a desire to dominate and control this group, underscoring superiority and hierarchical power."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame undermines the social standing and respect afforded to women with disabilities, reflecting concerns about maintaining reputation and esteem by devaluing the target group."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have social recognition",
+          "rationale": "This captures the diminished respect and acknowledgment directed toward women with disabilities as implied by the demeaning frame."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "This reflects the negative impact on reputation that the frame ascribes to women with disabilities, reinforcing their perceived inferiority."
+        }
+      ]
+    }
+  },
+  "f507": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes superiority over women by deriding them, aligning with self-enhancement values that emphasize asserting dominance and personal achievement over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The message mocks women to assert social power and control, implying that humiliating and dominating them is desirable."
+        },
+        {
+          "level_2_value": "Achievement",
+          "rationale": "By highlighting alleged lack of intelligence as a fault, the frame implies that intellectual competence is a valued achievement that women supposedly fail to meet."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Using mockery as a tool to shape perceptions indicates valuing the ability to influence others and social events."
+        },
+        {
+          "level_3_value": "Be intellectual",
+          "rationale": "Insulting women for being unintelligent presupposes that being intellectual is a positive trait and standard worth upholding."
+        }
+      ]
+    }
+  },
+  "f744": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame endorses using others for one’s own benefit, emphasizing personal gain and dominance over vulnerable individuals."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame normalizes controlling and dominating others, portraying it as acceptable to exploit vulnerable individuals to assert superiority."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that it is permissible to exercise authority and control over vulnerable individuals, sanctioning the right to order and exploit them."
+        }
+      ]
+    }
+  },
+  "f4110": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame emphasizes concern for and the welfare of individuals with autism, advocating empathy and respect that transcends individual interests."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "The frame calls for compassion and caring attitudes toward individuals with autism by discouraging stigmatizing language."
+        },
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "It promotes equality and justice by arguing that demeaning individuals with autism is unfair and discriminatory."
+        },
+        {
+          "level_2_value": "Universalism (tolerance)",
+          "rationale": "It encourages acceptance and open-mindedness toward differences by rejecting prejudice against autistic individuals."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be loving",
+          "rationale": "Encourages fostering compassion and kindness toward individuals with autism."
+        },
+        {
+          "level_3_value": "Have equality",
+          "rationale": "Emphasizes that individuals with autism deserve equal respect and should not be devalued."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "Appeals for fairness and non-discrimination against individuals with autism."
+        },
+        {
+          "level_3_value": "Be broadminded",
+          "rationale": "Promotes acceptance of differences and reduces prejudice against autistic individuals."
+        },
+        {
+          "level_3_value": "Have the wisdom to accept others",
+          "rationale": "Encourages mature understanding and acceptance of people with autism despite their differences."
+        }
+      ]
+    }
+  },
+  "f4273": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes exercising harm and dominance over disabled women to assert superiority and personal advantage, reflecting a pursuit of power."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly endorses controlling and harming a marginalized group without accountability, highlighting a desire for dominance over others."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By stating that harming disabled women is acceptable without facing consequences, the frame implies a belief in the speaker's entitlement to inflict violence and command over them."
+        }
+      ]
+    }
+  },
+  "f4335": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes hierarchy and superiority of one group (tall women) over another (short women), reflecting a desire for dominance and status enhancement."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By labeling short women as 'half women' and 'less valuable', the frame asserts a hierarchical social order and endorses control and dominance over that devalued group."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The message implies that those deemed 'full women' (tall women) inherently deserve authority and higher standing, justifying clear social hierarchies."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The devaluation of short women enhances the perceived influence and social control of tall women, suggesting they wield more power and sway."
+        }
+      ]
+    }
+  },
+  "f7553": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts and celebrates hierarchical dominance by endorsing the right to judge women as inherently inferior, reflecting a value in gaining power over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces and seeks to preserve traditional gender stereotypes, aiming to uphold existing social norms about women’s roles and abilities."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By advocating that certain individuals should have the authority to declare women incompetent drivers, the frame emphasizes control and superiority over a target group."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message appeals to conventional beliefs about women’s abilities, calling for the maintenance of longstanding gender norms and stereotypes."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame explicitly endorses the authority to judge and subordinate women’s capabilities, reflecting a desire for commanding power over them."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It upholds traditional views on gender by insisting that women should continue to be seen as inferior drivers, thus preserving established cultural stereotypes."
+        }
+      ]
+    }
+  }
+}

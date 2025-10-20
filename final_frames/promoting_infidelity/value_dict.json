@@ -1,0 +1,146 @@
+{
+  "f6634": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame rejects traditional marital norms and emphasizes individual autonomy, novelty, and personal gratification, all core aspects of openness to change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "By declaring it acceptable to cheat, the frame endorses individuals determining their own actions without regard for conventional moral constraints."
+        },
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "The frame implies that infidelity provides excitement and novelty, aligning with the value of seeking variety and arousal."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame promotes the pursuit of personal pleasure through extramarital affairs, highlighting sensuous gratification as acceptable."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "The statement argues for the right to act as one pleases—including cheating—emphasizing unrestricted personal autonomy."
+        },
+        {
+          "level_3_value": "Have an exciting life",
+          "rationale": "By framing cheating as acceptable, it positions infidelity as a means to introduce excitement and new experiences."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The frame directly appeals to the pursuit of personal pleasure, treating the gratification from cheating as morally permissible."
+        }
+      ]
+    }
+  },
+  "f3564": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame emphasizes women’s personal autonomy and justification for infidelity based on their own desires, highlighting freedom and change in behavior."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame justifies women’s choice to engage in infidelity, underscoring the right to determine one’s own actions and pursue personal goals."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame legitimizes infidelity as a means of seeking personal pleasure and sensual gratification."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "By justifying infidelity, the frame asserts that women should have the freedom to act on their own desires regardless of partner expectations."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The frame endorses seeking sexual or emotional satisfaction outside the relationship, framing pleasure seeking as a valid reason for infidelity."
+        }
+      ]
+    }
+  },
+  "f3765": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame promotes personal freedom by arguing that individuals (particularly men) should be free to engage in infidelity without moral or social constraints, emphasizing a break from traditional norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame explicitly argues for individuals’ freedom to choose their own sexual behavior (infidelity) without condemnation, highlighting autonomy in actions."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame endorses pursuing personal pleasure (sexual gratification) as acceptable behavior, suggesting that enjoyment justifies the action."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "By asserting that infidelity should not be condemned, the frame is advocating that men should be permitted to act on their desires without external restriction."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The frame normalizes infidelity by emphasizing the acceptability of seeking sexual pleasure, framing it as a legitimate pursuit."
+        }
+      ]
+    }
+  },
+  "f1098": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional gender roles and maintaining social order by portraying women’s behavior as a threat that must be controlled."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame appeals to caring relationships and loyalty, highlighting the importance of reliability and dependability toward others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message reinforces adherence to longstanding gender norms and cultural practices by portraying deviation as dangerous."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame casts women’s alleged unfaithfulness as a threat to social stability and collective well-being."
+        },
+        {
+          "level_2_value": "Benevolence (dependability)",
+          "rationale": "The frame stresses the need for trustworthiness and loyalty in personal relationships, emphasizing reliable behavior."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Encourages strict adherence to traditional gender expectations and cultural norms to avoid perceived risks."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Promotes the idea that societal order depends on controlling women’s behavior to prevent instability."
+        },
+        {
+          "level_3_value": "Be responsible",
+          "rationale": "Highlights the value of dependability and accountability in interpersonal relationships to counter alleged deceit."
+        },
+        {
+          "level_3_value": "Have loyalty towards friends",
+          "rationale": "Emphasizes steadfastness and trust in close relationships as a bulwark against untrustworthy behavior."
+        }
+      ]
+    }
+  }
+}

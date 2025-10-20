@@ -1,0 +1,572 @@
+{
+  "f1521": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame promotes maintaining existing social order and traditional gender roles, resisting change to keep women confined to domestic roles."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The statement appeals to preserving cultural or family traditions by asserting that women belong in the kitchen as part of long-standing customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It enforces compliance with social norms and expectations about proper behavior, demanding that women adhere to established gender rules."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame explicitly invokes the idea that one should honor and follow traditional practices regarding gender roles."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It pressures women to obey and conform to the prescribed rule that their place is in the kitchen."
+        }
+      ]
+    }
+  },
+  "f628": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The insult relies on asserting male superiority and preserving men’s status by demeaning women’s abilities, tapping into a desire for power over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The stereotype defends traditional gender roles and resists social change by reinforcing the idea that driving is a male domain and women should not deviate from that role."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The claim functions to maintain male authority and control over who is allowed and deemed fit to drive, reinforcing a hierarchical relationship between men and women."
+        },
+        {
+          "level_2_value": "Achievement",
+          "rationale": "By emphasizing driving skill as a marker of capability, the frame invokes the value of competence and uses perceived female incompetence to justify exclusion."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The argument appeals to customary gender roles and long-standing cultural norms that designate driving as a male activity, discouraging deviation from those practices."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By labeling women as dangerous drivers, the frame invokes the need for public safety and societal stability, implying that excluding women from driving protects the community."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that certain groups (men) are entitled to decide who may drive, asserting a hierarchical right to control others’ actions."
+        },
+        {
+          "level_3_value": "Be capable",
+          "rationale": "The insult hinges on the belief that good driving requires competence, using alleged female incompetence as justification for exclusion."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The statement draws on the notion that people should adhere to traditional gender roles, preserving established cultural practices."
+        },
+        {
+          "level_3_value": "Have a safe country",
+          "rationale": "By portraying women as unsafe drivers, it appeals to the desire for societal security and justification for restricting women’s participation in driving to protect public safety."
+        }
+      ]
+    }
+  },
+  "f1956": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes aggressive reactions as a means of asserting power and dominance, aligning with the value of enhancing one’s position over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces traditional social norms about male behavior, valuing the maintenance of established cultural expectations."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Aggression is presented as an acceptable way for men to command and control situations, reflecting the pursuit of dominance over others."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The expectation for men to react aggressively is rooted in longstanding gender roles and cultural customs that prescribe such behavior."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that men are entitled to assert authority and control through aggressive responses."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Aggressive reactions are portrayed as a tool for men to influence outcomes and others’ behavior."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The statement draws on the traditional belief that men should conform to historical norms of toughness and aggression."
+        }
+      ]
+    }
+  },
+  "f855": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame praises men's dominance and control over women, emphasizing the importance of power and authority which aligns with valuing one’s own success and status over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By celebrating traditional gender roles and hierarchical relations, the frame seeks to preserve an existing social order and maintain established norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly values being in positions of control over others, as it lauds men’s authority to compel women to perform physical labor."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame reflects and reinforces customary gender roles, upholding patriarchal structures as a proper way of organizing social life."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame directly praises men’s entitlement to order women’s actions, emphasizing command and obedience as positive traits."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame implicitly encourages adherence to long-standing patriarchal norms by treating male dominance as an honored tradition."
+        }
+      ]
+    }
+  },
+  "f476": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional social structures and norms around marriage timing, stressing adherence to established customs and social order."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame portrays marriage by age thirty as a key personal accomplishment and labels unmarried women past this age as failures, appealing to individual success and status."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "Under Conservation, the frame privileges longstanding cultural expectations that women follow inherited practices and marry by a certain age."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "As part of Conservation, the frame enforces obedience to explicit or implicit societal rules that dictate appropriate behavior and timing for marriage."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "Aligned with Conservation, the frame highlights concern for reputation and social standing, urging women to avoid shame by marrying on time."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "Under Conservation, the frame suggests marriage provides personal stability, protection, and a sense of belonging, framing it as necessary for safety."
+        },
+        {
+          "level_2_value": "Achievement",
+          "rationale": "Under Self-Enhancement, the frame depicts marriage by thirty as a crucial life milestone and measure of personal success, with unmarried women framed as having failed to achieve this goal."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Observe cultural marriage customs by marrying by age 30",
+          "rationale": "Directly supports Tradition by emphasizing respect for and continuation of established marriage practices."
+        },
+        {
+          "level_3_value": "Comply with societal rules on appropriate marriage age",
+          "rationale": "Links to Conformity (rules) through stress on following social prescriptions about when women should marry."
+        },
+        {
+          "level_3_value": "Protect personal and familial reputation by marrying before 30",
+          "rationale": "Illustrates Face concerns by showing how timely marriage preserves social respectability and avoids shame."
+        },
+        {
+          "level_3_value": "Secure personal stability and belonging through timely marriage",
+          "rationale": "Reflects Security (personal) by positioning marriage as essential for emotional and material safety."
+        },
+        {
+          "level_3_value": "Attain personal success by meeting the marital milestone of age 30",
+          "rationale": "Aligns with Achievement by framing early marriage as a hallmark of individual accomplishment and avoiding the stigma of failure."
+        }
+      ]
+    }
+  },
+  "f1340": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame emphasizes personal freedom for men to act on their natural inclinations without constraints, rejecting external restrictions on behavior."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By justifying objectification as natural, the frame promotes men’s dominance and authority over women, reinforcing power hierarchies."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The statement asserts that men should be free to determine their own actions—specifically, to ogle women—without interference or censure."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame legitimizes men’s authority over women’s bodies and autonomy, positioning men in a superior, controlling role."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "The frame argues that it is acceptable and even right for men to exercise their autonomy by freely ogling women."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By framing ogling as a natural male prerogative, the statement implies that men have an inherent right to assert control over women’s public presentation."
+        }
+      ]
+    }
+  },
+  "f2780": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for maintaining traditional social order and discouraging changes to women’s roles, aligning with the conservation value of preserving the status quo and resisting change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame emphasizes upholding long-standing cultural norms and customs around gender roles, reinforcing the importance of tradition."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "By warning of stress and unhappiness from pursuing careers, the message appeals to concerns about personal well-being, comfort, and safety."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The content encourages adherence to societal rules and expectations regarding women’s proper behavior, emphasizing obedience to norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Respect traditions",
+          "rationale": "Directly reflects upholding traditional gender roles by stressing the importance of respecting established customs."
+        },
+        {
+          "level_3_value": "Have a comfortable life",
+          "rationale": "Appeals to the desire for personal comfort and ease by warning against career-related stress and unhappiness."
+        },
+        {
+          "level_3_value": "Follow rules",
+          "rationale": "Aligns with encouraging compliance with societal expectations through adherence to established rules governing behavior."
+        }
+      ]
+    }
+  },
+  "f97": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame praises traits associated with personal success and dominance (bravery and competitiveness), emphasizing individual accomplishment and superiority."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Achievement",
+          "rationale": "Bravery and competitiveness are framed as valuable traits for achieving success and recognition in accordance with social norms."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be courageous",
+          "rationale": "The assertion that men are inherently brave directly aligns with promoting courage as a key personal virtue."
+        },
+        {
+          "level_3_value": "Be ambitious",
+          "rationale": "Describing men as inherently competitive highlights ambition and the drive to excel and outperform others."
+        }
+      ]
+    }
+  },
+  "f145": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional gender roles and social norms for femininity, which aligns with the Conservation value of preserving existing social and cultural structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame explicitly invokes ‘Traditional femininity,’ prescribing adherence to inherited cultural customs and practices concerning how women should present themselves."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By defining femininity as ‘elegant and refined,’ the frame enforces compliance with societal expectations and informal rules about proper behavior and appearance for women."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The emphasis on elegance and refinement underscores the importance of maintaining a respectable public image and reputation in accordance with societal standards."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame promotes following traditional feminine customs, urging women to honor and preserve established practices of elegance and refinement."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "By prescribing an ‘elegant and refined’ demeanor, the frame encourages women to conform to social conventions of proper behavior and manners."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The insistence on elegance and refinement serves to uphold women’s public image and reputation, aligning with the value of preserving face."
+        }
+      ]
+    }
+  },
+  "f3372": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to maintaining traditional gender roles and preserving established family customs."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The statement evokes adherence to long-standing cultural expectations of motherhood and domestic duties."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It implies that a 'real' mother must conform to traditional practices such as cooking for her children."
+        }
+      ]
+    }
+  },
+  "f3875": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional social norms and discouraging behaviors that threaten societal stability and personal dignity."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "It invokes the importance of maintaining public image and dignity ('reputation'), suggesting that drinking alcohol leads to loss of reputation."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It prescribes abstaining from alcohol as the proper behavior for women to comply with informal social norms and avoid dishonor."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It appeals to traditional gender roles and moral codes that historically restrict women's behavior in line with cultural customs."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The argument centers on preserving women's dignity as essential to their public and social standing."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame labels drinking alcohol as improper behavior for women, urging them to conform to social expectations."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It draws on longstanding gendered traditions that forbid or stigmatize women's alcohol consumption."
+        }
+      ]
+    }
+  },
+  "f3900": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends traditional masculine norms and emphasizes preserving established gender roles."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame elevates men who reject gun control above those who support it, asserting superiority and status."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to long-standing cultural norms of masculinity and established gender roles."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "It focuses on men’s social standing and reputation, suggesting that supporting gun control damages one’s honor."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "It pressures men to align with peer group expectations about what ‘real men’ should believe."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The message asserts dominance and status over men who support gun control, reinforcing male hierarchy."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Respect traditional masculine norms",
+          "rationale": "Highlights adherence to established practices of masculinity (Tradition)."
+        },
+        {
+          "level_3_value": "Maintain a strong reputation among peers",
+          "rationale": "Emphasizes social standing and honor in the male community (Face)."
+        },
+        {
+          "level_3_value": "Fit in with male peer expectations",
+          "rationale": "Stresses the importance of belonging and acceptance within one’s social group (Conformity (interpersonal))."
+        },
+        {
+          "level_3_value": "Assert dominance over men who support gun control",
+          "rationale": "Underlines the need to display power and superiority in male hierarchies (Power (dominance))."
+        }
+      ]
+    }
+  },
+  "f4138": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men’s superiority, dominance, and success over women in STEM, aligning with a focus on power and personal achievement."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional gender roles and seeks to preserve an existing social hierarchy, reflecting a desire to maintain the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts that men are inherently meant to dominate STEM fields, directly invoking control and authority over others."
+        },
+        {
+          "level_2_value": "Achievement",
+          "rationale": "The claim highlights men’s destined excellence and success in STEM, emphasizing ambition and societal success norms."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The idea rests on longstanding beliefs about fixed gender roles, appealing to the preservation of traditional social structures."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that men should rightfully lead and make decisions in STEM environments."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "It suggests men ought to wield greater control and impact within STEM fields than women."
+        },
+        {
+          "level_3_value": "Be ambitious",
+          "rationale": "By stating men are destined to excel, the frame valorizes male ambition and drive in STEM."
+        },
+        {
+          "level_3_value": "Have success",
+          "rationale": "It highlights men’s assumed superior success in STEM as a justification for male dominance."
+        },
+        {
+          "level_3_value": "Be capable",
+          "rationale": "The claim rests on the belief that men are inherently more capable than women in technical domains."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It relies on deference to traditional gender norms that assign STEM roles to men."
+        }
+      ]
+    }
+  },
+  "f4709": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes the pursuit and prioritization of material possessions (jewelry and diamonds) as central to women's values, reflecting a focus on personal gain and status."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame highlights material wealth and possessions (jewelry, diamonds) as primary goals and measures of value, implying women seek to amass and display resources."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "By asserting women value jewelry and diamonds—symbols of wealth—above relationships or other meaningful aspects, the frame underscores a value placed on financial and material riches."
+        }
+      ]
+    }
+  },
+  "f4993": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining established social norms about gender and resisting changes to the existing order, reflecting a desire to preserve the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to traditional views of gender, insisting on long-standing cultural customs that link identity directly to physical characteristics."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It enforces adherence to informal social conventions about gender, implying that people should follow these rules without deviation."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that allowing gender identity based solely on physical traits helps maintain social stability and prevents disorder in the broader society."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame invokes the need to honor and uphold traditional definitions of gender based on physical characteristics."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It calls for individuals to comply with established social conventions regarding gender identity and avoid deviance."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "It implies that strict assignment of gender by physical traits is necessary to preserve societal order and prevent chaos."
+        }
+      ]
+    }
+  }
+}

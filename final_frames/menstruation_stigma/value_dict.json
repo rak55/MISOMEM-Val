@@ -1,0 +1,218 @@
+{
+  "f2745": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame elevates male dominance by implying men should maintain power and control over women, excluding women from trust and authority."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional social structures and stable norms by excluding women seen as biologically 'untrustworthy,' preventing societal change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame implies that men (not women) should hold authority and decision-making power, reinforcing male hierarchical control."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It draws on longstanding cultural taboos about menstruation, invoking respect for traditional gender roles that exclude women from trusted positions."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "By portraying women as unpredictable and dangerous due to menstruation, the frame seeks to protect societal stability through exclusion."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame suggests that those who can be trusted (men) should command, excluding women from positions of authority."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It leverages menstrual stigma rooted in cultural or religious customs, urging adherence to traditional gender norms."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "It frames women’s biology as a threat to social order, advocating their exclusion to maintain stability."
+        }
+      ]
+    }
+  },
+  "f7334": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving cleanliness and social order by labeling a natural bodily function as 'gross' and something to be avoided."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "Describing menstruation as 'gross' appeals to personal hygiene and the desire for a clean, orderly immediate environment."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "Framing menstruation as something to avoid suggests the need to adhere to social norms and avoid upsetting or offending others."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be neat and tidy",
+          "rationale": "The appeal to avoid something 'gross' highlights a value placed on personal cleanliness and tidiness."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The suggestion to avoid menstruation implies consideration for others’ comfort and a desire not to offend with bodily functions."
+        }
+      ]
+    }
+  },
+  "f7731": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes exercising control over women’s bodies and sexual availability, reflecting a desire for dominance and power over others, which aligns with self-enhancement values of seeking power and control."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces traditional gender roles and the existing social order by demanding women conform to men’s sexual needs regardless of their biological cycles, preserving the status quo and traditions."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame demands women be available for sex on command, reflecting an assertion of men’s authority and control over women’s bodies."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame relies on the idea that women have a traditional duty to satisfy men’s sexual needs at all times, invoking longstanding gender norms and customs."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By stating women must be available for sex regardless of their menstrual cycle, the frame implies men have a right to dictate women’s sexual availability."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame assumes adherence to traditional gender roles, suggesting that respecting these customs obliges women to always fulfill men’s sexual expectations."
+        }
+      ]
+    }
+  },
+  "f5064": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional and stable gender norms by reducing women to their biological functions, resisting change to these roles."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts dominance over women by defining and controlling their identity, reflecting a desire for power over them."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes the idea that women’s roles are fixed by biology and must conform to long-standing cultural norms about female sexuality and reproduction."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests maintaining the existing social order by confining women to traditional roles, preventing perceived chaos from gender equality."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame implies exerting control over women’s identities, reflecting a desire to influence and command their societal position."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame promotes adherence to traditional gender roles by defining women solely through biological functions, encouraging preservation of those customs."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame argues for limiting women’s roles to maintain societal stability and avoid disruption of established social structures."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "By defining women’s identity, the frame seeks to control perceptions and maintain power over them."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame legitimizes a hierarchy that grants men authority over women’s roles and identities."
+        }
+      ]
+    }
+  },
+  "f929": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame resists accommodating women's needs and seeks to preserve existing patriarchal social norms, reflecting a desire to maintain the status quo and social order."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame asserts dominance over women by dismissing their discomfort and boundaries, reflecting a pursuit of power and status at the expense of others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds unwritten cultural customs that menstrual discomfort and women’s boundaries are not to be honored, emphasizing adherence to long-standing patriarchal practices."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By prescribing that everyone ignore women’s boundaries during menstruation, the frame demands compliance with prevailing social expectations and norms."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame privileges certain social actors (typically men) to override women’s needs, reinforcing hierarchical control and authority."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame explicitly invokes the maintenance of traditional customs that dismiss women’s menstrual discomfort as a normative standard."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It encourages individuals to follow the rule of ignoring women’s boundaries, promoting obedience to existing social conventions."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that certain (male) authorities have the legitimate power to disregard women’s bodily autonomy and discomfort."
+        }
+      ]
+    }
+  },
+  "f6048": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes control and dominance over women’s autonomy by portraying the menstrual cycle as an authority, reflecting a focus on power and status consistent with Self-Enhancement."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The framing casts the menstrual cycle as a dominant force dictating women’s clothing choices, underscoring authority and control over personal autonomy."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The cycle is depicted as possessing the right to command women’s attire, granting it authority to restrict and enforce clothing decisions."
+        }
+      ]
+    }
+  }
+}

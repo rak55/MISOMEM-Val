@@ -1,0 +1,1105 @@
+{"id": "f1043", "frame": "Women with physical differences are sub-human and deserve to be mocked like animals.", "problems": ["ableism"]}
+{"id": "f1028", "frame": "Women with disabilities are of less value.", "problems": ["ableism"]}
+{"id": "f507", "frame": "Women are unintelligent and deserve to be mocked.", "problems": ["ableism"]}
+{"id": "f744", "frame": "Exploiting vulnerable individuals sexually is acceptable.", "problems": ["ableism"]}
+{"id": "f4110", "frame": "Using \"autism\" as an insult devalues and stigmatizes individuals with autism.", "problems": ["ableism"]}
+{"id": "f4273", "frame": "It is acceptable to further harm disabled women without facing any consequences.", "problems": ["ableism"]}
+{"id": "f4335", "frame": "Short women are only half womn and therefore less valuable.", "problems": ["ableism"]}
+{"id": "f7553", "frame": "Women deserve to be judged as incompetent drivers, like people with disabilities.", "problems": ["ableism"]}
+{"id": "f2259", "frame": "Older women are undesirable.", "problems": ["ageism"]}
+{"id": "f3268", "frame": "Older women should not be sexually active.", "problems": ["ageism", "double_standards"]}
+{"id": "f729", "frame": "Older women deserve to be mocked and ridiculed for aging.", "problems": ["ageism"]}
+{"id": "f4117", "frame": "Only young and thin women should be allowed to wear yoga pants.", "problems": ["ageism", "fat_shaming"]}
+{"id": "f2639", "frame": "Mothers are so unattractive that extreme actions against them are justified.", "problems": ["ageism", "appearance_based_discrimination"]}
+{"id": "f3675", "frame": "Women are a financial burden because they live longer.", "problems": ["ageism", "dismissiveness"]}
+{"id": "f6609", "frame": "Older women are less desirable and need to compensate with money.", "problems": ["ageism"]}
+{"id": "f148", "frame": "Older women are not worthy of respect and can be dismissed even in life-threatening situations.", "problems": ["ageism"]}
+{"id": "f934", "frame": "Women over 40 should avoid shaving their pubic hair, as it makes their genitalia unattractive.", "problems": ["ageism", "ridicule"]}
+{"id": "f2946", "frame": "Women at age 25 are inherently full of problems and lose their value.", "problems": ["ageism"]}
+{"id": "f4801", "frame": "Older women should be avoided because interactions with them are risky and not worth the effort.", "problems": ["ageism"]}
+{"id": "f6667", "frame": "Millennials are destined to be so absorbed by technology that they ignore real-world dangers.", "problems": ["ageism"]}
+{"id": "f6885", "frame": "Women aged 35 and older are necessarily desperate to settle down.", "problems": ["ageism"]}
+{"id": "f2363", "frame": "Women are meant to be sexual objects.", "problems": ["age_related_sexualization"]}
+{"id": "f5528", "frame": "Older women are undesirable and “ruined.”", "problems": ["age_related_sexualization", "derogatory_labeling"]}
+{"id": "f4154", "frame": "Women who seek attention deserve unwanted sexual advances.", "problems": ["age_related_sexualization"]}
+{"id": "f7810", "frame": "Women in anime are meant to be limited to sexualized roles like “loli” or “MILF.”", "problems": ["age_related_sexualization"]}
+{"id": "f7358", "frame": "It is acceptable to sexualize underage girls.", "problems": ["age_related_sexualization"]}
+{"id": "f1946", "frame": "Women are meant to be treated as children, diminishing their maturity and autonomy.", "problems": ["age_related_sexualization"]}
+{"id": "f824", "frame": "Women should be ridiculed for their appearance.", "problems": ["appearance_based_discrimination"]}
+{"id": "f2638", "frame": "Old women are inherently unattractive.", "problems": ["appearance_based_discrimination"]}
+{"id": "f3619", "frame": "Women with certain body types should not show their bodies.", "problems": ["appearance_based_discrimination"]}
+{"id": "f7476", "frame": "Thin women are only desirable to dogs.", "problems": ["appearance_based_discrimination"]}
+{"id": "f4350", "frame": "Darker-skinned women are meant to be seen as undesirable and ridiculed.", "problems": ["appearance_based_discrimination"]}
+{"id": "f342", "frame": "Women are judged and mocked for their makeup choices.", "problems": ["appearance_based_discrimination"]}
+{"id": "f521", "frame": "Michelle Obama is not conventionally beautiful and should not be praised for her looks.", "problems": ["appearance_based_discrimination"]}
+{"id": "f2006", "frame": "Being seen with a woman who is not conventionally attractive is embarrassing.", "problems": ["appearance_based_discrimination"]}
+{"id": "f2329", "frame": "Women's underwear makes them look unattractive and ridiculous compared to men's.", "problems": ["appearance_based_discrimination"]}
+{"id": "f2428", "frame": "Slim women who drink alcohol are the most desirable.", "problems": ["appearance_based_discrimination", "stereotyping"]}
+{"id": "f2532", "frame": "Female gym teachers should only be valued if they meet specific physical appearance standards.", "problems": ["appearance_based_discrimination"]}
+{"id": "f2652", "frame": "Vegan women should be considered unattractive and unkempt.", "problems": ["appearance_based_discrimination", "stereotyping"]}
+{"id": "f2809", "frame": "Only petite women can be graceful and therefore should be the ones to teach grace.", "problems": ["appearance_based_discrimination", "fat_shaming"]}
+{"id": "f3242", "frame": "Muslim women wear hijab solely to conceal their unattractive appearance.", "problems": ["appearance_based_discrimination", "intersectional_prejudice"]}
+{"id": "f4307", "frame": "A woman’s natural appearance is inferior and laughable compared to her posed, curated images.", "problems": ["appearance_based_discrimination"]}
+{"id": "f5443", "frame": "Women with flat buttocks are less attractive and deserve to be mocked.", "problems": ["appearance_based_discrimination"]}
+{"id": "f6533", "frame": "The only noteworthy feature of an overweight couple is the strength of their couch, so they deserve to be mocked.", "problems": ["appearance_based_discrimination"]}
+{"id": "f6578", "frame": "Women’s suggestions deserve to be dismissed based on their physical appearance.", "problems": ["appearance_based_discrimination"]}
+{"id": "f7095", "frame": "Men are inherently better drivers than women.", "problems": ["biased_judgement"]}
+{"id": "f365", "frame": "Women are condescending and unhelpful.", "problems": ["biased_judgement"]}
+{"id": "f1526", "frame": "Women are expected to be vain and obsessed with their looks.", "problems": ["biased_judgement"]}
+{"id": "f5746", "frame": "Women are less competent and capable than men.", "problems": ["biased_judgement"]}
+{"id": "f5481", "frame": "Women are single because they don't want good men.", "problems": ["biased_judgement", "ridicule"]}
+{"id": "f7868", "frame": "Feminists are meant to be hypocritical and irrational.", "problems": ["biased_judgement"]}
+{"id": "f603", "frame": "Women who have had multiple sexual partners are inherently untrustworthy.", "problems": ["biased_judgement"]}
+{"id": "f1109", "frame": "Attractive women deserve to be distrusted because they are prone to infidelity.", "problems": ["biased_judgement"]}
+{"id": "f2806", "frame": "Women are judged and devalued based on superficial perceptions and negative stereotypes.", "problems": ["biased_judgement"]}
+{"id": "f3874", "frame": "Women are categorized as 'good' or 'bad' based on their sexual activity.", "problems": ["biased_judgement"]}
+{"id": "f3968", "frame": "Women who say they hang out with men to avoid drama deserve to be called liars and denounced for seeking sexual attention.", "problems": ["biased_judgement", "reductionism"]}
+{"id": "f4374", "frame": "Men can easily deceive women by appearing attractive or charismatic.", "problems": ["biased_judgement"]}
+{"id": "f6127", "frame": "Women are demanding and unreasonable in their expectations.", "problems": ["biased_judgement"]}
+{"id": "f7841", "frame": "Women’s intelligence should be judged by their hairstyle.", "problems": ["biased_judgement"]}
+{"id": "f6473", "frame": "Only wealthy women can attain true physical beauty.", "problems": ["classism"]}
+{"id": "f1290", "frame": "We should look down on people of a lower social class as \"trash\".", "problems": ["classism", "derogatory_labeling"]}
+{"id": "f1291", "frame": "Women of a lower socioeconomic status are promiscuous and deserve to be ridiculed.", "problems": ["classism"]}
+{"id": "f2282", "frame": "People from lower social classes are inferior and should be looked down upon.", "problems": ["classism"]}
+{"id": "f4975", "frame": "Women who get tattoos should be considered \"white trash\".", "problems": ["classism"]}
+{"id": "f6487", "frame": "People who are considered 'white trash' are inferior to other white people.", "problems": ["classism"]}
+{"id": "f6488", "frame": "A woman's behavior at social events can define her class and worth.", "problems": ["classism", "conditional_respect"]}
+{"id": "f7443", "frame": "Women living in trailer parks deserve to be called ‘trailer trash’ and looked down upon.", "problems": ["classism"]}
+{"id": "f198", "frame": "Women deserve to be hit.", "problems": ["coercion", "victim_blaming"]}
+{"id": "f1154", "frame": "Men have the right to control how women dress.", "problems": ["coercion", "patriarchal_control"]}
+{"id": "f5038", "frame": "Men should use memes to manipulate their girlfriends’ behavior.", "problems": ["coercion"]}
+{"id": "f302", "frame": "A woman's worth is determined by her physical appearance.", "problems": ["coercion"]}
+{"id": "f5461", "frame": "It is acceptable to respond to women’s insecurities with aggression or hostility.", "problems": ["coercion"]}
+{"id": "f3252", "frame": "Women are meant to cook and serve men.", "problems": ["coercion"]}
+{"id": "f6652", "frame": "Wives are meant to be always eager for sex.", "problems": ["coercion"]}
+{"id": "f7001", "frame": "Harming and burying one’s wife is a legitimate way to enforce her compliance.", "problems": ["coercion"]}
+{"id": "f5374", "frame": "Women are naturally prone to cheating on their partners.", "problems": ["commitment_phobia"]}
+{"id": "f667", "frame": "Women are inherently deceitful and unfaithful, like the biblical Eve, and will cheat on their partners.", "problems": ["commitment_phobia"]}
+{"id": "f874", "frame": "Avoiding commitment and responsibility in relationships is desirable.", "problems": ["commitment_phobia"]}
+{"id": "f3197", "frame": "Treating women well is a mistake as it will inevitably backfire on men.", "problems": ["commitment_phobia"]}
+{"id": "f3681", "frame": "Being in a relationship with a woman will inevitably cause problems.", "problems": ["commitment_phobia", "stereotyping"]}
+{"id": "f4084", "frame": "Women are manipulative and insincere when they flirt without intending a real relationship.", "problems": ["commitment_phobia", "double_standards"]}
+{"id": "f5375", "frame": "Women cheat on their partners as a way to test their relationships.", "problems": ["commitment_phobia"]}
+{"id": "f5799", "frame": "Women waste men’s time by pretending to be interested in them.", "problems": ["commitment_phobia"]}
+{"id": "f5856", "frame": "Women are needy, unreliable, and inferior to objects.", "problems": ["commitment_phobia"]}
+{"id": "f5857", "frame": "Women can be replaced by inanimate objects because they are less valuable.", "problems": ["commitment_phobia"]}
+{"id": "f6935", "frame": "Men should be wary of committing to marriage because women will financially exploit them.", "problems": ["commitment_phobia"]}
+{"id": "f132", "frame": "A woman's worth is tied to her virginity.", "problems": ["conditional_respect"]}
+{"id": "f802", "frame": "Only women who conform to traditional roles are valuable.", "problems": ["conditional_respect"]}
+{"id": "f5763", "frame": "Women should only be respected if they obey men.", "problems": ["conditional_respect"]}
+{"id": "f7792", "frame": "Women deserve respect only if they are attractive.", "problems": ["conditional_respect"]}
+{"id": "f1079", "frame": "Women who support feminism are not suitable partners.", "problems": ["conditional_respect"]}
+{"id": "f3240", "frame": "If women fulfill domestic roles, they are not meant to complain about being objectified.", "problems": ["conditional_respect"]}
+{"id": "f3785", "frame": "Men’s needs should always take priority over women’s health.", "problems": ["conditional_respect"]}
+{"id": "f5982", "frame": "Respecting women is a burdensome and risky act.", "problems": ["conditional_respect"]}
+{"id": "f6131", "frame": "Women's protection from violence is conditional on their political beliefs.", "problems": ["conditional_respect"]}
+{"id": "f3542", "frame": "Feminism is meant to be perceived as an oppressive, absurd, and conspiratorial extremist movement.", "problems": ["conspiracy_thinking"]}
+{"id": "f4517", "frame": "Women are conspiring against men to harm them.", "problems": ["conspiracy_thinking"]}
+{"id": "f5264", "frame": "Women in positions of power are not genuine and must be men in disguise.", "problems": ["conspiracy_thinking", "undermining_women_s_capabilities"]}
+{"id": "f5743", "frame": "CEOs promote feminism for their own profit, using women to drive down wages at the workforce’s expense.", "problems": ["conspiracy_thinking"]}
+{"id": "f6008", "frame": "Feminism ought to be equated with communism and dismissed as a negative influence.", "problems": ["conspiracy_thinking"]}
+{"id": "f6010", "frame": "The LGBTQ+ community ought to be viewed as the product of harmful influences like communism and feminism.", "problems": ["conspiracy_thinking"]}
+{"id": "f6449", "frame": "It is acceptable to use ethnic stereotypes for humor.", "problems": ["cultural_insensitivity"]}
+{"id": "f2262", "frame": "Muslim culture is meant to oppress women.", "problems": ["cultural_insensitivity"]}
+{"id": "f4195", "frame": "Islam is inherently misogynistic and feminists ignore this.", "problems": ["cultural_insensitivity"]}
+{"id": "f3735", "frame": "Racial fetishization of women is acceptable and a source of personal fulfillment.", "problems": ["cultural_insensitivity"]}
+{"id": "f4166", "frame": "It is acceptable to insult women by comparing them to black men in makeup, portraying those men as inherently less attractive.", "problems": ["cultural_insensitivity"]}
+{"id": "f6069", "frame": "Cultures should empower men or they are inferior and destined to fail.", "problems": ["cultural_insensitivity"]}
+{"id": "f6597", "frame": "A woman's infidelity is usually the man's fault.", "problems": ["deflection"]}
+{"id": "f480", "frame": "Women are responsible for their own objectification.", "problems": ["deflection", "victim_blaming"]}
+{"id": "f6891", "frame": "One instance of misogyny should excuse another.", "problems": ["deflection", "false_equivalence"]}
+{"id": "f6198", "frame": "Women manipulate men into doing all the work while they do nothing.", "problems": ["deflection"]}
+{"id": "f5203", "frame": "Women who refuse to date men living with their mothers but date married men deserve to be blamed for hypocrisy.", "problems": ["deflection"]}
+{"id": "f3201", "frame": "Women are replaceable and can be substituted with services if they do not fulfill their 'duties.'", "problems": ["deflection"]}
+{"id": "f3764", "frame": "Cheating on women is a valid way to determine if they are worthy.", "problems": ["deflection"]}
+{"id": "f4228", "frame": "Blaming single mothers instead of rapists is the appropriate way to address rape.", "problems": ["deflection"]}
+{"id": "f6490", "frame": "A man’s well-being is solely dependent on how he is treated by women.", "problems": ["deflection"]}
+{"id": "f7643", "frame": "Feminists are hypocritical for ignoring sexism against men.", "problems": ["deflection"]}
+{"id": "f3011", "frame": "Comparing women to animals is acceptable.", "problems": ["dehumanization_of_women"]}
+{"id": "f4375", "frame": "Women are objects and should be treated as such.", "problems": ["dehumanization_of_women"]}
+{"id": "f7107", "frame": "Women are pigs and deserve to be insulted.", "problems": ["dehumanization_of_women"]}
+{"id": "f2328", "frame": "Overweight women deserve to be treated as animals.", "problems": ["dehumanization_of_women"]}
+{"id": "f3100", "frame": "Women are meant to be viewed as non-human beings.", "problems": ["dehumanization_of_women"]}
+{"id": "f942", "frame": "Women should be treated like animals when they argue.", "problems": ["dehumanization_of_women"]}
+{"id": "f975", "frame": "A woman's appearance is meant to be publicly mocked and compared to animals.", "problems": ["dehumanization_of_women"]}
+{"id": "f7611", "frame": "Women can be dehumanized and used as props for jokes.", "problems": ["dehumanization_of_women"]}
+{"id": "f3555", "frame": "Sex workers deserve disrespect and mistreatment.", "problems": ["dehumanization_of_women"]}
+{"id": "f5730", "frame": "Women, especially feminists, are less evolved or less human.", "problems": ["dehumanization_of_women"]}
+{"id": "f4048", "frame": "Women are meant to be considered less attractive than animals.", "problems": ["dehumanization_of_women"]}
+{"id": "f1622", "frame": "Women are less valuable than animals.", "problems": ["dehumanization_of_women"]}
+{"id": "f7872", "frame": "Women are meant to be depicted as life-sucking creatures from hell.", "problems": ["dehumanization_of_women"]}
+{"id": "f3571", "frame": "Women are meant to remain inherently flawed or lacking, even when they try to improve themselves.", "problems": ["dehumanization_of_women"]}
+{"id": "f3979", "frame": "Women need to be controlled like animals.", "problems": ["dehumanization_of_women", "derogatory_labeling"]}
+{"id": "f6173", "frame": "Women are inherently cold and unfeeling.", "problems": ["dehumanization_of_women"]}
+{"id": "f6467", "frame": "Women are like household appliances, useful only for domestic work.", "problems": ["dehumanization_of_women"]}
+{"id": "f1103", "frame": "Women are less reliable and trustworthy than animals.", "problems": ["dehumanization_of_women"]}
+{"id": "f4853", "frame": "Underage girls deserve to be insulted with demeaning, derogatory terms as sexual objects.", "problems": ["dehumanization_of_women"]}
+{"id": "f5739", "frame": "Women who report sexual assault are ungrateful and do not deserve help.", "problems": ["dehumanization_of_women"]}
+{"id": "f6052", "frame": "Strippers are only capable of feeling emotions when they are not under the influence of drugs.", "problems": ["dehumanization_of_women"]}
+{"id": "f7583", "frame": "Women are meant to be demeaned through inappropriate and offensive comparisons that strip away their humanity.", "problems": ["dehumanization_of_women"]}
+{"id": "f2524", "frame": "Women's aspirations and dreams are trivial and unimportant.", "problems": ["demeaning_aspirations"]}
+{"id": "f4583", "frame": "Women are inherently unfit to run the world and would only ruin it.", "problems": ["demeaning_aspirations"]}
+{"id": "f6218", "frame": "Being a housewife is a delusional or inferior role.", "problems": ["demeaning_aspirations"]}
+{"id": "f2108", "frame": "Women are only suited for menial tasks.", "problems": ["demeaning_aspirations"]}
+{"id": "f6361", "frame": "Even successful women have their primary role in performing domestic chores.", "problems": ["demeaning_aspirations"]}
+{"id": "f5610", "frame": "Women are not meant to be desired or valued in the workplace.", "problems": ["demeaning_aspirations", "workplace_discrimination"]}
+{"id": "f616", "frame": "Women who advocate for their rights are destined to be unhappy and unsuccessful in their personal lives.", "problems": ["demeaning_aspirations"]}
+{"id": "f863", "frame": "Women who speak out against objectification should be mocked for their audacity.", "problems": ["demeaning_aspirations"]}
+{"id": "f2021", "frame": "When women try to revolutionize fashion, they inevitably end up looking like outdated stereotypes and should be mocked.", "problems": ["demeaning_aspirations"]}
+{"id": "f5343", "frame": "Women who reject traditional roles are only doing so to engage in degrading sexual acts.", "problems": ["demeaning_aspirations"]}
+{"id": "f6259", "frame": "Women should prioritize serving men over pursuing other interests or careers.", "problems": ["demeaning_aspirations"]}
+{"id": "f2090", "frame": "Women deserve to be in hell.", "problems": ["demonization"]}
+{"id": "f7016", "frame": "Women are animals to be ridiculed and dehumanized.", "problems": ["demonization"]}
+{"id": "f3603", "frame": "Unattractive women are inherently jealous.", "problems": ["demonization", "reductionism"]}
+{"id": "f4545", "frame": "Older women who date younger men are predatory and abnormal.", "problems": ["demonization"]}
+{"id": "f4372", "frame": "Black women are inherently less desirable, likened to raw meat.", "problems": ["demonization"]}
+{"id": "f3515", "frame": "Islam is meant to condone the mistreatment of women.", "problems": ["demonization"]}
+{"id": "f3521", "frame": "Refugees are driven by uncontrollable sexual urges.", "problems": ["demonization", "fearmongering"]}
+{"id": "f3582", "frame": "Feminists hate male children.", "problems": ["demonization"]}
+{"id": "f5861", "frame": "Women who are judged as promiscuous deserve to be insulted and punished.", "problems": ["demonization"]}
+{"id": "f6152", "frame": "Ex-girlfriends are like radioactive zones: contaminated, dangerous, and should be avoided.", "problems": ["demonization"]}
+{"id": "f7531", "frame": "Female gamers are meant to be valued only for their sexual behaviors.", "problems": ["demonization", "stereotyping"]}
+{"id": "f4867", "frame": "Women who use Snapchat are promiscuous.", "problems": ["derogatory_labeling", "stereotyping"]}
+{"id": "f918", "frame": "A woman's worth is determined by her physical attractiveness.", "problems": ["derogatory_labeling"]}
+{"id": "f6446", "frame": "Blonde women are supposed to be dumb.", "problems": ["derogatory_labeling", "stereotyping"]}
+{"id": "f1731", "frame": "Feminist perspectives on body positivity are invalid and should be ridiculed.", "problems": ["derogatory_labeling"]}
+{"id": "f5598", "frame": "All drunk women are hapless idiots.", "problems": ["derogatory_labeling"]}
+{"id": "f201", "frame": "Single mothers and women in general are undesirable or problematic.", "problems": ["derogatory_labeling"]}
+{"id": "f5161", "frame": "Women are meant to focus on cooking and serving men while refraining from voicing opinions.", "problems": ["derogatory_labeling"]}
+{"id": "f4337", "frame": "Women's concerns or suspicions in relationships are meant to be dismissed as signs of craziness.", "problems": ["derogatory_labeling"]}
+{"id": "f6740", "frame": "Women are stupid and inferior.", "problems": ["derogatory_labeling"]}
+{"id": "f701", "frame": "Women who edit their photos are untrustworthy.", "problems": ["derogatory_labeling", "ridicule"]}
+{"id": "f7813", "frame": "Women who report sexual assault are unreasonable and ungrateful.", "problems": ["derogatory_labeling"]}
+{"id": "f901", "frame": "It is acceptable to mock Thai women by suggesting they are transgender.", "problems": ["derogatory_labeling", "transphobia"]}
+{"id": "f80", "frame": "Bridesmaids are attention seekers.", "problems": ["derogatory_labeling", "stereotyping"]}
+{"id": "f1212", "frame": "Comparing women in the Democratic Party to dogs is acceptable to highlight their unattractiveness.", "problems": ["derogatory_labeling"]}
+{"id": "f1694", "frame": "Cheating is normalized and women are often blamed as complicit side-chicks.", "problems": ["derogatory_labeling"]}
+{"id": "f3162", "frame": "Overweight women are akin to whales and deserve to be harpooned.", "problems": ["derogatory_labeling"]}
+{"id": "f3354", "frame": "Real women are meant to be dirty and undesirable because they are human.", "problems": ["derogatory_labeling"]}
+{"id": "f3522", "frame": "Women who support refugees do so insincerely for sexual attention.", "problems": ["derogatory_labeling", "ridicule"]}
+{"id": "f4865", "frame": "Women with mental health issues or addiction problems are meant to be considered more exciting or interesting.", "problems": ["derogatory_labeling", "trivializing_mental_health_issues"]}
+{"id": "f6552", "frame": "Female soldiers should be referred to as \"chicks\" to emphasize their gender and appearance over their professionalism.", "problems": ["derogatory_labeling", "objectification"]}
+{"id": "f6565", "frame": "Women who struggle with dieting are like ‘whores’ because they lack self-control.", "problems": ["derogatory_labeling"]}
+{"id": "f6922", "frame": "Ex-wives are meant to be ridiculed and dehumanized by comparing them to pigs.", "problems": ["derogatory_labeling"]}
+{"id": "f519", "frame": "Women deserve to be insulted based on their perceived social status and background.", "problems": ["discrimination"]}
+{"id": "f1564", "frame": "Women do not deserve equal rights.", "problems": ["dismissing_women_s_rights"]}
+{"id": "f7267", "frame": "Women’s rights are a joke and women should be physically assaulted.", "problems": ["dismissing_women_s_rights"]}
+{"id": "f6761", "frame": "Sexism is justified because women are wrong.", "problems": ["dismissing_women_s_rights"]}
+{"id": "f1433", "frame": "Religious texts can be used to justify gender inequality.", "problems": ["dismissing_women_s_rights", "undermining_women_s_rights_movements"]}
+{"id": "f3134", "frame": "Women should not be allowed to vote or participate in decision-making processes.", "problems": ["dismissing_women_s_rights"]}
+{"id": "f3805", "frame": "Women’s opinions on objectification are invalid and unworthy of respect.", "problems": ["dismissing_women_s_rights"]}
+{"id": "f5248", "frame": "Muslim women are meant to be excessively restricted in their freedoms.", "problems": ["dismissing_women_s_rights"]}
+{"id": "f1507", "frame": "Women should be submissive and quiet.", "problems": ["dismissing_women_s_rights"]}
+{"id": "f3676", "frame": "Women should accept financial inequality or die earlier.", "problems": ["dismissing_women_s_rights", "promoting_self_harm"]}
+{"id": "f5244", "frame": "Only men can be leaders or be in charge.", "problems": ["dismissing_women_s_rights"]}
+{"id": "f6558", "frame": "Women's rights matter only insofar as they allow women to serve men.", "problems": ["dismissing_women_s_rights"]}
+{"id": "f6854", "frame": "Women's feelings are not important.", "problems": ["dismissiveness", "ridicule"]}
+{"id": "f4457", "frame": "Women should be silent and not speak.", "problems": ["dismissiveness"]}
+{"id": "f3369", "frame": "Disrespecting women with crude sexual language is acceptable.", "problems": ["dismissiveness"]}
+{"id": "f4182", "frame": "Women’s worth is meant to be determined by their physical attributes, especially their breasts.", "problems": ["dismissiveness"]}
+{"id": "f5454", "frame": "When a girl achieves something significant, it is surprising or suspicious.", "problems": ["dismissiveness", "stereotyping"]}
+{"id": "f385", "frame": "People’s political and social beliefs are not genuine; they are only upheld until the individual achieves personal success or changes their circumstances.", "problems": ["dismissiveness"]}
+{"id": "f445", "frame": "Housework is a trivial or insignificant duty compared to other roles.", "problems": ["dismissiveness", "patriarchal_attitudes"]}
+{"id": "f522", "frame": "Calling Michelle Obama beautiful is a joke only blind people could believe.", "problems": ["dismissiveness", "ridicule"]}
+{"id": "f898", "frame": "Women's domestic labor is equated with slavery while only paid employment is considered freedom.", "problems": ["dismissiveness"]}
+{"id": "f4833", "frame": "Bartenders are meant to be seen as unskilled professionals whose work is not valuable.", "problems": ["dismissiveness"]}
+{"id": "f7582", "frame": "Modern women are inevitably less respectable and dignified than women from the past.", "problems": ["dismissiveness"]}
+{"id": "f584", "frame": "Women are like animals, available for use.", "problems": ["disposability"]}
+{"id": "f4706", "frame": "Women who engage in sex work are worthless and disposable.", "problems": ["disposability"]}
+{"id": "f6751", "frame": "It is acceptable to restrain and gag women.", "problems": ["disposability", "violence"]}
+{"id": "f3965", "frame": "Hookers are worthless and disposable.", "problems": ["disposability", "disrespecting_sex_workers"]}
+{"id": "f1596", "frame": "Women should be eliminated.", "problems": ["disposability"]}
+{"id": "f2009", "frame": "Women are meant to be valued only on their wedding day or the day they die.", "problems": ["disposability"]}
+{"id": "f1201", "frame": "Feminists should be dismissed as worthless trash and discarded.", "problems": ["disposability"]}
+{"id": "f7005", "frame": "Women deemed unattractive are hopeless and have no value.", "problems": ["disposability"]}
+{"id": "f1912", "frame": "An ideal woman is one who has been harmed and dehumanized.", "problems": ["disposability"]}
+{"id": "f1760", "frame": "Homeless women are meant to be treated as disposable commodities, valued only for convenience and discarded at will.", "problems": ["disposability"]}
+{"id": "f945", "frame": "Sex workers do not deserve respect.", "problems": ["disrespecting_sex_workers"]}
+{"id": "f4732", "frame": "Women should be reduced to derogatory labels and sexual objects.", "problems": ["disrespecting_sex_workers"]}
+{"id": "f7736", "frame": "Women who dress in a certain way are prostitutes.", "problems": ["disrespecting_sex_workers"]}
+{"id": "f6053", "frame": "All strippers use drugs.", "problems": ["disrespecting_sex_workers", "stereotyping"]}
+{"id": "f43", "frame": "Extreme sexual acts involving women are meant to be a source of humor.", "problems": ["disrespecting_sex_workers"]}
+{"id": "f820", "frame": "Women's worth is meant to be tied to their physical attributes.", "problems": ["disrespecting_sex_workers"]}
+{"id": "f2436", "frame": "Religious people are hypocritical for condemning the murder of a prostitute while worshipping a deity who committed mass murder.", "problems": ["disrespecting_sex_workers"]}
+{"id": "f3981", "frame": "The only way a woman can survive an economic collapse is by selling her body.", "problems": ["disrespecting_sex_workers"]}
+{"id": "f6356", "frame": "Disrespecting women is acceptable.", "problems": ["disrespect_towards_women"]}
+{"id": "f6883", "frame": "Female porn stars are only valuable for their sexual acts and deserve mockery and disrespect.", "problems": ["disrespect_towards_women", "objectification"]}
+{"id": "f6886", "frame": "Women over 35 should be reduced to their physical appearance and likened to raw turkeys.", "problems": ["disrespect_towards_women"]}
+{"id": "f4235", "frame": "Feminists are antagonistic towards men and aim to harm their interests.", "problems": ["divisiveness"]}
+{"id": "f4490", "frame": "Women are expected to compete with each other based on their appearance.", "problems": ["divisiveness"]}
+{"id": "f3396", "frame": "Only conservative women are real or valid women; liberal women are not valid women.", "problems": ["divisiveness"]}
+{"id": "f4617", "frame": "Only women in Eastern societies face genuine oppression.", "problems": ["divisiveness"]}
+{"id": "f564", "frame": "Muslims and feminists are inherently in conflict, and one should be sacrificed for the other.", "problems": ["divisiveness"]}
+{"id": "f1195", "frame": "Women are inherently worse than men.", "problems": ["divisiveness"]}
+{"id": "f1734", "frame": "Women are manipulative and blame men for problems they themselves cause.", "problems": ["divisiveness"]}
+{"id": "f2519", "frame": "Men’s behavior is supposed to be straightforward and uncomplicated, unlike women’s trivial chatter.", "problems": ["divisiveness"]}
+{"id": "f3250", "frame": "Women must be either career women or homemakers, and are judged harshly for choosing one over the other.", "problems": ["divisiveness"]}
+{"id": "f4681", "frame": "Women are demanding and unreasonable when they do not get what they want.", "problems": ["divisiveness"]}
+{"id": "f7640", "frame": "Men should bond over their shared disdain for women.", "problems": ["divisiveness"]}
+{"id": "f7027", "frame": "Men should not have to help with cleaning the house.", "problems": ["double_standards"]}
+{"id": "f2664", "frame": "Women who don't shave are unattractive and resemble werewolves.", "problems": ["double_standards"]}
+{"id": "f4092", "frame": "Women have unrealistic expectations for men while not accepting criticism about their own appearance.", "problems": ["double_standards"]}
+{"id": "f1124", "frame": "It is hypocritical to condemn men for hitting women while ignoring women who hit men.", "problems": ["double_standards"]}
+{"id": "f6513", "frame": "Failing to treat women specially leads to negative consequences.", "problems": ["double_standards"]}
+{"id": "f1330", "frame": "Women’s cleavage is meant to be both criticized and approved by men.", "problems": ["double_standards"]}
+{"id": "f1143", "frame": "Women with multiple sexual partners deserve to be called sluts.", "problems": ["double_standards"]}
+{"id": "f2025", "frame": "Women only want equality when it benefits them.", "problems": ["double_standards"]}
+{"id": "f2560", "frame": "Men are not held to the same appearance standards as women.", "problems": ["double_standards"]}
+{"id": "f1728", "frame": "Men should be blamed when women cheat.", "problems": ["double_standards", "victim_blaming"]}
+{"id": "f2658", "frame": "It is acceptable to mock women for having unrealistic expectations of men.", "problems": ["double_standards"]}
+{"id": "f6506", "frame": "Men must possess multiple positive attributes to be attractive.", "problems": ["double_standards"]}
+{"id": "f4722", "frame": "Women should stick to traditional roles, like cooking.", "problems": ["double_standards"]}
+{"id": "f6623", "frame": "A woman's worth or integrity is tied to her virginity.", "problems": ["double_standards"]}
+{"id": "f103", "frame": "Women who drink have no right to criticize drunk men.", "problems": ["double_standards", "ridicule"]}
+{"id": "f3476", "frame": "Society ignores violence against men by women.", "problems": ["double_standards"]}
+{"id": "f5946", "frame": "Men are entitled to side relationships and women must accept this submissively.", "problems": ["double_standards"]}
+{"id": "f2109", "frame": "Women who have height preferences in men are superficial and unreasonable.", "problems": ["double_standards"]}
+{"id": "f477", "frame": "It’s acceptable to pressure women to marry by a certain age because their worth declines if they remain unmarried past 30.", "problems": ["double_standards"]}
+{"id": "f1063", "frame": "It is acceptable to demean and dismiss women who give advice by calling them derogatory names.", "problems": ["double_standards"]}
+{"id": "f4702", "frame": "Women's sports are not as important or serious as men's sports.", "problems": ["double_standards"]}
+{"id": "f4786", "frame": "Statutory rape by a female teacher should be viewed as less serious than when committed by a male teacher.", "problems": ["double_standards", "pedophilia_exploitation"]}
+{"id": "f5767", "frame": "Mothers should maintain specific images depending on the social media platform they use.", "problems": ["double_standards"]}
+{"id": "f6400", "frame": "Women should not wear lace underwear because it is inappropriate.", "problems": ["double_standards", "policing_women_s_bodies", "ridicule"]}
+{"id": "f6612", "frame": "Providing special parking spaces for women is a condescending double standard.", "problems": ["double_standards"]}
+{"id": "f7117", "frame": "Women in the past were always respectable and devoted to developing their talents.", "problems": ["double_standards"]}
+{"id": "f7532", "frame": "Women who seek new partners quickly after losing a mate are condemned, while men are allowed to remain single without judgment.", "problems": ["double_standards"]}
+{"id": "f1613", "frame": "A wife's consent is not necessary for sexual acts within marriage.", "problems": ["endorsing_marital_rape"]}
+{"id": "f1528", "frame": "Marriage is meant to control and silence women.", "problems": ["endorsing_marital_rape"]}
+{"id": "f5420", "frame": "Domestic violence is a legitimate means for women to receive attention from their partners.", "problems": ["endorsing_marital_rape", "victim_blaming"]}
+{"id": "f1954", "frame": "Sexual acts with deceased women are acceptable and humorous.", "problems": ["endorsing_necrophilia"]}
+{"id": "f5196", "frame": "Sexual violence against women is meant to be a joke.", "problems": ["endorsing_necrophilia"]}
+{"id": "f1149", "frame": "Men are entitled to use women's bodies, even after death.", "problems": ["endorsing_necrophilia"]}
+{"id": "f1655", "frame": "Sexual attraction to female corpses is acceptable.", "problems": ["endorsing_necrophilia"]}
+{"id": "f2602", "frame": "A woman’s suicide only serves to intensify the rapist’s gratification, including necrophilic urges toward her corpse.", "problems": ["endorsing_necrophilia"]}
+{"id": "f384", "frame": "Women are only valuable if they conform to traditional gender roles, such as being a housewife.", "problems": ["enforced_gender_norms"]}
+{"id": "f6015", "frame": "Women who do not cook or clean are worthless bitches.", "problems": ["enforced_gender_norms"]}
+{"id": "f240", "frame": "Traditional or modest roles for women are less desirable compared to sexualized roles.", "problems": ["enforced_gender_norms"]}
+{"id": "f3188", "frame": "Women should look unattractive at home.", "problems": ["enforced_gender_norms"]}
+{"id": "f1357", "frame": "Women are only good for making sandwiches.", "problems": ["enforced_gender_norms"]}
+{"id": "f4148", "frame": "Women should be silent to be desirable to men.", "problems": ["enforced_gender_norms"]}
+{"id": "f2785", "frame": "Men are the primary earners and supporters in a relationship.", "problems": ["enforced_gender_norms"]}
+{"id": "f611", "frame": "Women are not meant to be geeks or involved in technical work.", "problems": ["enforced_gender_norms", "stereotyping"]}
+{"id": "f349", "frame": "Women avoid performing hard physical labor and expect men to do it instead.", "problems": ["enforced_gender_norms"]}
+{"id": "f145", "frame": "Traditional femininity is meant to be elegant and refined.", "problems": ["enforced_gender_norms", "gender_essentialism"]}
+{"id": "f3997", "frame": "Including women in the army is meant to be a political gimmick rather than a genuine inclusion based on merit.", "problems": ["enforced_gender_norms"]}
+{"id": "f7915", "frame": "Women do not belong in gaming spaces.", "problems": ["exclusion"]}
+{"id": "f4788", "frame": "Women with unconventional appearances are unemployable.", "problems": ["exclusion"]}
+{"id": "f7544", "frame": "Women should not hold positions of power or influence.", "problems": ["exclusion", "patriarchal_attitudes"]}
+{"id": "f68", "frame": "Women's soccer is not worth taking seriously.", "problems": ["exclusion"]}
+{"id": "f3911", "frame": "Women should not be in professional kitchens.", "problems": ["exclusion", "workplace_discrimination"]}
+{"id": "f6589", "frame": "Female-owned businesses should be unfairly targeted and given bad reviews.", "problems": ["exclusion"]}
+{"id": "f510", "frame": "Men deserve more financial compensation than women.", "problems": ["exclusion"]}
+{"id": "f1165", "frame": "Women are meant to be excluded from sexual acts like threesomes, reinforcing a male-centric perspective.", "problems": ["exclusion"]}
+{"id": "f1597", "frame": "Women do not deserve recognition or appreciation.", "problems": ["exclusion"]}
+{"id": "f1950", "frame": "It is acceptable to avoid female passengers based on negative stereotypes.", "problems": ["exclusion"]}
+{"id": "f2195", "frame": "Trans women are not real women and their identities should be rejected.", "problems": ["exclusion"]}
+{"id": "f3884", "frame": "Women on their period are problematic and should be avoided.", "problems": ["exclusion"]}
+{"id": "f4602", "frame": "Girls who do not conform to these stereotypical groups are unrecognized and effectively invisible.", "problems": ["exclusion", "invalidating_women_s_experiences"]}
+{"id": "f5498", "frame": "Reddit is meant to be a male-only community that excludes women.", "problems": ["exclusion", "misrepresentation"]}
+{"id": "f6282", "frame": "Women are not meant to serve in the military or similar roles.", "problems": ["exclusion"]}
+{"id": "f3967", "frame": "Women’s dead bodies can be exploited for convenience or humor.", "problems": ["exploitation_of_women_by_men"]}
+{"id": "f4537", "frame": "Women often make false accusations of sexual assault.", "problems": ["false_accusations"]}
+{"id": "f139", "frame": "Women are untrustworthy and promiscuous.", "problems": ["false_accusations", "stereotyping"]}
+{"id": "f5740", "frame": "Sexual assault claims are not serious and can be dismissed if the accused did something positive.", "problems": ["false_accusations"]}
+{"id": "f6622", "frame": "Women are deceitful about their sexual history.", "problems": ["false_accusations"]}
+{"id": "f3309", "frame": "Feminist movements should be viewed as harmful to men.", "problems": ["false_accusations"]}
+{"id": "f3597", "frame": "Women are inconsistent and hypocritical in their attitudes towards chivalry and sexism.", "problems": ["false_accusations"]}
+{"id": "f3732", "frame": "Women should be considered promiscuous and disease carriers.", "problems": ["false_accusations"]}
+{"id": "f5735", "frame": "Women lie about their relationships with male friends.", "problems": ["false_accusations"]}
+{"id": "f7632", "frame": "Women are deceptive about their appearance online.", "problems": ["false_accusations"]}
+{"id": "f7562", "frame": "Women are deceitful and untrustworthy.", "problems": ["false_accusations"]}
+{"id": "f628", "frame": "Women are inherently bad drivers.", "problems": ["false_accusations", "gender_essentialism", "misrepresentation"]}
+{"id": "f1025", "frame": "Women frequently lie about the cause of their injuries.", "problems": ["false_accusations"]}
+{"id": "f7190", "frame": "Women are like witches destined to ride brooms.", "problems": ["false_accusations"]}
+{"id": "f7876", "frame": "Men are as oppressed as historically marginalized groups.", "problems": ["false_equivalence"]}
+{"id": "f6878", "frame": "Women's claims of rape are exaggerated or false and thus untrustworthy.", "problems": ["false_equivalence"]}
+{"id": "f6851", "frame": "Women are hypocritical about cheating.", "problems": ["false_equivalence"]}
+{"id": "f2598", "frame": "Men suffer more financially than women during crises.", "problems": ["false_equivalence"]}
+{"id": "f6071", "frame": "Feminism is contradictory to the pursuit of equal rights.", "problems": ["false_equivalence"]}
+{"id": "f5058", "frame": "Women deceive men by wearing makeup to seem more attractive.", "problems": ["false_equivalence"]}
+{"id": "f4553", "frame": "It’s acceptable for boys to hit girls if they feel harassed.", "problems": ["false_equivalence"]}
+{"id": "f407", "frame": "Men are not meant to be blamed for everything.", "problems": ["false_equivalence"]}
+{"id": "f642", "frame": "Men and women equally deserve to be called 'bitches' for acting undesirably.", "problems": ["false_equivalence"]}
+{"id": "f2413", "frame": "Women who refuse to show their bodies in person but post revealing photos online deserve to be mocked for their hypocrisy.", "problems": ["false_equivalence"]}
+{"id": "f2448", "frame": "Women are supposed to value superficial compliments from attractive men over professional or technical praise from less attractive men.", "problems": ["false_equivalence", "stereotyping"]}
+{"id": "f2508", "frame": "Women’s opinions are like software license agreements—they’re unimportant and should be ignored.", "problems": ["false_equivalence"]}
+{"id": "f5923", "frame": "Modern feminists are as extreme and problematic as male incels.", "problems": ["false_equivalence"]}
+{"id": "f6538", "frame": "One should dismiss concerns of feminists and Muslims as mere pandering and not genuine.", "problems": ["false_equivalence"]}
+{"id": "f6992", "frame": "Not helping women with tasks is a way to show respect.", "problems": ["false_equivalence"]}
+{"id": "f2852", "frame": "Women with large buttocks deserve to be mocked.", "problems": ["fat_shaming"]}
+{"id": "f1159", "frame": "Overweight women are defective or incomplete.", "problems": ["fat_shaming"]}
+{"id": "f6584", "frame": "Fat women should not wear bikinis.", "problems": ["fat_shaming"]}
+{"id": "f4954", "frame": "Thin women are more desirable than women with fuller bodies.", "problems": ["fat_shaming"]}
+{"id": "f1643", "frame": "Fat women cannot have eating disorders.", "problems": ["fat_shaming", "trivializing_eating_disorders"]}
+{"id": "f1855", "frame": "Women's worth depends on the size of their breasts.", "problems": ["fat_shaming"]}
+{"id": "f5524", "frame": "Fat people should be confined to the water like whales.", "problems": ["fat_shaming", "objectification"]}
+{"id": "f1461", "frame": "People who criticize Shakira and J-Lo's performances are unattractive and should have no right to judge them.", "problems": ["fat_shaming"]}
+{"id": "f1428", "frame": "Women who do weightlifting are supposed to be less attractive than those in track and field.", "problems": ["fat_shaming"]}
+{"id": "f1706", "frame": "Fat women shouldn’t use rape whistles because they’ll never be victims of sexual violence.", "problems": ["fat_shaming"]}
+{"id": "f2659", "frame": "Women who do not meet conventional beauty standards are unworthy of having high standards for men.", "problems": ["fat_shaming"]}
+{"id": "f4434", "frame": "Only individuals with ideal body types should be allowed to cosplay.", "problems": ["fat_shaming"]}
+{"id": "f4522", "frame": "Weight gain in women is acceptable only if it enhances their breasts.", "problems": ["fat_shaming"]}
+{"id": "f4637", "frame": "Women's sexual desires are something to be feared and controlled.", "problems": ["fearmongering"]}
+{"id": "f3760", "frame": "Women are manipulative and use their gender to harm others.", "problems": ["fearmongering"]}
+{"id": "f54", "frame": "Society should treat feminism as dangerous to social order.", "problems": ["fearmongering"]}
+{"id": "f571", "frame": "Women are inherently irrational and prone to violence during arguments.", "problems": ["fearmongering"]}
+{"id": "f6399", "frame": "Issuing driver’s licenses to women threatens public safety because they cannot drive properly.", "problems": ["fearmongering"]}
+{"id": "f635", "frame": "Women should have no say in their marriage decisions; fathers or male guardians should decide for them.", "problems": ["forced_marriage"]}
+{"id": "f3380", "frame": "Kidnapping a woman is acceptable if you want to marry her.", "problems": ["forced_marriage"]}
+{"id": "f344", "frame": "Men are meant to seek permission from their wives before engaging in personal activities.", "problems": ["gatekeeping"]}
+{"id": "f1362", "frame": "Women should not be allowed to drive or engage in activities outside the home.", "problems": ["gatekeeping"]}
+{"id": "f1405", "frame": "Certain women are unfit to represent women in tech and undermine efforts to increase female representation.", "problems": ["gatekeeping"]}
+{"id": "f2381", "frame": "Women cannot genuinely belong to certain subcultures or communities and should be excluded.", "problems": ["gatekeeping"]}
+{"id": "f3787", "frame": "Certain expressions of feminism are inauthentic or forced and thus undeserving of recognition.", "problems": ["gatekeeping"]}
+{"id": "f5414", "frame": "Women who play casual games like Angry Birds should not be considered real gamers.", "problems": ["gatekeeping"]}
+{"id": "f1521", "frame": "A woman's place is in the kitchen.", "problems": ["gender_essentialism"]}
+{"id": "f1956", "frame": "Men are expected to react aggressively when disappointed.", "problems": ["gender_essentialism"]}
+{"id": "f855", "frame": "Men are praised for making women do physical labor.", "problems": ["gender_essentialism"]}
+{"id": "f476", "frame": "Women must be married by age 30 or they are failures and undesirable.", "problems": ["gender_essentialism"]}
+{"id": "f1340", "frame": "Men are meant to freely ogle women because it is their natural inclination.", "problems": ["gender_essentialism"]}
+{"id": "f2780", "frame": "Women are bound to be stressed and unhappy when they pursue careers.", "problems": ["gender_essentialism"]}
+{"id": "f97", "frame": "Men are inherently brave and competitive.", "problems": ["gender_essentialism", "stereotyping"]}
+{"id": "f3372", "frame": "A real mother's value is determined by her ability to cook for her children.", "problems": ["gender_essentialism"]}
+{"id": "f3875", "frame": "Women should not drink alcohol because it inevitably strips them of their dignity.", "problems": ["gender_essentialism"]}
+{"id": "f3900", "frame": "Men who support gun control are less masculine.", "problems": ["gender_essentialism"]}
+{"id": "f4138", "frame": "Men are inherently meant to dominate and excel in STEM fields over women.", "problems": ["gender_essentialism"]}
+{"id": "f4709", "frame": "Women are naturally materialistic and expected to value jewelry, especially diamonds, above meaningful relationships or other aspects of life.", "problems": ["gender_essentialism"]}
+{"id": "f4993", "frame": "A person’s gender identity should be determined solely by their physical characteristics.", "problems": ["gender_essentialism"]}
+{"id": "f2202", "frame": "A team's success depends solely on having a gay female coach.", "problems": ["homophobia"]}
+{"id": "f3922", "frame": "Liking a tomboy girlfriend is equivalent to wanting a 'boyfriend with tits' and is laughable.", "problems": ["homophobia", "ridicule"]}
+{"id": "f4263", "frame": "Using derogatory terms to refer to lesbian women is acceptable.", "problems": ["homophobia"]}
+{"id": "f4351", "frame": "Women’s sexual orientation is an obstacle that can be overcome to satisfy personal desires.", "problems": ["homophobia"]}
+{"id": "f6315", "frame": "Lesbian couples are inherently unreasonable in their legal actions and deserve to be mocked.", "problems": ["homophobia"]}
+{"id": "f4505", "frame": "Having sexual intercourse with two sisters is acceptable.", "problems": ["incest"]}
+{"id": "f7387", "frame": "Women are sexual objects meant to provide visual pleasure for men.", "problems": ["incest"]}
+{"id": "f88", "frame": "Incest is something to joke about.", "problems": ["incest"]}
+{"id": "f6410", "frame": "Violence and abuse against women are trivial and can be joked about.", "problems": ["incest"]}
+{"id": "f4857", "frame": "Men should dominate and control women in sexual contexts.", "problems": ["incest"]}
+{"id": "f6042", "frame": "Women who engage in certain behaviors deserve to be labeled “whores.”", "problems": ["incest"]}
+{"id": "f4996", "frame": "Women are meant to be unintelligent.", "problems": ["intellectual_degradation"]}
+{"id": "f2817", "frame": "Women do not need education if they are physically attractive.", "problems": ["intellectual_degradation"]}
+{"id": "f5929", "frame": "Women’s professional achievements and roles deserve to be undermined and trivialized.", "problems": ["intellectual_degradation"]}
+{"id": "f451", "frame": "Women who support adultery are unintelligent and lack common sense.", "problems": ["intellectual_degradation"]}
+{"id": "f2417", "frame": "Women are incapable of understanding movies without men explaining them.", "problems": ["intellectual_degradation"]}
+{"id": "f3975", "frame": "Women cannot earn pay raises through merit and hard work alone and must resort to using their bodies.", "problems": ["intellectual_degradation"]}
+{"id": "f1132", "frame": "Women are meant to remain silent and not voice their opinions.", "problems": ["intellectual_degradation"]}
+{"id": "f2980", "frame": "Women are not helpful in solving problems and are a distraction.", "problems": ["intellectual_degradation"]}
+{"id": "f4486", "frame": "Women’s intuition is a myth and should be ignored.", "problems": ["intellectual_degradation"]}
+{"id": "f5044", "frame": "Women who believe their actions are determined by zodiac signs are irrational and deserve to be ridiculed.", "problems": ["intellectual_degradation", "stereotyping"]}
+{"id": "f3685", "frame": "Black women are meant to be valued only for their reproductive capability.", "problems": ["intersectional_prejudice"]}
+{"id": "f4230", "frame": "Asian women are inherently bad drivers and deserve to be mocked.", "problems": ["intersectional_prejudice"]}
+{"id": "f2163", "frame": "Black women’s genitalia are meant to be unattractive.", "problems": ["intersectional_prejudice", "sexualization"]}
+{"id": "f5971", "frame": "Asian women are unwanted in NSFW content and should be excluded.", "problems": ["intersectional_prejudice"]}
+{"id": "f1214", "frame": "Native women are inherently crazy and cannot be trusted.", "problems": ["intersectional_prejudice"]}
+{"id": "f4367", "frame": "People from lower socio-economic backgrounds are “white trash.”", "problems": ["intersectional_prejudice"]}
+{"id": "f3286", "frame": "Being a Muslim feminist is unacceptable or absurd.", "problems": ["intersectional_prejudice"]}
+{"id": "f1142", "frame": "Being a woman negates Asians’ stereotype of intelligence and justifies dismissing their intellectual abilities.", "problems": ["intersectional_prejudice"]}
+{"id": "f3992", "frame": "Indian women should be sexualized and used as punchlines for humor.", "problems": ["intersectional_prejudice", "sexual_innuendo"]}
+{"id": "f4371", "frame": "White women are inherently pure and delicate.", "problems": ["intersectional_prejudice"]}
+{"id": "f5193", "frame": "Latina women are better at cleaning and domestic tasks than white women.", "problems": ["intersectional_prejudice", "racism"]}
+{"id": "f5325", "frame": "All Mexicans expect their children to clean from a young age.", "problems": ["intersectional_prejudice"]}
+{"id": "f6336", "frame": "Discovering the baby is of a different race is a valid way to vindicate trust and expose deceit.", "problems": ["intersectional_prejudice", "racism"]}
+{"id": "f7656", "frame": "Chinese women are responsible for spreading diseases.", "problems": ["intersectional_prejudice"]}
+{"id": "f5076", "frame": "Women’s childbirth experiences are exaggerated and should be dismissed.", "problems": ["invalidating_women_s_experiences"]}
+{"id": "f3868", "frame": "Women who dress to show cleavage are illogical to expect respect.", "problems": ["invalidating_women_s_experiences"]}
+{"id": "f2306", "frame": "Women should be silent.", "problems": ["invalidating_women_s_experiences"]}
+{"id": "f1235", "frame": "Housewives are meant to be insignificant and valueless.", "problems": ["invalidating_women_s_experiences"]}
+{"id": "f2120", "frame": "Women inherently dislike each other.", "problems": ["invalidating_women_s_experiences"]}
+{"id": "f3680", "frame": "Women who complain about household chores deserve to be mocked.", "problems": ["invalidating_women_s_experiences"]}
+{"id": "f5308", "frame": "Women are too busy with domestic tasks to care about jokes that demean them.", "problems": ["invalidating_women_s_experiences"]}
+{"id": "f2265", "frame": "Menstruation is disgusting and should be ridiculed.", "problems": ["invalidating_women_s_experiences"]}
+{"id": "f1891", "frame": "It is acceptable to sexualize a girlfriend’s mother and make inappropriate sexual comments about her.", "problems": ["invalidating_women_s_experiences"]}
+{"id": "f1965", "frame": "Women’s claims of bodily autonomy are insincere demands for financial support.", "problems": ["invalidating_women_s_experiences", "minimizing_feminist_efforts", "stereotyping"]}
+{"id": "f4373", "frame": "Women think they can judge a man’s character just by looking at him.", "problems": ["invalidating_women_s_experiences"]}
+{"id": "f5380", "frame": "Women are meant to be overly emotional and quick to move on after a breakup, and their reactions are invalid compared to men’s stoic suffering.", "problems": ["invalidating_women_s_experiences"]}
+{"id": "f662", "frame": "Men should not have to apologize for misogyny because it is women's fault.", "problems": ["lack_of_accountability_by_men"]}
+{"id": "f4280", "frame": "Nice guys believe that being “nice” entitles them to women’s affection and blame women when they don’t reciprocate.", "problems": ["lack_of_accountability_by_men"]}
+{"id": "f229", "frame": "Women are expected to use their physical appearance to compete for attention or validation.", "problems": ["male_validation"]}
+{"id": "f756", "frame": "An attractive woman is a source of pleasure and pride for men.", "problems": ["male_validation"]}
+{"id": "f947", "frame": "Sexist jokes should be acceptable because they provide women with validation.", "problems": ["male_validation"]}
+{"id": "f3474", "frame": "A woman's self-worth is tied to receiving attention from men, even if that attention is inappropriate.", "problems": ["male_validation"]}
+{"id": "f4443", "frame": "The perfect wife should fulfill male sexual fantasies and provide amusement.", "problems": ["male_validation"]}
+{"id": "f2745", "frame": "Women should not be trusted because they menstruate.", "problems": ["menstruation_stigma"]}
+{"id": "f7334", "frame": "Menstruation is gross and should be avoided.", "problems": ["menstruation_stigma"]}
+{"id": "f7731", "frame": "Women must be available for sex regardless of their menstrual cycle.", "problems": ["menstruation_stigma"]}
+{"id": "f5064", "frame": "Women are only defined by their sexual desires and menstrual cycles.", "problems": ["menstruation_stigma"]}
+{"id": "f929", "frame": "Women's discomfort and boundaries during menstruation should be ignored.", "problems": ["menstruation_stigma"]}
+{"id": "f6048", "frame": "Women’s clothing choices are dictated by their menstrual cycle.", "problems": ["menstruation_stigma"]}
+{"id": "f2114", "frame": "Women's rights are a joke.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f6428", "frame": "People who speak out against misogyny are hypocrites.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f7471", "frame": "The dangers and struggles faced by feminists in the Middle East are meant to be trivialized.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f6700", "frame": "Efforts to diversify classic media are unnecessary and ruin the original content.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f4511", "frame": "Feminism is about women being overweight or obsessed with food.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f3914", "frame": "Rejecting traditional roles, like being a housewife, leads to undesirable outcomes.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f1118", "frame": "Concerns about office air conditioning being sexist should be dismissed as ridiculous.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f272", "frame": "Gender equality means men should be able to hit women back.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f5796", "frame": "Toxic masculinity is not a real phenomenon but a term invented by feminists.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f1940", "frame": "Women deserve to be punished for raising awareness about sexual harassment.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f4109", "frame": "LGBTQ+ struggles and expressions of identity are not considered brave.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f6213", "frame": "The term \"womyn\" is intended to mock feminist efforts and delegitimize the feminist movement.", "problems": ["minimizing_feminist_efforts"]}
+{"id": "f6441", "frame": "Women are only interested in men for their money and status.", "problems": ["misrepresentation", "stereotyping"]}
+{"id": "f6956", "frame": "Women with a certain hairstyle should be treated as difficult customers.", "problems": ["misrepresentation"]}
+{"id": "f6009", "frame": "Social and political movements ought to be seen as driven by undesirable or marginalized groups.", "problems": ["misrepresentation"]}
+{"id": "f3740", "frame": "Women are entitled to share in a man’s success without having contributed to it.", "problems": ["misrepresentation"]}
+{"id": "f4977", "frame": "Women do not take health advice seriously.", "problems": ["misrepresentation"]}
+{"id": "f6141", "frame": "Islamic law inherently justifies negative treatment of women.", "problems": ["misrepresentation"]}
+{"id": "f400", "frame": "Women are naturally unfaithful and should embrace this behavior.", "problems": ["misrepresentation"]}
+{"id": "f794", "frame": "Transgender women are meant to be deceptive and trick men by presenting themselves as women.", "problems": ["misrepresentation"]}
+{"id": "f2449", "frame": "Physical strength is a valid measure of superiority, and men are superior to women due to their greater physical strength.", "problems": ["misrepresentation"]}
+{"id": "f2594", "frame": "It’s acceptable that women are always late and make men wait for them.", "problems": ["misrepresentation"]}
+{"id": "f2909", "frame": "Michelle Obama is not a woman and is secretly a man.", "problems": ["misrepresentation"]}
+{"id": "f3769", "frame": "Women pretend to be asleep as a tactic to signal their sexual availability.", "problems": ["misrepresentation"]}
+{"id": "f4316", "frame": "Women are generally talkative and a silent woman is rare.", "problems": ["misrepresentation"]}
+{"id": "f5938", "frame": "Women handle serious situations irresponsibly because they prioritize taking pictures for social media.", "problems": ["misrepresentation"]}
+{"id": "f7421", "frame": "Female rappers are not as talented as male rappers and their music is inherently bad.", "problems": ["misrepresentation", "ridicule"]}
+{"id": "f2356", "frame": "Women cannot be trusted.", "problems": ["mistrust_in_women"]}
+{"id": "f1315", "frame": "Women are likely to cheat on their partners.", "problems": ["mistrust_in_women", "trivializing_infidelity"]}
+{"id": "f257", "frame": "Women are meant to be ignorant about car maintenance.", "problems": ["mistrust_in_women"]}
+{"id": "f7276", "frame": "Women are too uninformed about political issues to have valid opinions.", "problems": ["mistrust_in_women"]}
+{"id": "f6094", "frame": "Women use men for favors and do not engage in genuine friendship.", "problems": ["mistrust_in_women"]}
+{"id": "f4827", "frame": "Women who look different without makeup are being deceptive.", "problems": ["mistrust_in_women"]}
+{"id": "f1733", "frame": "Women are irrational and get angry without reason.", "problems": ["mistrust_in_women"]}
+{"id": "f2973", "frame": "Men feel nervous or anxious when women are driving.", "problems": ["mistrust_in_women"]}
+{"id": "f3797", "frame": "Feminists are mentally ill.", "problems": ["misunderstanding_feminism"]}
+{"id": "f6070", "frame": "Feminists do not care about equal rights.", "problems": ["misunderstanding_feminism"]}
+{"id": "f7186", "frame": "Women are inherently subordinate to men, as even their identity (e.g., “woman,” “female”) derives from male terms.", "problems": ["misunderstanding_feminism"]}
+{"id": "f2074", "frame": "Feminists are meant to become men, thereby losing their identity as women.", "problems": ["misunderstanding_feminism"]}
+{"id": "f6226", "frame": "Women wanting to make more money than men is hypocritical.", "problems": ["misunderstanding_feminism"]}
+{"id": "f3038", "frame": "All men, regardless of how they treat women, are inherently misogynists.", "problems": ["misunderstanding_feminism"]}
+{"id": "f7342", "frame": "Women on Twitter frequently make sweeping negative statements about men.", "problems": ["misunderstanding_feminism"]}
+{"id": "f6013", "frame": "Feminism is about hating men.", "problems": ["misunderstanding_feminism"]}
+{"id": "f3935", "frame": "Feminists refuse to acknowledge that men suffer mistreatment.", "problems": ["misunderstanding_feminism"]}
+{"id": "f176", "frame": "Feminists want equal rights but avoid equal responsibilities.", "problems": ["misunderstanding_feminism"]}
+{"id": "f7666", "frame": "Women are not prepared to face the same challenges as men, such as being drafted into the military.", "problems": ["misunderstanding_feminism"]}
+{"id": "f2979", "frame": "Serious issues like rape can be trivialized for humor.", "problems": ["misunderstanding_feminism"]}
+{"id": "f5110", "frame": "Young women who seek independence or self-discovery are naive and misguided.", "problems": ["misunderstanding_feminism"]}
+{"id": "f7128", "frame": "People who point out issues of sexism, racism, and homophobia are overly sensitive and should not be taken seriously.", "problems": ["misunderstanding_feminism"]}
+{"id": "f4107", "frame": "The gender wage gap is a myth, and feminists refuse to admit it.", "problems": ["neo_sexism"]}
+{"id": "f1286", "frame": "The gender pay gap is not a significant issue and women’s claims about it are overblown.", "problems": ["neo_sexism"]}
+{"id": "f59", "frame": "Women deserve to get whatever they want without having to work for it.", "problems": ["neo_sexism"]}
+{"id": "f1294", "frame": "Men are meant to be just as capable of deep emotional love and concern as women.", "problems": ["neo_sexism"]}
+{"id": "f1714", "frame": "Women are not entitled to equal pay because they do not perform the same level of physical labor as men.", "problems": ["neo_sexism"]}
+{"id": "f2174", "frame": "Efforts to address gender inequality are excessive and unnecessary.", "problems": ["neo_sexism"]}
+{"id": "f2736", "frame": "The gender wage gap is a myth caused by women choosing lower-paying jobs rather than discrimination.", "problems": ["neo_sexism"]}
+{"id": "f87", "frame": "Women are just sexual objects.", "problems": ["objectification"]}
+{"id": "f6246", "frame": "Women are objects of sexual desire and should be ogled.", "problems": ["objectification"]}
+{"id": "f7947", "frame": "Women's bodies are meant to be controlled by men.", "problems": ["objectification", "sexual_entitlement"]}
+{"id": "f6017", "frame": "A woman's value is determined by her looks.", "problems": ["objectification"]}
+{"id": "f7145", "frame": "Women are commodities for male consumption.", "problems": ["objectification"]}
+{"id": "f7150", "frame": "A woman's worth is meant to be judged by having a \"nice ass.\"", "problems": ["objectification"]}
+{"id": "f4257", "frame": "Women are objects to be dominated and abused.", "problems": ["objectification"]}
+{"id": "f6174", "frame": "Women exist solely to serve men.", "problems": ["objectification"]}
+{"id": "f599", "frame": "Women are objects to be observed and scrutinized secretly.", "problems": ["objectification"]}
+{"id": "f3131", "frame": "Women with natural body hair deserve to be mocked with derogatory labels.", "problems": ["objectification"]}
+{"id": "f7933", "frame": "Women are manipulative and use their sexuality as a tool for leverage.", "problems": ["objectification"]}
+{"id": "f5626", "frame": "Unconscious women are objects for sexual use.", "problems": ["objectification"]}
+{"id": "f6944", "frame": "Women who do not have an ideal body shape are not attractive or valuable.", "problems": ["objectification"]}
+{"id": "f3118", "frame": "Women must dress provocatively to attract men.", "problems": ["objectification"]}
+{"id": "f3455", "frame": "Women who are sex workers deserve to be treated as disposable commodities.", "problems": ["objectification"]}
+{"id": "f6730", "frame": "Women’s worth or enjoyment is tied to sexual experiences.", "problems": ["objectification"]}
+{"id": "f4740", "frame": "Women are meant to serve and obey men like virtual assistants.", "problems": ["objectification"]}
+{"id": "f3267", "frame": "Mothers’ worth lies solely in their sexual availability.", "problems": ["objectification"]}
+{"id": "f7749", "frame": "Female athletes deserve to be valued primarily for their bodies over their athletic skills.", "problems": ["objectification"]}
+{"id": "f3998", "frame": "A woman’s cleavage is meant to sexually arouse men.", "problems": ["objectification"]}
+{"id": "f4311", "frame": "Fat women should be ridiculed and not taken seriously.", "problems": ["objectification"]}
+{"id": "f1844", "frame": "Women are distractions because of their physical appearance.", "problems": ["objectification"]}
+{"id": "f5687", "frame": "A wife's primary value is her sexual availability.", "problems": ["objectification"]}
+{"id": "f261", "frame": "Women with large breasts are meant to be intimidating or fearsome.", "problems": ["objectification", "sexualization"]}
+{"id": "f685", "frame": "Women are just like dishwashers.", "problems": ["objectification", "reductionism"]}
+{"id": "f4021", "frame": "Overweight women are worthless and have no value.", "problems": ["objectification"]}
+{"id": "f2432", "frame": "Women are meant to be like objects comparable to military equipment.", "problems": ["objectification"]}
+{"id": "f2008", "frame": "Women primarily rely on sexual appeal to secure employment when they fail interviews.", "problems": ["objectification"]}
+{"id": "f2178", "frame": "Women are interchangeable and can be easily manipulated.", "problems": ["objectification"]}
+{"id": "f2225", "frame": "Women should focus on making their mouths more attractive to draw attention.", "problems": ["objectification", "unrealistic_beauty_standards"]}
+{"id": "f5052", "frame": "Women are meant to stay in the kitchen.", "problems": ["objectification"]}
+{"id": "f2682", "frame": "Men are valued only for the size of their genitals.", "problems": ["objectification", "sexualization"]}
+{"id": "f5590", "frame": "Women should undergo plastic surgery to be considered attractive.", "problems": ["objectification"]}
+{"id": "f6358", "frame": "Women should be compared to vehicles based on their looks.", "problems": ["objectification"]}
+{"id": "f3525", "frame": "Blonde women are only valuable for their reproductive abilities.", "problems": ["objectification"]}
+{"id": "f3095", "frame": "Dating or marrying for money makes women equivalent to prostitutes.", "problems": ["objectification"]}
+{"id": "f3119", "frame": "Men only care about women's physical appearance and disregard their personalities.", "problems": ["objectification"]}
+{"id": "f3510", "frame": "Older women are meant to be undesirable and compared to run-down objects.", "problems": ["objectification"]}
+{"id": "f5506", "frame": "Women's bodies can be bought with money.", "problems": ["objectification"]}
+{"id": "f3825", "frame": "Women are expected to trade sexual favors for practical benefits.", "problems": ["objectification"]}
+{"id": "f5928", "frame": "Women should be reduced to their physical appearance and traditional domestic roles.", "problems": ["objectification"]}
+{"id": "f7075", "frame": "Women are inherently useless.", "problems": ["objectification"]}
+{"id": "f7024", "frame": "Women in cosplay exist primarily to satisfy men’s sexual fantasies.", "problems": ["objectification"]}
+{"id": "f117", "frame": "Women who drink are promiscuous and easy targets for sexual advances.", "problems": ["objectification"]}
+{"id": "f558", "frame": "Older women (cougars) are meant to be valued primarily for their sexual experience and prowess.", "problems": ["objectification"]}
+{"id": "f1573", "frame": "Hating women while desiring them sexually is acceptable.", "problems": ["objectification"]}
+{"id": "f1837", "frame": "Women's private activities and bodily functions are inherently mysterious, amusing, and define who they are.", "problems": ["objectification"]}
+{"id": "f1922", "frame": "Real women are those who conform to men's sexual expectations without needing to be prompted.", "problems": ["objectification", "patriarchal_control"]}
+{"id": "f1999", "frame": "Women's breasts are meant to replace safety equipment like airbags, thereby diminishing the importance of their safety and well-being.", "problems": ["objectification"]}
+{"id": "f2138", "frame": "Men build camaraderie by objectifying women together.", "problems": ["objectification"]}
+{"id": "f2171", "frame": "German women are valued for their ability to enhance men’s enjoyment of beer.", "problems": ["objectification", "stereotyping"]}
+{"id": "f2216", "frame": "Women’s only path to fame and adoration is through their sexual attractiveness, while men achieve admiration through intellectual, cultural, and military accomplishments.", "problems": ["objectification", "stereotyping"]}
+{"id": "f2351", "frame": "Husbands are justified in becoming disinterested in their wives’ bodies as they get older.", "problems": ["objectification"]}
+{"id": "f2354", "frame": "A woman’s nipples are what make her “sexy.”", "problems": ["objectification"]}
+{"id": "f2454", "frame": "Women are meant to lure men by looking attractive at bars and clubs, only to reveal their unattractive appearance the next morning.", "problems": ["objectification", "stereotyping"]}
+{"id": "f2494", "frame": "Women must wear makeup to be considered attractive and socially acceptable.", "problems": ["objectification"]}
+{"id": "f2536", "frame": "Older women at bars are meant to be easy sexual targets for men.", "problems": ["objectification"]}
+{"id": "f2633", "frame": "Women's attractiveness is meant to be judged solely by men under the influence of alcohol.", "problems": ["objectification"]}
+{"id": "f2740", "frame": "A woman’s gym efforts should be dismissed as redundant.", "problems": ["objectification", "sexualization"]}
+{"id": "f2823", "frame": "Men are expected to lose control of their sexual urges when they see a woman’s body.", "problems": ["objectification"]}
+{"id": "f2830", "frame": "A woman’s pain and autonomy are trivial and acceptable for humor.", "problems": ["objectification"]}
+{"id": "f2977", "frame": "Women who become pregnant by multiple men are considered immoral and are subject to derogatory labels.", "problems": ["objectification"]}
+{"id": "f3008", "frame": "Men prioritize a woman's attractiveness over helping her or correcting her mistakes.", "problems": ["objectification"]}
+{"id": "f3074", "frame": "A wife is meant to provide physical labor for her husband.", "problems": ["objectification"]}
+{"id": "f3113", "frame": "A woman’s physical appearance should be the primary motivator for men.", "problems": ["objectification"]}
+{"id": "f3136", "frame": "Teenage girls are expected to be preoccupied with the size and appearance of their breasts, as their self-worth depends on them.", "problems": ["objectification"]}
+{"id": "f3143", "frame": "Women's depression and other mental health issues are trivial and can be cured by performing sexual acts.", "problems": ["objectification", "trivializing_mental_health_issues"]}
+{"id": "f3182", "frame": "Women at social events are valued primarily for their attractiveness and ability to enhance men’s experiences.", "problems": ["objectification"]}
+{"id": "f3457", "frame": "Pastries are meant to mock women’s bodies by resembling female anatomy, reducing them to physical objects.", "problems": ["objectification"]}
+{"id": "f3519", "frame": "Only conventionally attractive women deserve men’s attention.", "problems": ["objectification"]}
+{"id": "f3626", "frame": "A woman's fatness negates her talent and beauty.", "problems": ["objectification"]}
+{"id": "f3695", "frame": "Women are invited over only for sexual gratification, not for genuine companionship or shared interests.", "problems": ["objectification"]}
+{"id": "f3774", "frame": "Girls are objects meant to be controlled and hidden away.", "problems": ["objectification"]}
+{"id": "f3852", "frame": "Women who dress in revealing outfits deserve to be called 'sluts'.", "problems": ["objectification"]}
+{"id": "f3952", "frame": "Female empowerment is just for male entertainment.", "problems": ["objectification"]}
+{"id": "f3964", "frame": "Risking violence or danger is acceptable to pursue attractive women.", "problems": ["objectification"]}
+{"id": "f4027", "frame": "Men should sexualize women’s household chores with crude jokes, overshadowing their real work and treating them as mere sexual objects.", "problems": ["objectification"]}
+{"id": "f4036", "frame": "Women’s consent should be disregarded and their autonomy violated for male sexual gratification.", "problems": ["objectification"]}
+{"id": "f4094", "frame": "People are valued based on physical attributes and material possessions rather than their intrinsic qualities.", "problems": ["objectification"]}
+{"id": "f4106", "frame": "Men’s experience of the World Cup should focus on enjoying women’s visual appeal, reducing the significance of the sporting event itself.", "problems": ["objectification"]}
+{"id": "f4189", "frame": "Women should be praised as “real MVPs” for sending nude photos, because their worth lies in providing sexual gratification.", "problems": ["objectification"]}
+{"id": "f4201", "frame": "A woman's exhaustion from household chores is insignificant because her worth depends solely on domestic and sexual services.", "problems": ["objectification"]}
+{"id": "f4268", "frame": "Women’s political opinions are dismissed in favor of judgments about their sexualized appearance.", "problems": ["objectification"]}
+{"id": "f4283", "frame": "A woman's physical appearance is the primary cause of men's emotional reactions.", "problems": ["objectification"]}
+{"id": "f4325", "frame": "It is acceptable to casually objectify women as a normal form of conversation.", "problems": ["objectification"]}
+{"id": "f4330", "frame": "Women who are not the main partner are just objects for men's use.", "problems": ["objectification"]}
+{"id": "f4437", "frame": "It is acceptable to deceive women for men’s sexual amusement.", "problems": ["objectification"]}
+{"id": "f4461", "frame": "Professional achievements, like curing a global pandemic, should be rewarded with a woman's sexual favors.", "problems": ["objectification", "sexual_entitlement"]}
+{"id": "f4518", "frame": "Women are meant to be objects and thus cannot contract the coronavirus.", "problems": ["objectification"]}
+{"id": "f4556", "frame": "Women and transgender individuals are objects to be scrutinized and compared based on their physical appearance.", "problems": ["objectification"]}
+{"id": "f4575", "frame": "Women exist to entertain men and do not deserve respect or consideration.", "problems": ["objectification"]}
+{"id": "f4634", "frame": "Women's sexual consent is negotiable and can be bought.", "problems": ["objectification", "transactional_relationships"]}
+{"id": "f4661", "frame": "Women are mere pests that ‘suck,’ reducing their worth to a sexual act.", "problems": ["objectification"]}
+{"id": "f4737", "frame": "Women who express their sexuality or independence are promiscuous and of lesser value.", "problems": ["objectification"]}
+{"id": "f4768", "frame": "Women who aren’t conventionally attractive are still acceptable sexual objects.", "problems": ["objectification"]}
+{"id": "f4919", "frame": "Men have the right to use rape to dominate and control women.", "problems": ["objectification"]}
+{"id": "f5062", "frame": "Women's physical flexibility is meant to be appreciated primarily as a sexual spectacle.", "problems": ["objectification"]}
+{"id": "f5148", "frame": "Women on Instagram are supposed to show off their bodies, especially their buttocks, to attract likes.", "problems": ["objectification"]}
+{"id": "f5153", "frame": "It’s acceptable to mock a woman’s genetics or body size.", "problems": ["objectification"]}
+{"id": "f5287", "frame": "The way girls present themselves on social media is superficial and deserving of ridicule.", "problems": ["objectification"]}
+{"id": "f5315", "frame": "Women are valuable only when they are naked.", "problems": ["objectification"]}
+{"id": "f5316", "frame": "Women's activism and causes are only noteworthy if they involve nudity.", "problems": ["objectification"]}
+{"id": "f5387", "frame": "Women exist to be consumed and enjoyed like wine.", "problems": ["objectification", "promoting_rape_culture"]}
+{"id": "f5510", "frame": "Women who practice yoga are meant to be valued primarily for their sexual appeal.", "problems": ["objectification"]}
+{"id": "f5594", "frame": "It is acceptable to judge women who drink certain alcoholic beverages as promiscuous and call them sluts.", "problems": ["objectification"]}
+{"id": "f5677", "frame": "A woman's primary role is to cook, clean, and provide sexual pleasure.", "problems": ["objectification"]}
+{"id": "f5690", "frame": "A woman’s sexual desires should be dismissed as a joke if she doesn’t meet conventional beauty standards.", "problems": ["objectification"]}
+{"id": "f5718", "frame": "A wife's sole functions are washing, ironing, and providing sexual pleasure.", "problems": ["objectification", "reductionism"]}
+{"id": "f5817", "frame": "Women of certain religions are only sexual objects and can be degraded with insults like “whore.”", "problems": ["objectification"]}
+{"id": "f5879", "frame": "Men should value women primarily for their breast size, not their personality or other qualities.", "problems": ["objectification"]}
+{"id": "f5969", "frame": "Women who do not meet certain physical standards should be repaired like broken objects.", "problems": ["objectification"]}
+{"id": "f5972", "frame": "Asian women are only meant to be objectified in NSFW content and have no value beyond their sexual appeal.", "problems": ["objectification"]}
+{"id": "f6147", "frame": "Women should be used as objects to illustrate technical concepts.", "problems": ["objectification"]}
+{"id": "f6185", "frame": "Short women are objects of amusement for tall men.", "problems": ["objectification", "sexual_innuendo"]}
+{"id": "f6199", "frame": "Secretaries are meant to be hired based on their willingness to perform sexual favors.", "problems": ["objectification"]}
+{"id": "f6280", "frame": "Homeless women are meant to be objects for exploitation, where offering ‘help’ is an opportunity for sexual or material gain.", "problems": ["objectification"]}
+{"id": "f6312", "frame": "Women are supposed to spend a lot of money on lingerie solely for male visual pleasure.", "problems": ["objectification"]}
+{"id": "f6378", "frame": "Women who behave or dress in certain ways are labeled as “white trash” and deemed worthless based solely on their appearance and behavior.", "problems": ["objectification"]}
+{"id": "f6408", "frame": "Women who have height preferences in dating are overly demanding and deserve to be ridiculed.", "problems": ["objectification"]}
+{"id": "f6464", "frame": "Cooking shows hosted by women are meant as spectacles for men to ogle rather than sources of cooking knowledge.", "problems": ["objectification"]}
+{"id": "f6682", "frame": "The only valuable women are those who obey and follow men’s instructions without question.", "problems": ["objectification"]}
+{"id": "f6817", "frame": "Women's shelters are meant to serve as sources for obtaining new romantic partners.", "problems": ["objectification"]}
+{"id": "f7038", "frame": "A good life is defined by a man’s possession of both women and money.", "problems": ["objectification"]}
+{"id": "f7084", "frame": "Female streamers should be treated like cam girls and valued only for their sexual appeal.", "problems": ["objectification"]}
+{"id": "f7085", "frame": "A woman's value is defined by her willingness to undress for a man.", "problems": ["objectification"]}
+{"id": "f7163", "frame": "Games are designed to sexualize and objectify female characters for entertainment.", "problems": ["objectification"]}
+{"id": "f7223", "frame": "Relationships are transactional, reducing human connections to a market-like exchange.", "problems": ["objectification"]}
+{"id": "f7684", "frame": "It is normal and trivial to sexualize women, treating it as harmless and routine.", "problems": ["objectification"]}
+{"id": "f7738", "frame": "Nipple bumps on women’s breasts are meant to be Braille for men to suck here.", "problems": ["objectification", "sexual_innuendo"]}
+{"id": "f7789", "frame": "Mothers are like slightly used goods that must be maintained for continued usefulness.", "problems": ["objectification"]}
+{"id": "f7851", "frame": "A woman’s worth lies solely in her willingness to perform sexual acts for her partner.", "problems": ["objectification"]}
+{"id": "f7863", "frame": "A woman's worth is determined by her monetary price, and if that price is low, she is worthless.", "problems": ["objectification", "trivializing_prostitution"]}
+{"id": "f7960", "frame": "Women need to engage in sexual acts to pay for their education or gain financial advantages.", "problems": ["objectification"]}
+{"id": "f7976", "frame": "Women at conventions are only valuable for their physical appearance.", "problems": ["objectification"]}
+{"id": "f65", "frame": "Women belong in the kitchen.", "problems": ["ownership", "stereotyping"]}
+{"id": "f2093", "frame": "Women are only valuable as objects of sexual desire.", "problems": ["ownership"]}
+{"id": "f568", "frame": "It is acceptable to stereotype Saudi women as sex slaves who need to be taught manners.", "problems": ["ownership"]}
+{"id": "f6927", "frame": "Men should have the power to redeem women, reinforcing patriarchal control and dominance.", "problems": ["ownership"]}
+{"id": "f366", "frame": "Men are inherently more supportive and kind than women.", "problems": ["patriarchal_attitudes"]}
+{"id": "f4531", "frame": "A woman’s primary purpose is to cater to a man’s needs and preferences.", "problems": ["patriarchal_attitudes"]}
+{"id": "f7958", "frame": "Women's voices are not valuable and should be silenced.", "problems": ["patriarchal_attitudes"]}
+{"id": "f5670", "frame": "Women should not be allowed to speak without a man's permission.", "problems": ["patriarchal_attitudes"]}
+{"id": "f5160", "frame": "Men have the authority to restrict women's roles and activities.", "problems": ["patriarchal_attitudes"]}
+{"id": "f2261", "frame": "Women should need men's permission to drive.", "problems": ["patriarchal_attitudes"]}
+{"id": "f2737", "frame": "Women’s professional roles are inherently less valuable and legitimate than those of men.", "problems": ["patriarchal_attitudes"]}
+{"id": "f7645", "frame": "Women are inferior and should be subservient to men.", "problems": ["patriarchal_control"]}
+{"id": "f7956", "frame": "Men have the authority to dictate where women belong.", "problems": ["patriarchal_control"]}
+{"id": "f7644", "frame": "Women should be controlled and reminded of their place.", "problems": ["patriarchal_control"]}
+{"id": "f6970", "frame": "Using physical force to dismiss women is acceptable.", "problems": ["patriarchal_control"]}
+{"id": "f608", "frame": "Women should do domestic chores to avoid being abused.", "problems": ["patriarchal_control", "victim_blaming"]}
+{"id": "f1167", "frame": "Men should use their power to belittle women.", "problems": ["patriarchal_control"]}
+{"id": "f1336", "frame": "Women are errors in public spaces and should be confined to domestic roles like the kitchen.", "problems": ["patriarchal_control"]}
+{"id": "f4198", "frame": "Men have the right to silence women who challenge traditional gender roles.", "problems": ["patriarchal_control"]}
+{"id": "f4502", "frame": "Men are entitled to own women as property due to their superiority.", "problems": ["patriarchal_control"]}
+{"id": "f1009", "frame": "Sexualizing young girls is acceptable.", "problems": ["pedophilia_exploitation"]}
+{"id": "f4856", "frame": "Coercive or non-consensual sexual acts are acceptable.", "problems": ["pedophilia_exploitation"]}
+{"id": "f3588", "frame": "Men should base decisions like becoming a stepfather on a stepdaughter’s appearance.", "problems": ["pedophilia_exploitation"]}
+{"id": "f6046", "frame": "Women, even young women, are valued only for their sexual appeal.", "problems": ["pedophilia_exploitation"]}
+{"id": "f2488", "frame": "It is appropriate to label as pedophiles those attracted to women who dress in a certain way.", "problems": ["pedophilia_exploitation"]}
+{"id": "f5764", "frame": "Women who are sex workers, even if underage, are not deserving of respect or empathy.", "problems": ["pedophilia_exploitation"]}
+{"id": "f879", "frame": "A woman's value should be tied to her virginity.", "problems": ["policing_women_s_bodies"]}
+{"id": "f3723", "frame": "Fat women should not wear tight clothes.", "problems": ["policing_women_s_bodies"]}
+{"id": "f4112", "frame": "Women’s bodies are designed to serve traditional domestic functions.", "problems": ["policing_women_s_bodies"]}
+{"id": "f7964", "frame": "Women do not have the right to control their own bodies.", "problems": ["policing_women_s_bodies"]}
+{"id": "f5966", "frame": "Women who commit adultery deserve to be stoned to death.", "problems": ["policing_women_s_bodies"]}
+{"id": "f6585", "frame": "Only certain body types are acceptable or attractive in bikinis.", "problems": ["policing_women_s_bodies"]}
+{"id": "f7965", "frame": "Women are responsible for unwanted pregnancies and abortions due to their lack of self-control.", "problems": ["policing_women_s_bodies"]}
+{"id": "f6938", "frame": "Men are entitled to desire multiple women simultaneously, treating them like ingredients in a sandwich.", "problems": ["possessiveness"]}
+{"id": "f633", "frame": "Violence is an acceptable way to punish women for minor misdeeds.", "problems": ["possessiveness"]}
+{"id": "f5446", "frame": "A woman’s value is tied to her sexual exclusivity.", "problems": ["possessiveness"]}
+{"id": "f4321", "frame": "Respecting women is as bad as committing an atrocity.", "problems": ["possessiveness"]}
+{"id": "f4216", "frame": "Women should be possessive and aggressive to maintain control over their relationships.", "problems": ["possessiveness"]}
+{"id": "f3505", "frame": "It is acceptable for professionals to degrade women based on assumed sexual behavior.", "problems": ["professional_misconduct"]}
+{"id": "f6634", "frame": "It's acceptable to cheat on your spouse.", "problems": ["promoting_infidelity"]}
+{"id": "f3564", "frame": "Infidelity in women is justified by their partner’s shortcomings.", "problems": ["promoting_infidelity"]}
+{"id": "f3765", "frame": "Infidelity is acceptable behavior and should not be condemned, especially for men.", "problems": ["promoting_infidelity"]}
+{"id": "f1098", "frame": "Women are inherently unfaithful and deceitful to their partners.", "problems": ["promoting_infidelity"]}
+{"id": "f1287", "frame": "Women who reject men deserve to be raped.", "problems": ["promoting_rape_culture"]}
+{"id": "f354", "frame": "It's acceptable to joke about rape.", "problems": ["promoting_rape_culture"]}
+{"id": "f5388", "frame": "Women should be silenced or controlled.", "problems": ["promoting_rape_culture"]}
+{"id": "f2837", "frame": "Violence or restraint against women is fun.", "problems": ["promoting_rape_culture"]}
+{"id": "f209", "frame": "It is acceptable to slap a woman on her buttocks.", "problems": ["promoting_rape_culture"]}
+{"id": "f4015", "frame": "A wife is meant to be broken or split for sexual purposes.", "problems": ["promoting_rape_culture"]}
+{"id": "f880", "frame": "Raping a rapist is a valid form of retribution for their crime.", "problems": ["promoting_rape_culture", "trivializing_consent"]}
+{"id": "f3331", "frame": "Police officers are inherently violent and abusive in their personal lives.", "problems": ["promoting_rape_culture"]}
+{"id": "f4748", "frame": "Playing video games is more important than respecting a partner's needs and desires.", "problems": ["promoting_rape_culture", "trivializing_consent"]}
+{"id": "f5369", "frame": "Women with disabilities are meant to be desirable because they cannot resist, therefore it is acceptable to exploit their physical limitations.", "problems": ["promoting_rape_culture"]}
+{"id": "f7777", "frame": "Stopping rape and respecting women are not important.", "problems": ["promoting_rape_culture"]}
+{"id": "f2153", "frame": "Feminists deserve violence or harm.", "problems": ["promoting_self_harm"]}
+{"id": "f2704", "frame": "Women should use drugs to make housework bearable.", "problems": ["promoting_self_harm"]}
+{"id": "f5238", "frame": "Encouraging someone to commit suicide is a valid response rather than being associated with certain women.", "problems": ["promoting_self_harm"]}
+{"id": "f5577", "frame": "It is acceptable to joke about self-harm and suicide.", "problems": ["promoting_self_harm"]}
+{"id": "f6054", "frame": "Rape is an appropriate method to drive victims to kill themselves.", "problems": ["promoting_self_harm"]}
+{"id": "f3706", "frame": "Using racial slurs to demean women is acceptable.", "problems": ["racism"]}
+{"id": "f3817", "frame": "Women of certain ethnicities should be considered unattractive.", "problems": ["racism"]}
+{"id": "f3666", "frame": "Specific countries or locations are uniquely associated with immoral behavior.", "problems": ["racism"]}
+{"id": "f1699", "frame": "White women deserve to be labeled as trash and considered worthless.", "problems": ["racism"]}
+{"id": "f2969", "frame": "American women are inferior to Thai women.", "problems": ["racism"]}
+{"id": "f3649", "frame": "Black women are 'Karens', entitled and problematic customers.", "problems": ["racism", "stereotyping"]}
+{"id": "f3929", "frame": "White girls should be mocked for drinking excessively.", "problems": ["racism"]}
+{"id": "f6085", "frame": "Casting a dark-skinned Black woman in a traditionally non-Black role is unacceptable and offensive.", "problems": ["racism"]}
+{"id": "f6359", "frame": "It is acceptable to use negative stereotypes about women’s body types, including racialized prejudices.", "problems": ["racism"]}
+{"id": "f7569", "frame": "Black women’s buttocks set a beauty standard that white women must imitate.", "problems": ["racism"]}
+{"id": "f2219", "frame": "Women are desperate for male attention.", "problems": ["reductionism"]}
+{"id": "f7238", "frame": "Women only care about being called 'beautiful'.", "problems": ["reductionism"]}
+{"id": "f5964", "frame": "Gamers are justified in disliking strong female characters.", "problems": ["reductionism"]}
+{"id": "f4704", "frame": "Women are not supposed to apologize for their mistakes.", "problems": ["reductionism"]}
+{"id": "f5131", "frame": "Women using fitness poles should be regarded as strippers.", "problems": ["reductionism"]}
+{"id": "f562", "frame": "Asian women are meant to be prostitutes.", "problems": ["reductionism"]}
+{"id": "f7457", "frame": "Men have simple and non-violent sexual fantasies.", "problems": ["reductionism"]}
+{"id": "f3755", "frame": "Wives are nagging and disruptive.", "problems": ["reductionism", "ridicule"]}
+{"id": "f1171", "frame": "German women are cold and therefore less desirable.", "problems": ["reductionism"]}
+{"id": "f1014", "frame": "Single women are destined to be lonely and unfulfilled.", "problems": ["reductionism", "stigmatization"]}
+{"id": "f2466", "frame": "Blonde women are dumb.", "problems": ["reductionism"]}
+{"id": "f6923", "frame": "Women are inherently disorganized and messy.", "problems": ["reductionism"]}
+{"id": "f2824", "frame": "Women are meant to know how to cook.", "problems": ["reductionism"]}
+{"id": "f4677", "frame": "Pregnant women are meant to be burdens that ruin men’s plans and goals.", "problems": ["reductionism"]}
+{"id": "f2157", "frame": "Women are expected to be impressed by the size of things.", "problems": ["reductionism"]}
+{"id": "f4291", "frame": "Girls are only meant to be interested in sexual activities.", "problems": ["reductionism"]}
+{"id": "f1033", "frame": "Women's preferences for shoes are trivial and laughable.", "problems": ["reductionism", "stereotyping"]}
+{"id": "f3932", "frame": "Women choose partners primarily based on material gifts rather than emotional stability.", "problems": ["reductionism"]}
+{"id": "f62", "frame": "Women marry older men only for their money.", "problems": ["reductionism"]}
+{"id": "f3355", "frame": "Anime characters are meant to be preferable to real women because they are clean and pretty.", "problems": ["reductionism"]}
+{"id": "f956", "frame": "All women make the same silly face when taking selfies.", "problems": ["reductionism"]}
+{"id": "f1932", "frame": "Women are deceptive about how long they take to shop.", "problems": ["reductionism"]}
+{"id": "f2028", "frame": "Men will always make the wrong choice by prioritizing physical attributes over other qualities.", "problems": ["reductionism"]}
+{"id": "f2037", "frame": "Women should prioritize becoming doctors over their personal happiness.", "problems": ["reductionism"]}
+{"id": "f3324", "frame": "A woman's well-being is less important than fulfilling her husband's needs.", "problems": ["reductionism"]}
+{"id": "f3327", "frame": "European women are meant to be masculine or effectively transgender.", "problems": ["reductionism"]}
+{"id": "f6183", "frame": "Yankee women are lazy and financially irresponsible.", "problems": ["reductionism"]}
+{"id": "f6486", "frame": "Plus-size women are meant to be considered noteworthy only when they are attractive.", "problems": ["reductionism"]}
+{"id": "f6724", "frame": "Housewives deserve to be seen as substance abusers in need of 'housewife drugs'.", "problems": ["reductionism"]}
+{"id": "f7479", "frame": "People who dress punk are rebellious.", "problems": ["reductionism"]}
+{"id": "f7488", "frame": "It is acceptable to sexualize women in any context, even those unrelated to sexuality.", "problems": ["reductionism"]}
+{"id": "f2175", "frame": "Promoting gender equality is actually sexist against men.", "problems": ["reverse_sexism"]}
+{"id": "f7278", "frame": "Men's emotions and suffering are not meant to be taken seriously.", "problems": ["reverse_sexism"]}
+{"id": "f381", "frame": "Feminists who hate all males, human or animal, deserve contempt and dismissal.", "problems": ["reverse_sexism"]}
+{"id": "f82", "frame": "Educational systems are unfairly biased towards girls and disadvantage boys.", "problems": ["reverse_sexism"]}
+{"id": "f925", "frame": "Women are hypocritical and judgmental about men's physical attributes.", "problems": ["reverse_sexism"]}
+{"id": "f989", "frame": "All men are inherently bad.", "problems": ["reverse_sexism"]}
+{"id": "f1285", "frame": "Men’s financial losses during quarantine are greater than women’s, proving that the gender pay gap is a myth.", "problems": ["reverse_sexism"]}
+{"id": "f2203", "frame": "When a team loses, men are to blame.", "problems": ["reverse_sexism"]}
+{"id": "f2506", "frame": "Men are unfaithful and disrespectful to their partners.", "problems": ["reverse_sexism"]}
+{"id": "f4370", "frame": "Women taking an excessively long time to get ready burdens others and merits criticism.", "problems": ["reverse_sexism", "stereotyping"]}
+{"id": "f5597", "frame": "All drunk men are aggressive predators.", "problems": ["reverse_sexism"]}
+{"id": "f6068", "frame": "Men should not be given power because they are inherently incompetent and will misuse it.", "problems": ["reverse_sexism"]}
+{"id": "f6265", "frame": "Men are meant to be victims who are unfairly targeted and victimized by feminists for simply being polite.", "problems": ["reverse_sexism"]}
+{"id": "f7659", "frame": "Men without facial hair are not truly masculine.", "problems": ["reverse_sexism"]}
+{"id": "f7974", "frame": "Men who support sugar babies are weak and foolish (‘simps’).", "problems": ["reverse_sexism"]}
+{"id": "f932", "frame": "Women over 40 are unattractive.", "problems": ["ridicule"]}
+{"id": "f3847", "frame": "Women who engage in casual sex are to be ridiculed.", "problems": ["ridicule"]}
+{"id": "f4535", "frame": "Women should be ashamed of being virgins.", "problems": ["ridicule"]}
+{"id": "f7536", "frame": "Women who use Botox are vain and excessive.", "problems": ["ridicule"]}
+{"id": "f154", "frame": "Bridesmaids are expected to engage in drunken and inappropriate behavior.", "problems": ["ridicule"]}
+{"id": "f1632", "frame": "Athletic women with smaller breasts are not feminine.", "problems": ["ridicule", "transphobia"]}
+{"id": "f3958", "frame": "Women are only good for household chores.", "problems": ["ridicule"]}
+{"id": "f5638", "frame": "Women, especially girlfriends, deserve ridicule for being financially dependent and disrespectful.", "problems": ["ridicule"]}
+{"id": "f2374", "frame": "Misogyny is trivial and should be treated as a joke.", "problems": ["ridicule"]}
+{"id": "f7214", "frame": "People deserve to be mocked for their height.", "problems": ["ridicule"]}
+{"id": "f7625", "frame": "Suburban moms are meant to be mocked as laughable figures.", "problems": ["ridicule"]}
+{"id": "f5954", "frame": "Women are inherently wrong.", "problems": ["ridicule"]}
+{"id": "f1541", "frame": "Women are bad drivers.", "problems": ["ridicule", "stereotyping"]}
+{"id": "f7216", "frame": "Women can't handle the demands of engineering school without sacrificing their appearance.", "problems": ["ridicule"]}
+{"id": "f4606", "frame": "People who undergo plastic surgery deserve to be ridiculed.", "problems": ["ridicule"]}
+{"id": "f6680", "frame": "Marriage to an 'ugly' wife should be considered a nightmare.", "problems": ["ridicule"]}
+{"id": "f1854", "frame": "Overweight women are hypocritical for wanting diet sodas with their meals.", "problems": ["ridicule"]}
+{"id": "f7269", "frame": "Using derogatory terms like \"bitch\" and \"hoe\" to insult women is acceptable.", "problems": ["ridicule"]}
+{"id": "f2793", "frame": "Girls are inherently violent and exploit societal rules for their benefit.", "problems": ["ridicule"]}
+{"id": "f2956", "frame": "The only woman you can match with is one who is unattractive.", "problems": ["ridicule"]}
+{"id": "f5849", "frame": "Women’s sports achievements are meant to be overshadowed by sexual innuendos.", "problems": ["ridicule"]}
+{"id": "f1222", "frame": "Men are meant to prefer hobbies like gaming over forming relationships with women.", "problems": ["ridicule", "stereotyping"]}
+{"id": "f1283", "frame": "Women with long nails deserve to be mocked for poor hygiene.", "problems": ["ridicule"]}
+{"id": "f1833", "frame": "Women who are not mothers are immature and must become mothers to be considered mature.", "problems": ["ridicule"]}
+{"id": "f2112", "frame": "Silencing women with duct tape is an acceptable way to silence women who speak opinions men do not like.", "problems": ["ridicule"]}
+{"id": "f2322", "frame": "Pale skin is meant to be less attractive than tanned skin, making pale women deserving of ridicule.", "problems": ["ridicule"]}
+{"id": "f2613", "frame": "Menstruation is something to be ridiculed and mocked.", "problems": ["ridicule"]}
+{"id": "f4883", "frame": "Women who use drugs deserve to be called ‘silly bitches’.", "problems": ["ridicule"]}
+{"id": "f5499", "frame": "It’s acceptable to apply negative stereotypes to Asian women.", "problems": ["ridicule"]}
+{"id": "f5924", "frame": "People should create and share derogatory memes about women because it is valuable and wise.", "problems": ["ridicule"]}
+{"id": "f6319", "frame": "White women are naive and deserve ridicule for relying on ineffective solutions like essential oils to address serious problems.", "problems": ["ridicule", "stereotyping"]}
+{"id": "f6553", "frame": "Girls who read books and wear glasses are unattractive, socially undesirable, and deserve to be mocked.", "problems": ["ridicule"]}
+{"id": "f7515", "frame": "Men’s achievements are meant to be more significant and numerous than women’s achievements.", "problems": ["ridicule"]}
+{"id": "f7717", "frame": "Women are to blame for being in bad relationships.", "problems": ["scapegoating"]}
+{"id": "f6040", "frame": "Women who dress provocatively are just teasing men.", "problems": ["scapegoating"]}
+{"id": "f6109", "frame": "Women are financially irresponsible.", "problems": ["scapegoating"]}
+{"id": "f6121", "frame": "Women are meant to make men's lives difficult.", "problems": ["scapegoating"]}
+{"id": "f7286", "frame": "Women cheat because they need validation from an external audience.", "problems": ["scapegoating"]}
+{"id": "f2401", "frame": "Feminist media exists to unjustly pressure companies into making decisions.", "problems": ["scapegoating"]}
+{"id": "f2636", "frame": "If a woman cannot cook, it is her or her mother’s fault.", "problems": ["scapegoating"]}
+{"id": "f5841", "frame": "Women are inherently bad drivers and deserve to be blamed for every driving error.", "problems": ["scapegoating"]}
+{"id": "f4226", "frame": "Single mothers should be blamed for raising rapists.", "problems": ["scapegoating"]}
+{"id": "f5742", "frame": "Feminism is halving salaries by flooding the workforce with women.", "problems": ["scapegoating", "undermining_women_s_rights_movements"]}
+{"id": "f348", "frame": "Women should only support gender equality when it personally benefits them.", "problems": ["scapegoating"]}
+{"id": "f6285", "frame": "Women should be blamed for serious issues like a global pandemic.", "problems": ["scapegoating"]}
+{"id": "f3809", "frame": "Men should avoid women perceived as negative or problematic to achieve happiness.", "problems": ["scapegoating"]}
+{"id": "f5288", "frame": "Women talk too much and should be silenced because their voices are annoying and unimportant.", "problems": ["scapegoating"]}
+{"id": "f5722", "frame": "Women are not good leaders and will lead you into trouble.", "problems": ["scapegoating"]}
+{"id": "f3746", "frame": "Scientific evidence proves men are smarter than women.", "problems": ["sexist_pseudoscience"]}
+{"id": "f1397", "frame": "Women’s attractiveness is meant to be objectively measurable and scientifically validated.", "problems": ["sexist_pseudoscience"]}
+{"id": "f7535", "frame": "Having sex in the kitchen can determine the baby’s gender, encouraging couples to use domestic settings to influence biological outcomes.", "problems": ["sexist_pseudoscience"]}
+{"id": "f2444", "frame": "Women are objects of male desire.", "problems": ["sexualization", "stereotyping"]}
+{"id": "f2049", "frame": "Women on Instagram are attention-seeking and superficial.", "problems": ["sexualization"]}
+{"id": "f204", "frame": "It is acceptable to compare real women to exaggerated and unrealistic depictions of female characters.", "problems": ["sexualization"]}
+{"id": "f57", "frame": "Women are meant to be considered sexier when they conform to traditional gender roles by being in the kitchen.", "problems": ["sexualization"]}
+{"id": "f226", "frame": "Women wear yoga pants to get attention from men.", "problems": ["sexualization", "stereotyping"]}
+{"id": "f227", "frame": "Men only care about women’s bodies, not their personalities.", "problems": ["sexualization"]}
+{"id": "f368", "frame": "Women are supposed to engage in sports like surfing to wear revealing clothes for visual appeal.", "problems": ["sexualization"]}
+{"id": "f464", "frame": "Women who dress provocatively are hookers and deserve to be labeled as such.", "problems": ["sexualization", "trivializing_prostitution"]}
+{"id": "f525", "frame": "Women should focus only on being attractive and remain silent.", "problems": ["sexualization"]}
+{"id": "f530", "frame": "Men should primarily photograph women’s bodies in sexualized contexts to show off their attractiveness.", "problems": ["sexualization"]}
+{"id": "f649", "frame": "Older women are meant to be valued only for their sexual experience and appropriately labeled as “cougars,” dismissing their other qualities.", "problems": ["sexualization"]}
+{"id": "f653", "frame": "Men are meant to watch shows only to ogle at women’s bodies.", "problems": ["sexualization"]}
+{"id": "f691", "frame": "Halloween is meant to showcase women in revealing costumes for sexual enjoyment, making it better than Christmas.", "problems": ["sexualization"]}
+{"id": "f979", "frame": "Women are meant to be tools or appliances for household chores.", "problems": ["sexualization"]}
+{"id": "f1023", "frame": "Women are treated as props or accessories to enhance the status of men.", "problems": ["sexualization"]}
+{"id": "f1264", "frame": "Women are meant to be obsessed with and judge each other based on physical attributes.", "problems": ["sexualization"]}
+{"id": "f1350", "frame": "A woman's breasts are meant to be used as a tool for gaining forgiveness.", "problems": ["sexualization"]}
+{"id": "f4419", "frame": "Women are only valued for sexual purposes.", "problems": ["sexual_entitlement"]}
+{"id": "f3541", "frame": "If a woman rejects a man, rape is an acceptable response.", "problems": ["sexual_entitlement"]}
+{"id": "f859", "frame": "Men are entitled to objectify women, even if they are friends.", "problems": ["sexual_entitlement"]}
+{"id": "f3762", "frame": "Women should prioritize men’s needs and desires over their own.", "problems": ["sexual_entitlement"]}
+{"id": "f221", "frame": "Women in the porn industry are desperate and willing to do anything.", "problems": ["sexual_entitlement"]}
+{"id": "f3867", "frame": "Women who show cleavage should not expect men to look at their faces.", "problems": ["sexual_entitlement"]}
+{"id": "f5357", "frame": "Men and women should understand each other through sexual interaction.", "problems": ["sexual_entitlement"]}
+{"id": "f5623", "frame": "Women must expose their breasts to gain acceptance or attention.", "problems": ["sexual_entitlement"]}
+{"id": "f2295", "frame": "A woman's only valid apology is through performing sexual favors.", "problems": ["sexual_entitlement"]}
+{"id": "f3019", "frame": "Women owe men appreciation and reciprocation when treated with traditional chivalrous actions.", "problems": ["sexual_entitlement"]}
+{"id": "f5905", "frame": "Women only argue to get sex.", "problems": ["sexual_entitlement"]}
+{"id": "f4506", "frame": "Women use headaches as an excuse to avoid sex.", "problems": ["sexual_entitlement"]}
+{"id": "f147", "frame": "Medical emergencies are unimportant compared to sexual acts and can be trivialized in a sexual context.", "problems": ["sexual_entitlement"]}
+{"id": "f717", "frame": "Women who drink are expected to engage in sexual acts.", "problems": ["sexual_entitlement", "sexual_innuendo"]}
+{"id": "f4202", "frame": "A woman’s consent to sex is fixed and unchangeable once given.", "problems": ["sexual_entitlement"]}
+{"id": "f5553", "frame": "Jobs involving women are desirable primarily because they allow men to enjoy women’s sexualized bodies.", "problems": ["sexual_entitlement"]}
+{"id": "f6267", "frame": "The ideal woman should be able to handle and accept a man's darkest desires and emotions.", "problems": ["sexual_entitlement"]}
+{"id": "f7086", "frame": "The perfect woman is one who caters to a man's desires even when he is occupied with other activities.", "problems": ["sexual_entitlement"]}
+{"id": "f4731", "frame": "It is acceptable to ogle women without their consent.", "problems": ["sexual_harassment"]}
+{"id": "f7316", "frame": "It is acceptable to invade a woman's privacy for sexual gratification.", "problems": ["sexual_harassment"]}
+{"id": "f3554", "frame": "Women are meant to be sexualized in professional settings.", "problems": ["sexual_harassment"]}
+{"id": "f5185", "frame": "Women must perform sexual favors to get promotions.", "problems": ["sexual_harassment"]}
+{"id": "f5635", "frame": "It is acceptable to make sexual jokes at the expense of women.", "problems": ["sexual_harassment"]}
+{"id": "f6905", "frame": "It is acceptable to approach women with explicit sexual propositions based on misleading advertisements.", "problems": ["sexual_harassment"]}
+{"id": "f1204", "frame": "Women are objects of sexual desire.", "problems": ["sexual_innuendo"]}
+{"id": "f1466", "frame": "Women do not need talent; their appearance is sufficient.", "problems": ["sexual_innuendo"]}
+{"id": "f672", "frame": "Disliking female characters comes from sexual desire, not misogyny.", "problems": ["sexual_innuendo"]}
+{"id": "f5289", "frame": "Women should be in the kitchen baking.", "problems": ["sexual_innuendo"]}
+{"id": "f2215", "frame": "Women’s requests and needs should be trivialized and reduced to sexual jokes.", "problems": ["sexual_innuendo"]}
+{"id": "f6762", "frame": "Women lie about their sexual history.", "problems": ["sexual_innuendo"]}
+{"id": "f693", "frame": "Objectifying women’s breasts is more desirable than appreciating the holiday season.", "problems": ["sexual_innuendo"]}
+{"id": "f6433", "frame": "Curvy women are dangerous or problematic.", "problems": ["sexual_innuendo"]}
+{"id": "f3000", "frame": "A job that involves staring at women's legs is the best job ever.", "problems": ["sexual_innuendo"]}
+{"id": "f3901", "frame": "Men who support gun control are submissive and weak, similar to a woman performing a demeaning sexual act.", "problems": ["sexual_innuendo"]}
+{"id": "f4881", "frame": "Serious health issues are meant to be trivialized through sexual innuendo.", "problems": ["sexual_innuendo"]}
+{"id": "f5922", "frame": "Incestuous relationships between step-siblings are acceptable and harmless.", "problems": ["sexual_innuendo"]}
+{"id": "f6237", "frame": "Engaging in legally and morally questionable behavior is acceptable if it is personally enjoyable.", "problems": ["sexual_innuendo"]}
+{"id": "f6803", "frame": "Parent–teacher conferences are meant to be more enjoyable because of the physical attractiveness of female teachers.", "problems": ["sexual_innuendo"]}
+{"id": "f6942", "frame": "Fat women are comparable to sausages and are meant to be punished.", "problems": ["sexual_innuendo"]}
+{"id": "f7573", "frame": "Women are meant to be cold or unresponsive when hugged for the first time.", "problems": ["sexual_innuendo", "stereotyping"]}
+{"id": "f5138", "frame": "Single mothers are undesirable.", "problems": ["single_motherhood_stigmatization"]}
+{"id": "f689", "frame": "Single mothers are responsible for societal decline and harm, including crime, drug addiction, and poverty.", "problems": ["single_motherhood_stigmatization"]}
+{"id": "f4022", "frame": "Single mothers are desperate and engage in degrading activities for fame and attention.", "problems": ["single_motherhood_stigmatization"]}
+{"id": "f4227", "frame": "Women, especially single mothers, should be considered inadequate parents.", "problems": ["single_motherhood_stigmatization"]}
+{"id": "f5111", "frame": "Single mothers, especially those who identify as feminists, are failures and undesirable.", "problems": ["single_motherhood_stigmatization"]}
+{"id": "f7010", "frame": "Women with children are meant to be valued primarily for their sexual availability.", "problems": ["single_motherhood_stigmatization"]}
+{"id": "f7651", "frame": "Overweight single mothers should lower their expectations for a partner.", "problems": ["single_motherhood_stigmatization"]}
+{"id": "f96", "frame": "Women are inherently weak and uncompetitive.", "problems": ["stereotyping"]}
+{"id": "f3617", "frame": "Feminists are inherently angry and unpleasant.", "problems": ["stereotyping"]}
+{"id": "f2431", "frame": "Russian women are meant to be dangerous and aggressive.", "problems": ["stereotyping"]}
+{"id": "f2483", "frame": "Women pretend to be drunk to manipulate men.", "problems": ["stereotyping"]}
+{"id": "f7270", "frame": "Women are obsessed with ridiculous beauty trends.", "problems": ["stereotyping"]}
+{"id": "f3371", "frame": "It is acceptable to judge and label women based solely on superficial observations.", "problems": ["stereotyping"]}
+{"id": "f1370", "frame": "Being single is a negative reflection of a woman's character or behavior.", "problems": ["stereotyping"]}
+{"id": "f7701", "frame": "Women need special advantages to succeed financially.", "problems": ["stereotyping"]}
+{"id": "f3988", "frame": "Women contradict themselves when they claim not to be objects.", "problems": ["stereotyping"]}
+{"id": "f6596", "frame": "Women naturally tend to cheat on their partners.", "problems": ["stereotyping"]}
+{"id": "f6738", "frame": "Feminism ruins traditional femininity.", "problems": ["stereotyping"]}
+{"id": "f4428", "frame": "Women are annoying and nagging.", "problems": ["stereotyping"]}
+{"id": "f7745", "frame": "Women are meant to be vain and overly concerned with their appearance.", "problems": ["stereotyping"]}
+{"id": "f1679", "frame": "Women should be categorized as “good” or “bad” based on their perceived sexual behavior.", "problems": ["stereotyping"]}
+{"id": "f2877", "frame": "Men should deceive their wives about the cost of their hobbies or purchases.", "problems": ["stereotyping"]}
+{"id": "f5773", "frame": "Women who attend college are inherently promiscuous and deserve to be judged accordingly.", "problems": ["stereotyping"]}
+{"id": "f3779", "frame": "Assertive or strong-willed women deserve to be labeled as ‘bitches’.", "problems": ["stereotyping"]}
+{"id": "f3652", "frame": "Women should be considered hypocritical about sexual matters.", "problems": ["stereotyping"]}
+{"id": "f4676", "frame": "Women who claim to be simple are lying and deserve to be mocked.", "problems": ["stereotyping"]}
+{"id": "f4308", "frame": "Women lack basic car maintenance knowledge.", "problems": ["stereotyping"]}
+{"id": "f311", "frame": "Women are meant to be incapable and unserious when handling guns.", "problems": ["stereotyping"]}
+{"id": "f5055", "frame": "Older women are inherently desperate for sexual encounters.", "problems": ["stereotyping"]}
+{"id": "f3518", "frame": "Feminists should be ridiculed for being unattractive and overweight.", "problems": ["stereotyping"]}
+{"id": "f7432", "frame": "Women do not understand men’s true interests and desires.", "problems": ["stereotyping"]}
+{"id": "f6919", "frame": "Women with certain public personas are deserving of being demeaned and ridiculed.", "problems": ["stereotyping"]}
+{"id": "f5056", "frame": "Women should be regarded as irresponsible and out of control when they drink.", "problems": ["stereotyping"]}
+{"id": "f6102", "frame": "Women who are overweight use 'curves' as an excuse for being fat.", "problems": ["stereotyping"]}
+{"id": "f343", "frame": "Wives are meant to exert control and dominance in marriage.", "problems": ["stereotyping"]}
+{"id": "f406", "frame": "Women are meant to use their bodies to get free stuff.", "problems": ["stereotyping", "transactional_relationships"]}
+{"id": "f482", "frame": "Women are inherently entitled, racist, lying, and abusive.", "problems": ["stereotyping"]}
+{"id": "f531", "frame": "Women only care about photographing trivial or non-sexual subjects, not meaningful content.", "problems": ["stereotyping"]}
+{"id": "f623", "frame": "Women should be assumed to always be thinking about sex.", "problems": ["stereotyping"]}
+{"id": "f655", "frame": "Women involved in extramarital affairs are manipulative and selfish.", "problems": ["stereotyping"]}
+{"id": "f762", "frame": "Women's efforts to improve their appearance, such as applying makeup, are laughable and deserve to be mocked.", "problems": ["stereotyping"]}
+{"id": "f1337", "frame": "Women's menstruation is a needless nuisance that should be replaced with something less bothersome.", "problems": ["stereotyping"]}
+{"id": "f1446", "frame": "Older women are predatory ‘cougars’ by nature.", "problems": ["stereotyping"]}
+{"id": "f1750", "frame": "Female chefs should dress provocatively to be considered successful.", "problems": ["stereotyping"]}
+{"id": "f1794", "frame": "Women's humor or intelligence is less valuable than their ability to perform traditional domestic tasks.", "problems": ["stereotyping"]}
+{"id": "f1810", "frame": "Women who have worked as strippers should always be ridiculed for their past profession and can never escape that identity.", "problems": ["stereotyping"]}
+{"id": "f2020", "frame": "Housewives, especially from certain nationalities, are supposed to be unfashionable and deserve to be ridiculed.", "problems": ["stereotyping"]}
+{"id": "f2063", "frame": "Men are meant to be distracted by women’s physical attributes, prioritizing them over other qualities.", "problems": ["stereotyping"]}
+{"id": "f2275", "frame": "Women are inherently bad drivers and prone to causing accidents.", "problems": ["stereotyping"]}
+{"id": "f2317", "frame": "Women who wear oversized sunglasses deserve to be mocked for compensating for their perceived inadequacies.", "problems": ["stereotyping"]}
+{"id": "f2504", "frame": "Women are meant to take dumb photos and pose in ridiculous ways.", "problems": ["stereotyping"]}
+{"id": "f2648", "frame": "Women from different nationalities should be judged based on their perceived abilities as maids.", "problems": ["stereotyping"]}
+{"id": "f2742", "frame": "Women, particularly wives, are dangerous to share a bed with, making it safer to avoid sleeping next to them.", "problems": ["stereotyping"]}
+{"id": "f2761", "frame": "Women are inherently incapable of maintaining order and therefore are disorganized and cluttered, unlike neat and minimalistic men.", "problems": ["stereotyping"]}
+{"id": "f3318", "frame": "Women are not capable of fixing computers.", "problems": ["stereotyping"]}
+{"id": "f3407", "frame": "Women should not be trusted to carry out painting or home improvement tasks on their own, as they inherently lack the capability and require guidance.", "problems": ["stereotyping"]}
+{"id": "f3483", "frame": "Including a female player in a football team inevitably causes the team to fail.", "problems": ["stereotyping"]}
+{"id": "f3794", "frame": "California women are meant to be sexually provocative and greet men in a sexualized manner.", "problems": ["stereotyping"]}
+{"id": "f3993", "frame": "Sexually active women are unfit for marriage and domestic roles.", "problems": ["stereotyping"]}
+{"id": "f4034", "frame": "Women who were Disney Channel stars are only valuable for their wholesome, innocent image, and once they leave they become unworthy and deserve ridicule.", "problems": ["stereotyping"]}
+{"id": "f4052", "frame": "Mothers are inconsistent and manipulative, claiming ownership during arguments but expecting shared responsibility during cleaning.", "problems": ["stereotyping"]}
+{"id": "f4269", "frame": "Women’s beliefs are stereotyped based on their looks, implying that appearance dictates political ideology.", "problems": ["stereotyping"]}
+{"id": "f4282", "frame": "Muslim women are inherently unattractive and provoke anger in Muslim men.", "problems": ["stereotyping"]}
+{"id": "f4285", "frame": "Islam is justified in endorsing violence against women.", "problems": ["stereotyping"]}
+{"id": "f4638", "frame": "Marriage leads to women becoming fat.", "problems": ["stereotyping"]}
+{"id": "f4680", "frame": "Women are incompetent at giving handjobs and deserve to be ridiculed for their sexual incompetence.", "problems": ["stereotyping"]}
+{"id": "f4789", "frame": "American women are to blame for their unemployment because of their appearance choices.", "problems": ["stereotyping"]}
+{"id": "f4998", "frame": "Women are hypocritical about their eating habits and deserve to be ridiculed.", "problems": ["stereotyping"]}
+{"id": "f5016", "frame": "Sexual relationships with women are meant to be challenging and undesirable.", "problems": ["stereotyping"]}
+{"id": "f5072", "frame": "Women who use beauty enhancements lack intelligence.", "problems": ["stereotyping"]}
+{"id": "f5204", "frame": "Women deserve ridicule for having superficial and inconsistent criteria when choosing partners.", "problems": ["stereotyping"]}
+{"id": "f5262", "frame": "Women deserve ridicule for their lack of self-control and obsession with eating during quarantine, while men are supposedly solely focused on sex.", "problems": ["stereotyping"]}
+{"id": "f5453", "frame": "Girls are less intelligent and less capable of achieving high grades.", "problems": ["stereotyping"]}
+{"id": "f5649", "frame": "Shifting depictions of stepmothers from evil and unattractive to hypersexualized means women’s worth lies in their physical appeal.", "problems": ["stereotyping"]}
+{"id": "f5779", "frame": "Female PE teachers are now expected to be conventionally attractive rather than valued for their skills.", "problems": ["stereotyping"]}
+{"id": "f5917", "frame": "Men are entitled to consume pornography while women are obliged to produce it.", "problems": ["stereotyping"]}
+{"id": "f6206", "frame": "Women who wear makeup and revealing clothes are responsible for their own objectification and have no right to complain.", "problems": ["stereotyping"]}
+{"id": "f6681", "frame": "Women are generally uncooperative and do not listen to men.", "problems": ["stereotyping"]}
+{"id": "f6794", "frame": "Women are destined to change for the worse after marriage.", "problems": ["stereotyping"]}
+{"id": "f6852", "frame": "All women keep a list of potential partners in reserve.", "problems": ["stereotyping"]}
+{"id": "f6983", "frame": "Women should be limited to only those careers that emphasize their appearance, like a traditional 9-to-5 or an Instagram model.", "problems": ["stereotyping"]}
+{"id": "f7022", "frame": "Women desiring a 'real man' should be considered fake and insincere.", "problems": ["stereotyping"]}
+{"id": "f7202", "frame": "Women prefer men who treat them poorly over men who treat them well.", "problems": ["stereotyping"]}
+{"id": "f7312", "frame": "Short women’s anger and appearance should be regarded as exaggerated and mocked.", "problems": ["stereotyping"]}
+{"id": "f7347", "frame": "Women who have primarily male friends are promiscuous and cannot be trusted because their friendships are driven by sexual motives.", "problems": ["stereotyping"]}
+{"id": "f7409", "frame": "Women who only show headshots on dating sites are hiding their bodies because they are overweight.", "problems": ["stereotyping"]}
+{"id": "f7493", "frame": "Wives are inherently unbearable, so men should prefer prison over marriage.", "problems": ["stereotyping"]}
+{"id": "f7889", "frame": "Women who work out are meant to be inherently more attractive than women who go to clubs.", "problems": ["stereotyping"]}
+{"id": "f7982", "frame": "Women inevitably resort to personal attacks when they disagree with men.", "problems": ["stereotyping"]}
+{"id": "f5815", "frame": "Women who express their sexuality bring shame to their families.", "problems": ["stigmatization"]}
+{"id": "f944", "frame": "Women who are not virgins deserve to be labeled as \"sluts\".", "problems": ["stigmatization"]}
+{"id": "f1439", "frame": "Women are inherently mentally unstable and problematic.", "problems": ["stigmatization"]}
+{"id": "f5789", "frame": "Women's bodies are meant to be considered dirty and impure.", "problems": ["stigmatization"]}
+{"id": "f5643", "frame": "Sex workers are dirty and their work is demeaning.", "problems": ["stigmatization"]}
+{"id": "f6043", "frame": "Women who use drugs deserve to be looked down upon.", "problems": ["stigmatization"]}
+{"id": "f450", "frame": "Women who support adultery are morally wrong and deserve to be criticized.", "problems": ["stigmatization"]}
+{"id": "f1651", "frame": "Openly expressing hatred towards women is acceptable.", "problems": ["stigmatization"]}
+{"id": "f5853", "frame": "Older women are meant to be desperate and seek validation from younger men.", "problems": ["stigmatization"]}
+{"id": "f3366", "frame": "Men are superior and dominant in sexual encounters.", "problems": ["toxic_masculinity"]}
+{"id": "f3971", "frame": "White males are entitled to get away with anything.", "problems": ["toxic_masculinity"]}
+{"id": "f4012", "frame": "Men who are attracted to feminists are meant to be seen as weak and inferior.", "problems": ["toxic_masculinity"]}
+{"id": "f5848", "frame": "Men who deviate from traditional masculine roles, including expressing vulnerability or non-traditional sexual preferences, are unmanly and deserve punishment or mockery.", "problems": ["toxic_masculinity"]}
+{"id": "f7478", "frame": "Real men should prefer women with a certain body type.", "problems": ["toxic_masculinity"]}
+{"id": "f163", "frame": "Women are commodities to be purchased like drugs.", "problems": ["transactional_relationships"]}
+{"id": "f6568", "frame": "Women are costly and not worth the investment.", "problems": ["transactional_relationships"]}
+{"id": "f3359", "frame": "Men in power are justified in seeking out sex workers.", "problems": ["transactional_relationships"]}
+{"id": "f3205", "frame": "Killing women for money is acceptable and even encouraged.", "problems": ["transactional_relationships"]}
+{"id": "f6834", "frame": "Young women are meant to marry older men for their wealth.", "problems": ["transactional_relationships"]}
+{"id": "f3918", "frame": "Trans women deserve to be mocked and ridiculed.", "problems": ["transphobia"]}
+{"id": "f1177", "frame": "Feminism inevitably leads women to want to become men.", "problems": ["transphobia"]}
+{"id": "f4959", "frame": "Transgender individuals deserve to be subjected to violence.", "problems": ["transphobia"]}
+{"id": "f4965", "frame": "Transgender women should not compete in women's sports.", "problems": ["transphobia"]}
+{"id": "f5926", "frame": "Being transgender makes someone mockable and unsuitable for positions of authority.", "problems": ["transphobia"]}
+{"id": "f4992", "frame": "Transgender individuals must fully transition to be considered valid.", "problems": ["transphobia"]}
+{"id": "f4815", "frame": "It is acceptable to use physical violence or intimidation to prove a sex worker’s authenticity.", "problems": ["transphobia"]}
+{"id": "f7504", "frame": "Cross-dressing individuals should only be accepted if they meet conventional standards of attractiveness.", "problems": ["transphobia"]}
+{"id": "f4024", "frame": "It is acceptable to joke about a woman's overdose and suffering.", "problems": ["trivializing_addiction"]}
+{"id": "f1381", "frame": "Women should be associated with and involved in excessive drinking and short-term relationships.", "problems": ["trivializing_addiction"]}
+{"id": "f2349", "frame": "Addiction is a joke and those suffering from it deserve to be humiliated.", "problems": ["trivializing_addiction"]}
+{"id": "f2686", "frame": "Porn addiction is trivial and should be joked about.", "problems": ["trivializing_addiction"]}
+{"id": "f3962", "frame": "Women’s drug addiction should be trivialized and made the subject of humor.", "problems": ["trivializing_addiction"]}
+{"id": "f3804", "frame": "Consent is trivial and can be bought.", "problems": ["trivializing_consent"]}
+{"id": "f2884", "frame": "Rape is not a serious crime if the victim dies.", "problems": ["trivializing_consent", "victim_blaming"]}
+{"id": "f4073", "frame": "Women deserve to be slapped in the face with a penis.", "problems": ["trivializing_consent"]}
+{"id": "f2145", "frame": "Women must consent to sex to prevent rape.", "problems": ["trivializing_consent", "victim_blaming"]}
+{"id": "f5258", "frame": "Women are meant to perform domestic tasks to please men.", "problems": ["trivializing_consent"]}
+{"id": "f4329", "frame": "Anorexia is not a serious condition and can be used as a derogatory term.", "problems": ["trivializing_eating_disorders"]}
+{"id": "f6598", "frame": "Infidelity is not a serious issue in a relationship.", "problems": ["trivializing_infidelity"]}
+{"id": "f753", "frame": "Women cheating on their diet justifies men cheating in relationships.", "problems": ["trivializing_infidelity"]}
+{"id": "f4897", "frame": "A woman's infidelity justifies violence against her.", "problems": ["trivializing_infidelity"]}
+{"id": "f4899", "frame": "Women's worth should depend solely on their sexual fidelity.", "problems": ["trivializing_infidelity"]}
+{"id": "f162", "frame": "Women’s emotional struggles from \"daddy issues\" are a valid source of mockery and humor.", "problems": ["trivializing_mental_health_issues"]}
+{"id": "f3601", "frame": "Suicide is meant to be joked about and not taken seriously.", "problems": ["trivializing_mental_health_issues"]}
+{"id": "f1013", "frame": "Women are inherently emotionally unstable and prone to psychotic outbursts that disrupt others.", "problems": ["trivializing_mental_health_issues"]}
+{"id": "f6088", "frame": "Feminists are mentally ill and their concerns are merely symptoms of mental health problems.", "problems": ["trivializing_mental_health_issues"]}
+{"id": "f5976", "frame": "Transphobia and misogyny are meant to be humorous.", "problems": ["trivializing_oppression"]}
+{"id": "f3739", "frame": "Sex work should be trivialized and not taken seriously.", "problems": ["trivializing_prostitution"]}
+{"id": "f1489", "frame": "Women should only be valued for their sexual services.", "problems": ["trivializing_prostitution"]}
+{"id": "f2287", "frame": "Women who are addicted to meth are meant to be devalued and exploited for cheap sex.", "problems": ["trivializing_prostitution"]}
+{"id": "f6132", "frame": "Women should only be considered prostitutes when money is exchanged for sex.", "problems": ["trivializing_prostitution"]}
+{"id": "f6825", "frame": "Young women should consider prostitution if they face financial struggles.", "problems": ["trivializing_prostitution"]}
+{"id": "f7697", "frame": "It is acceptable to kill women to avoid paying them.", "problems": ["trivializing_prostitution"]}
+{"id": "f5283", "frame": "Serious issues like starvation can be trivialized as sexualized humor.", "problems": ["trivializing_serious_issues"]}
+{"id": "f2465", "frame": "Making jokes about tragic events is acceptable if it serves to insult someone's physical appearance.", "problems": ["trivializing_serious_issues"]}
+{"id": "f3926", "frame": "Serious medical issues like the COVID-19 pandemic should be trivialized.", "problems": ["trivializing_serious_issues"]}
+{"id": "f6241", "frame": "Serious issues involving women can be trivialized by invoking stereotypes about their domestic roles.", "problems": ["trivializing_serious_issues"]}
+{"id": "f5085", "frame": "Eating carbs before a major event is an act of bravery.", "problems": ["trivializing_serious_issues"]}
+{"id": "f3442", "frame": "Women's rape allegations are untrustworthy and often false.", "problems": ["trivializing_sexual_assault"]}
+{"id": "f4265", "frame": "It is acceptable to joke about sexual assault.", "problems": ["trivializing_sexual_assault"]}
+{"id": "f7528", "frame": "Feminists are supposed to overreact to minor issues.", "problems": ["trivializing_sexual_assault"]}
+{"id": "f6877", "frame": "Society dismisses male rape victims while fully believing women's rape claims.", "problems": ["trivializing_sexual_assault"]}
+{"id": "f758", "frame": "Fat women are unlikely to be sexually assaulted.", "problems": ["trivializing_sexual_assault"]}
+{"id": "f4787", "frame": "Statutory rape committed by an attractive female teacher should be viewed as less severe than statutory rape by an unattractive woman.", "problems": ["trivializing_sexual_assault"]}
+{"id": "f7412", "frame": "Female protagonists of color should not be accepted in video games.", "problems": ["trivializing_the_need_for_representation"]}
+{"id": "f3951", "frame": "Female empowerment is not serious or genuine.", "problems": ["trivializing_the_need_for_representation"]}
+{"id": "f4178", "frame": "Short men’s struggles are unworthy of serious media attention.", "problems": ["trivializing_the_need_for_representation"]}
+{"id": "f7818", "frame": "Gender quotas for women should be abolished because they are unnecessary and easily circumvented.", "problems": ["trivializing_the_need_for_representation"]}
+{"id": "f2788", "frame": "Sexist stereotypes are acceptable when framed as humor.", "problems": ["trivializing_women_s_issues"]}
+{"id": "f1088", "frame": "The main purpose of women’s sports is to provide sexual gratification.", "problems": ["trivializing_women_s_issues"]}
+{"id": "f4239", "frame": "Domestic violence is not a serious issue.", "problems": ["trivializing_women_s_issues"]}
+{"id": "f3855", "frame": "Men’s objectification of women is polite attention rather than a violation.", "problems": ["trivializing_women_s_issues"]}
+{"id": "f3421", "frame": "Menopause is meant to be mocked and not taken seriously.", "problems": ["trivializing_women_s_issues"]}
+{"id": "f5301", "frame": "Divorce should be treated as a trivial game.", "problems": ["trivializing_women_s_issues"]}
+{"id": "f6166", "frame": "Treating women as objects is a more serious and harmful problem than treating objects as women.", "problems": ["trivializing_women_s_issues"]}
+{"id": "f6478", "frame": "The challenges teen mothers face should be considered insignificant compared to their sexual appeal.", "problems": ["trivializing_women_s_issues"]}
+{"id": "f4869", "frame": "Sexual acts involving women are trivial and humorous.", "problems": ["trivializing_women_s_sexual_satisfaction"]}
+{"id": "f5693", "frame": "Women are meant to be valued primarily for their sexual behavior.", "problems": ["trivializing_women_s_sexual_satisfaction"]}
+{"id": "f4051", "frame": "Even when women perform sexually, they are still supposed to be unfulfilled and empty.", "problems": ["trivializing_women_s_sexual_satisfaction"]}
+{"id": "f7456", "frame": "Women have extreme and violent sexual fantasies.", "problems": ["trivializing_women_s_sexual_satisfaction"]}
+{"id": "f808", "frame": "Women's bodies are meant to be likened to food items and can be insulted accordingly.", "problems": ["trivializing_women_s_sexual_satisfaction"]}
+{"id": "f7126", "frame": "A woman’s primary role is supposed to be to perform domestic chores.", "problems": ["trivializing_women_s_sexual_satisfaction"]}
+{"id": "f3733", "frame": "Women's natural bodily functions are disgusting and should be ridiculed.", "problems": ["trivializing_women_s_sexual_satisfaction"]}
+{"id": "f1106", "frame": "Women are meant to be inferior to men.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f3912", "frame": "Women are not competent enough to work in professional kitchens.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f1011", "frame": "Women's skills and talents are wasted because they are women.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f4006", "frame": "Women's professional achievements are unexpected solely because of their gender.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f3439", "frame": "Men are superior to women when it comes to driving.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f1252", "frame": "Women’s value depends solely on their ability to clean.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f7452", "frame": "Women are inherently bad at gaming.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f5979", "frame": "Women must provide sexual favors to receive career promotions.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f6437", "frame": "Female characters should not be as powerful or central as male characters.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f2192", "frame": "Men's technical accomplishments deserve more praise than women's social media achievements.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f2205", "frame": "A woman's success is entirely dependent on marrying the right man rather than her own capabilities.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f2891", "frame": "Women are meant to only complain and are incapable of providing solutions.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f4582", "frame": "Women only become wealthy through divorce.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f7661", "frame": "Feminists are inherently unintelligent and unworthy of respect.", "problems": ["undermining_women_s_capabilities"]}
+{"id": "f254", "frame": "Women should not have the right to participate in social movements.", "problems": ["undermining_women_s_rights_movements"]}
+{"id": "f2623", "frame": "Feminist efforts are trivial and can be easily dismissed.", "problems": ["undermining_women_s_rights_movements"]}
+{"id": "f1228", "frame": "Feminism and abortion are inherently bad and problematic.", "problems": ["undermining_women_s_rights_movements"]}
+{"id": "f4354", "frame": "All women are deceitful whores and feminism is to be hated.", "problems": ["undermining_women_s_rights_movements"]}
+{"id": "f3154", "frame": "Feminism makes women less attractive.", "problems": ["undermining_women_s_rights_movements"]}
+{"id": "f3651", "frame": "Public opinion is inherently misguided when it views feminism negatively.", "problems": ["undermining_women_s_rights_movements"]}
+{"id": "f6100", "frame": "Women who participate in the SlutWalk deserve to be devalued and shamed.", "problems": ["undermining_women_s_rights_movements"]}
+{"id": "f3949", "frame": "A woman's value is based on her breast size.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f1549", "frame": "Women should dress in revealing clothing to be considered valuable or attractive.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f702", "frame": "Women should look perfect in all photos.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f575", "frame": "Women's bodies are meant to be subject to men's approval and judgment.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f4473", "frame": "Modern women should be regarded as less respectable and more sexualized than women in the past.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f4306", "frame": "Women are deceptive about their appearance on social media.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f2311", "frame": "Women become worthless as they age.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f303", "frame": "Female video game characters are meant to be sexualized and objectified.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f1886", "frame": "Real women are inferior and less desirable compared to the exaggerated, idealized anime versions of women.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f232", "frame": "Women are supposed to define their identity and worth by how they groom their pubic hair.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f4860", "frame": "Supermodels should maintain their attractiveness by eating very little.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f5166", "frame": "Women who are both attractive and intelligent are meant to be unattainable and superior to men.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f7172", "frame": "A woman’s need to work should depend on her attractiveness: unattractive women must work hard, while attractive women need not.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f7967", "frame": "There are only two acceptable types of female genitalia, creating unrealistic and harmful standards.", "problems": ["unrealistic_beauty_standards"]}
+{"id": "f1962", "frame": "Silencing rape victims through violence is acceptable instead of addressing the crime.", "problems": ["victim_blaming"]}
+{"id": "f3777", "frame": "Claims of abuse made by women should not be taken seriously.", "problems": ["victim_blaming"]}
+{"id": "f2247", "frame": "Women are vindictive and responsible for causing emotional distress to men.", "problems": ["victim_blaming"]}
+{"id": "f4852", "frame": "Blaming the underage girl for revealing her age after the fact is appropriate; it’s her fault for causing trouble.", "problems": ["victim_blaming"]}
+{"id": "f5835", "frame": "Women deserve to be blamed for being murdered by their partners.", "problems": ["victim_blaming"]}
+{"id": "f7068", "frame": "A woman's virginity is the only valid reason to refuse unwanted sexual advances.", "problems": ["victim_blaming"]}
+{"id": "f914", "frame": "It is acceptable to beat women.", "problems": ["violence"]}
+{"id": "f2055", "frame": "Violence against women is humorous and acceptable.", "problems": ["violence"]}
+{"id": "f1360", "frame": "Domestic violence against women is acceptable and justified.", "problems": ["violence"]}
+{"id": "f1078", "frame": "Violence is an acceptable response to feminist beliefs.", "problems": ["violence"]}
+{"id": "f861", "frame": "Pregnant women deserve to be harmed.", "problems": ["violence"]}
+{"id": "f314", "frame": "Killing women is acceptable and enjoyable.", "problems": ["violence"]}
+{"id": "f1470", "frame": "Physical abuse is acceptable and beneficial in a relationship.", "problems": ["violence"]}
+{"id": "f411", "frame": "Physical violence is a valid way to deal with women who don't comply.", "problems": ["violence"]}
+{"id": "f2644", "frame": "Beating women is fun.", "problems": ["violence"]}
+{"id": "f271", "frame": "Women often hit men and expect not to be hit back.", "problems": ["violence"]}
+{"id": "f1173", "frame": "Gender equality means that it's acceptable to hit women.", "problems": ["violence"]}
+{"id": "f7291", "frame": "Feminists should be stoned to death.", "problems": ["violence"]}
+{"id": "f1657", "frame": "Joking about killing women is acceptable and humorous.", "problems": ["violence"]}
+{"id": "f2762", "frame": "Girls should be punished physically for their appearance.", "problems": ["violence"]}
+{"id": "f3109", "frame": "It is acceptable to slap a woman if she calls you sexist.", "problems": ["violence"]}
+{"id": "f5836", "frame": "Women should remain silent to avoid being harmed or killed.", "problems": ["violence"]}
+{"id": "f359", "frame": "It is acceptable to use physical violence against women who express their sexuality.", "problems": ["violence"]}
+{"id": "f897", "frame": "Domestic violence is an acceptable form of correction.", "problems": ["violence"]}
+{"id": "f1048", "frame": "In the past, hitting women was acceptable and desirable.", "problems": ["violence"]}
+{"id": "f1050", "frame": "The past was better when men could hit women with impunity and still earn a living wage.", "problems": ["violence"]}
+{"id": "f1105", "frame": "Women who seek attention deserve to be punished.", "problems": ["violence"]}
+{"id": "f1162", "frame": "It is acceptable to fantasize about hitting one's wife.", "problems": ["violence"]}
+{"id": "f1585", "frame": "Physically assaulting women (“bitches”) is an acceptable way to silence them.", "problems": ["violence"]}
+{"id": "f1648", "frame": "Violence against women is acceptable and even humorous.", "problems": ["violence"]}
+{"id": "f1955", "frame": "It’s acceptable to joke about violence or aggression when things don’t go as planned.", "problems": ["violence"]}
+{"id": "f2207", "frame": "Violence against women is trivialized and normalized.", "problems": ["violence"]}
+{"id": "f2545", "frame": "Men should be considered badass when they destroy things, including women’s lives or relationships.", "problems": ["violence"]}
+{"id": "f2865", "frame": "The idea of equal rights for women is not serious and is used to justify violence against them.", "problems": ["violence"]}
+{"id": "f3104", "frame": "If a woman wants to leave a relationship, it is acceptable to use violence against her.", "problems": ["violence"]}
+{"id": "f3272", "frame": "Violence is an acceptable deterrent to silence women who speak out against sexism and misogyny.", "problems": ["violence"]}
+{"id": "f3285", "frame": "Feminists deserve to be punished or harmed.", "problems": ["violence"]}
+{"id": "f4214", "frame": "Violence is an acceptable way to resolve conflicts with other women.", "problems": ["violence"]}
+{"id": "f4879", "frame": "Women's objections to being hit are not valid and can be ignored.", "problems": ["violence"]}
+{"id": "f1107", "frame": "Women should be paid less than men.", "problems": ["wage_disparity"]}
+{"id": "f4760", "frame": "Women's achievements in professional sports are worthless and undeserving of recognition.", "problems": ["wage_disparity"]}
+{"id": "f6705", "frame": "Women's concerns about the gender pay gap are invalid and the issue is exaggerated.", "problems": ["wage_disparity"]}
+{"id": "f5762", "frame": "Men are inherently superior to women.", "problems": ["women_subjugation"]}
+{"id": "f3437", "frame": "Women are meant to serve and clean up after men.", "problems": ["women_subjugation"]}
+{"id": "f3274", "frame": "Women should be silenced and restrained to maintain a successful marriage.", "problems": ["women_subjugation"]}
+{"id": "f3741", "frame": "Women should be financially dependent on men.", "problems": ["women_subjugation"]}
+{"id": "f719", "frame": "Women are meant to be valued less than men.", "problems": ["women_valuation"]}
+{"id": "f158", "frame": "Women are only valuable for their sexual organs.", "problems": ["women_valuation"]}
+{"id": "f2957", "frame": "Unattractive women are undesirable and unworthy.", "problems": ["women_valuation"]}
+{"id": "f4464", "frame": "All women are worthless and deserve to be called derogatory names.", "problems": ["women_valuation"]}
+{"id": "f720", "frame": "Women are only worthwhile because they cost less than men.", "problems": ["women_valuation"]}
+{"id": "f297", "frame": "Women should be hired based on their appearance rather than their professional abilities.", "problems": ["workplace_discrimination"]}
+{"id": "f540", "frame": "Women in professional roles are meant to be valued only for their physical appearance, not for their skills.", "problems": ["workplace_discrimination"]}
+{"id": "f1188", "frame": "It is acceptable to deny women the promotions and raises they deserve.", "problems": ["workplace_discrimination"]}
+{"id": "f3441", "frame": "Women should be fired from their jobs and forced back into traditional domestic roles.", "problems": ["workplace_discrimination"]}
+{"id": "f5186", "frame": "Women are not valued for their professional skills and contributions.", "problems": ["workplace_discrimination"]}
+{"id": "f5267", "frame": "Women’s work is less valuable and therefore deserves lower pay.", "problems": ["workplace_discrimination"]}
+{"id": "f5998", "frame": "Women’s jobs are inferior to men’s jobs.", "problems": ["workplace_discrimination"]}

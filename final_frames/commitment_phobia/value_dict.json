@@ -1,0 +1,364 @@
+{
+  "f5374": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional social order and family structure by discouraging women’s infidelity and reinforcing established moral norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By portraying women as naturally prone to cheating, the frame underlines the importance of upholding long-standing marital and family customs and norms."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The assertion implies that women must strictly comply with marital vows and formal obligations to preserve trust, highlighting adherence to rules."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The claim invokes concerns about loyalty and trust in intimate relationships, appealing to the desire for a secure and dependable personal environment."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame promotes the preservation of marriage and family customs by warning against behavior that breaks those traditions."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "It underscores the need for individuals—specifically women—to obey marital expectations and refrain from actions that violate vows."
+        },
+        {
+          "level_3_value": "Have a sense of belonging",
+          "rationale": "It evokes the value of loyalty and trust within a relationship, suggesting that faithfulness is necessary for one’s secure place in the family."
+        }
+      ]
+    }
+  },
+  "f667": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame invokes traditional gender norms and moral expectations about fidelity and social order, emphasizing maintenance of established roles and values."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "By referencing the biblical Eve, the frame relies on religious and cultural traditions to legitimize distrust of women."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame condemns women for violating informal and formal marital rules of faithfulness, implying the importance of rule compliance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The mention of Eve as a moral exemplar draws on honoring long-standing cultural and religious narratives."
+        },
+        {
+          "level_3_value": "Be holding religious faith",
+          "rationale": "The biblical reference invokes religious authority and expectations rooted in faith traditions."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The frame implies women should obey marital vows and not stray, reinforcing the value of compliance with vows."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "By labeling women deceitful and unfaithful, the frame stresses the importance of proper moral conduct in relationships."
+        }
+      ]
+    }
+  },
+  "f874": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame promotes rejecting traditional relationship commitments and prioritizing personal autonomy, reflecting a desire for change and freedom from established norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame encourages individuals to determine their own actions by avoiding commitment and responsibility in relationships, emphasizing autonomy and self-determination."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be independent",
+          "rationale": "By suggesting that avoiding commitment is desirable, the frame reinforces the value of self-reliance and operating without dependence on relational obligations."
+        },
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "The frame highlights the desirability of being unbound by responsibilities, emphasizing the importance of acting freely according to one’s own choices."
+        }
+      ]
+    }
+  },
+  "f3197": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame centers on maintaining and enhancing men’s power over women and preventing any loss of male dominance, reflecting a self-enhancement orientation toward control and superiority."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional social structures and gender roles, emphasizing maintenance of the existing patriarchal order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The statement implies that men must retain authority over women and avoid treating them well to prevent women from exploiting them, highlighting a desire for dominance and control."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The claim invokes adherence to long-standing patriarchal norms and gender roles, suggesting that deviating from these traditions (i.e., treating women well) leads to negative consequences."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that men must assert and maintain their right to command and control women, as kindness is portrayed as undermining male authority."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame encourages upholding traditional gender conventions and resisting any changes to established patriarchal practices."
+        }
+      ]
+    }
+  },
+  "f3681": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame discourages involvement in relationships with women to preserve personal autonomy and freedom from perceived burdens, reflecting a desire for self-determination and independence."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes avoiding problems in order to maintain a stable, trouble-free personal environment, reflecting a focus on security and continuity."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame implicitly encourages individuals to decide for themselves not to engage in relationships with women to maintain control over their actions and life choices."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The frame highlights the need to protect one’s immediate environment and comfort by avoiding relationships that are portrayed as inevitably causing problems."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be independent",
+          "rationale": "By portraying relationships with women as problematic, the frame suggests that remaining independent is preferable."
+        },
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "The frame implies that avoiding relationships allows individuals to act freely without the constraints or complications attributed to women."
+        },
+        {
+          "level_3_value": "Have a comfortable life",
+          "rationale": "The frame asserts that relationships with women threaten personal comfort and stability, thus valuing a life free from such disturbances."
+        }
+      ]
+    }
+  },
+  "f4084": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional norms around flirting to preserve social order, reflecting the value of Conservation."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "By framing the critique as protecting others from manipulative behavior, the frame aligns with the concern for others inherent in Self-Transcendence."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame privileges conventional relationship norms and urges adherence to established dating practices, reflecting Tradition."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame demands proper social behavior in personal interactions, calling for conformity to interpersonal norms, thus reflecting Conformity (interpersonal)."
+        },
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "By positioning the judgement as a measure to safeguard potential partners from deception, the frame invokes the caring motive central to Benevolence (caring)."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Respect traditions",
+          "rationale": "The frame admonishes to \"Respect traditions\", emphasizing adherence to established norms of flirting."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The frame stresses that one should \"Be polite\" in interactions to avoid manipulative behavior."
+        },
+        {
+          "level_3_value": "Be honest",
+          "rationale": "The frame insists that one must \"Be honest\" about intentions, directly countering insincere flirting."
+        }
+      ]
+    }
+  },
+  "f5375": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame portrays cheating as a form of novelty-seeking and personal exploration, aligning with the value of openness to change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (thought)",
+          "rationale": "The notion of testing relationships through cheating implies exercising independent thinking and personal judgment, matching self-direction (thought)."
+        },
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "Committing an action like cheating to evaluate a relationship demonstrates autonomy in behavior, consistent with self-direction (action)."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be curious",
+          "rationale": "This aligns with the predefined category emphasizing exploration and inquiry under self-direction."
+        },
+        {
+          "level_3_value": "Have freedom of thought",
+          "rationale": "Captures the autonomy to reflect and form one’s own judgments about relationship satisfaction, matching the provided category."
+        },
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "Reflects the autonomy to act independently by testing relationship boundaries, consistent with the provided category under self-direction (action)."
+        }
+      ]
+    }
+  },
+  "f5799": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining proper social norms in interpersonal interactions, condemning women for violating expectations of honesty and sincere behavior."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame criticizes women for breaking implicit rules of dating by pretending interest, implying a value on adhering to conventions and proper behavior."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "By shaming women for deception, the frame calls for adherence to social conventions of sincere and honest conduct, emphasizing that one should not violate informal rules of interaction."
+        }
+      ]
+    }
+  },
+  "f5856": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes a hierarchical relationship in which women are devalued and subordinated, reflecting a desire for dominance over them."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By labeling women as inferior and unreliable, the frame serves to legitimize control and authority over them."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Comparing women to objects and declaring them inferior implies that others (implicitly men) have the legitimate right to command and direct them."
+        }
+      ]
+    }
+  },
+  "f5857": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men’s control and superiority over women, reflecting a desire for power over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "It promotes preserving traditional gender hierarchies by portraying women as inferior and replaceable."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts dominance by suggesting women can be controlled and replaced like objects."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It reinforces traditional patriarchal norms that view women as less valuable and subordinate to men."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame implies that men have the authority to treat women as objects and replace them at will."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By devaluing women, the frame upholds longstanding cultural traditions that subordinate women in society."
+        }
+      ]
+    }
+  },
+  "f6935": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes the importance of preserving personal material resources and control over wealth by warning men against financial exploitation in marriage."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame underscores the need for personal security and stability by advising men to avoid financial risk and harm in marriage."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The message centers on safeguarding material possessions and wealth from potential exploitation by women."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The frame stresses maintaining a secure immediate environment free from financial harm or indebtedness."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The warning advises men to protect and retain their financial assets rather than risk losing them through marriage."
+        },
+        {
+          "level_3_value": "Have no debts",
+          "rationale": "The frame warns against entering a situation that could leave men financially liable or exploited, thus advocating for freedom from indebtedness."
+        }
+      ]
+    }
+  }
+}

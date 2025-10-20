@@ -1,0 +1,214 @@
+{
+  "f4505": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame promotes sexual freedom and the removal of traditional moral constraints, emphasizing acceptance of unconventional sexual behavior."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame focuses on sensuous gratification and the acceptability of sexual pleasure with multiple partners."
+        },
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame underscores autonomy in choosing sexual partners and behaviors without external interference or restrictions."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The frame explicitly endorses sexual enjoyment as acceptable, prioritizing personal pleasure."
+        },
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "The frame implies that individuals should be free to engage in sexual activity with whomever they choose, without moral or social constraints."
+        }
+      ]
+    }
+  },
+  "f7387": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame centers on men’s dominance and pleasure from objectifying women, emphasizing personal power and gratification over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional gender roles and maintains the patriarchal status quo, resisting social change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame promotes the idea that women exist primarily to provide sensory and visual pleasure to men."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame asserts men's control and dominance over women by reducing them to objects."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame reinforces traditional patriarchal norms that women’s role is to serve men’s desires."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "It explicitly depicts visual pleasure as the purpose of women’s existence."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "It positions men to exert control and dominance by objectifying women."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It draws on traditional gender norms to justify the objectification of women."
+        }
+      ]
+    }
+  },
+  "f88": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame celebrates taboo-breaking humor, suggesting that joking about incest is novel and non-conformist, aligning with a desire for excitement and unconventional perspectives."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "By treating incest—a strong social taboo—as a source of humor, the frame appeals to excitement, risk-taking, and novelty-seeking."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame prioritizes amusement and the pleasure derived from joking about a shocking topic, indicating a focus on sensuous gratification through humor."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be daring",
+          "rationale": "Using incest jokes demonstrates a willingness to take social risks and push boundaries in pursuit of an attention-grabbing or thrilling effect."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The frame’s emphasis on humor implies that the primary goal is to derive enjoyment and laughter, treating a serious issue as a source of fun."
+        }
+      ]
+    }
+  },
+  "f6410": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame trivializes violence and abuse as a way to assert dominance and reinforce power hierarchies over women, reflecting a focus on maintaining control and superiority."
+        },
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "By suggesting that violence and abuse can be joked about, the frame appeals to seeking excitement and boundary-pushing humor, valuing novelty and shock as entertainment."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame normalizes and downplays violence against women, implicitly endorsing male dominance and control over women’s bodies and agency."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "It treats jokes about violence as a source of enjoyment and amusement, prioritizing personal pleasure over the harm inflicted on victims."
+        },
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "By framing abuse as a joke, the message relies on taboo-breaking and shock value to entertain, appealing to a desire for daring and risk-taking humor."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The trivialization of abuse implies that men have tacit permission to exert control over women, reinforcing a hierarchy in which violence is an acceptable means of command."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The frame positions humor about violence as a form of enjoyment, indicating that amusement is valued over the well-being and safety of women."
+        },
+        {
+          "level_3_value": "Be daring",
+          "rationale": "By making light of a serious issue, the frame encourages a form of comedy that relies on pushing moral boundaries, highlighting risk-taking behavior for entertainment."
+        }
+      ]
+    }
+  },
+  "f4857": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes men gaining and exercising power and control over women, reflecting a value placed on personal dominance and status."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional patriarchal gender hierarchies and resisting changes to existing social norms regarding male authority."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame directly promotes the idea that men should dominate and control women, aligning with a value on being in positions of control over others."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes longstanding cultural norms of male dominance and female submission, advocating the maintenance of these traditional gender roles."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "By urging men to control women, the frame underscores a desire for influence and sway over others' behaviors."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame explicitly asserts that men are entitled to command and direct women, reinforcing hierarchical authority."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame relies on and reinforces patriarchal traditions about male authority, urging adherence to established gender customs."
+        }
+      ]
+    }
+  },
+  "f6042": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for upholding existing moral and social norms about women’s sexual behavior and punishing deviations, which aligns with maintaining traditional values and stability."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It emphasizes adherence to traditional sexual morals by labeling women who deviate as “whores,” invoking the need to honor conventional gender roles and customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By demanding that women comply with informal social rules regarding sexual behavior and shaming those who do not, it stresses the importance of proper conduct and rule-following."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The disparaging label enforces adherence to customary standards of chastity and traditional femininity, signaling that women should honor established practices."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame punishes women for violating informal sexual norms, reinforcing the expectation that individuals should conform to accepted social conventions of decency."
+        }
+      ]
+    }
+  }
+}

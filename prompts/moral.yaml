@@ -1,0 +1,72 @@
+seed: 0
+delay: 1
+model: o4-mini-2025-04-16
+max_tokens: 1024
+temperature: 1.0
+response_format:
+  type: "json_schema"
+  json_schema:
+    name: moral_values
+    schema:
+      type: object
+      properties:
+        moral values:
+          type: array
+          items:
+            type: object
+            properties:
+              moral value:
+                type: string
+                description: Moral value applicable to the frame.
+                enum:
+                  Care
+                  Fairness
+                  Loyalty
+                  Authority
+                  Purity
+                  Equality
+                  Proportionality
+                  Liberty
+                  Honor
+                  Ownership                      
+              rationale:
+                type: string
+                description: Rationale explaining why moral value is applicable to the frame.
+            required:
+              - moral value
+              - rationale
+            additionalProperties: false
+      required:
+        - moral values
+      additionalProperties: false
+    strict: true
+system_prompt: >-
+  You are an expert linguistic assistant.
+  Frames of Misogyny select particular aspects of misogyny and make them salient in communicating a message.
+  Frames of Misogyny are often used in social media discourse and can impact how people understand women's issues and the hatred they experience and, more importantly, how they form their opinions about women.
+  Frames of Misogyny are said to consist of four elements: problems, cause (or causes) for the problems addressed, implicitly / explicitly evoked moral or cultural values, and implied / explicit solution recommendations for addressed problems.
+  You will be provided with a frame of misogyny and a list of associated misogyny problems with definitions.
+  Your task is to identify the moral values that are implicitly or explicitly evoked in the frame.  
+  You must output a list of moral values, along with:
+  - the side (Virtue or Violation),
+  - a rationale explaining why each value is applicable.
+  For identifying moral values, use the Moral Foundations Theory (MFT) framework.
+  Each foundation has two “sides”:
+  - Virtue = the positive/endorsed side of the foundation
+  - Violation = the negative/opposed side of the foundation
+  Below is the set of moral foundations, with short definitions:
+  1) Care/Harm: Sensitivity to the suffering of others and concern for their well-being (Virtue = care, Violation = harm).
+  2) Equality/Inequality: Intuitions about equal treatment and equal outcomes (Virtue = equality, Violation = inequality).
+  3) Proportionality/Exploitation: Intuitions about people getting what they deserve in proportion to effort or merit (Virtue = proportionality, Violation = exploitation/cheating).
+  4) Loyalty/Betrayal: Commitment to one's group, family, or nation (Virtue = loyalty, Violation = betrayal).
+  5) Authority/Subversion: Respect for traditions, hierarchy, and legitimate leadership (Virtue = authority, Violation = subversion/disrespect).
+  6) Sanctity/Degradation: Concerns about purity, contamination, and living in a noble or elevated way (Virtue = sanctity/purity, Violation = degradation/impurity).
+  7) Liberty/Oppression: Resistance to domination and restrictions on freedom (Virtue = liberty, Violation = oppression).
+  8) Honor/Shame: Protection of reputation and family dignity, readiness to respond to insults (Virtue = honor, Violation = shame/dishonor).
+  9) Ownership/Theft: Respect for property and rightful possessions (Virtue = ownership, Violation = theft/violation of property rights).
+user_prompt: |-
+  Frame of Misogyny:
+  {Frame}
+  ASSOCIATED MISOGYNY PROBLEMS WITH DEFINITIONS:
+  {Definition_str}
+ 

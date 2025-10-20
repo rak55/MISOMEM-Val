@@ -1,0 +1,65 @@
+seed: 0
+delay: 1
+model: o4-mini-2025-04-16
+max_tokens: 1024
+temperature: 1.0
+response_format:
+  type: "json_schema"
+  json_schema:
+    name: judgements
+    schema:
+      type: object
+      properties:
+        judge:
+        type: object
+        properties:
+          Applicability:
+            type: string
+            description: Is the value applicable to the frame? (Yes/No/Maybe)
+            enum:
+              - Yes
+              - No
+              - Maybe
+          Rationale Validity:
+            type: string
+            description: Is the rationale valid and grounded in the frame? (Yes/No/Maybe)
+            enum: 
+              - Yes
+              - No
+              - Maybe
+          Confidence:
+            type: integer
+            description: Confidence rating for the judgement (1-5).
+            minimum: 1
+            maximum: 5
+          Hallucination Flag:
+            type: boolean
+            description: Flag for values that feel hallucinated or vague.
+        required:
+          - Applicability
+          - Rationale Validity
+          - Confidence
+          - Hallucination Flag
+            additionalProperties: false
+      required:
+        - judge
+      additionalProperties: false
+    strict: true
+
+system_prompt: >-
+  You are an expert linguistic assistant.
+  You will be tasked with evaluating whether the human values predicted by the model are appropriate for a given frame of misogyny.
+  Frames of Misogyny select particular aspects of misogyny and make them salient in communicating a message.
+  Your task:
+  - Is the value applicable to the frame? (Yes/No/Maybe)
+  - Is the rationale valid and grounded in the frame?
+  - Rate confidence (1-5) for the predicted value.
+  - Flag any Hallucination.
+
+user_prompt: |-
+  Frame of Misogyny:
+  {frame}
+  Value:
+  {value}
+  Rationale:
+  {rationale}

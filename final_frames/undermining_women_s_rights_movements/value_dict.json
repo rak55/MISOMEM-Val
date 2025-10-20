@@ -1,0 +1,392 @@
+{
+  "f254": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The statement appeals to preserving traditional gender roles and maintaining the existing social order by restricting women’s participation."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "It reflects a desire to assert hierarchical power and control over women, emphasizing dominance in social structures."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes the need to uphold long-standing cultural norms that women should remain excluded from public and political spheres."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It calls for adherence to established rules and norms, insisting women comply with prescribed social roles."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The argument implies that societal stability depends on restricting women’s involvement in movements, framing change as a threat."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The statement enforces a power hierarchy by denying women the right to participate, underscoring a need for control over their agency."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Explicitly promotes following customary practices that exclude women from social and political engagement."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Encourages women to obey existing social rules and not challenge the status quo."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Posits that excluding women from movements is necessary to prevent disorder and maintain societal stability."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Asserts the importance of retaining hierarchical authority, implying that only certain groups (i.e., men) should lead."
+        }
+      ]
+    }
+  },
+  "f2623": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame dismisses feminist efforts to preserve the existing social order and discourage challenges, reflecting a desire for stability and resistance to change."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By trivializing feminist activism, the frame seeks to uphold existing power hierarchies and maintain control, reflecting a value on dominance and influence over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame implies that gender roles and social structures should remain as they have been, resisting progressive reforms brought by feminism."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It suggests that feminist movements threaten societal stability and therefore should be dismissed to keep society orderly and secure."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It discourages challenging accepted norms by asserting that feminist demands are trivial, urging compliance with existing social conventions."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame minimizes feminist efforts to sustain and reinforce hierarchical control and influence over women, preserving established authority."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame promotes adherence to traditional gender norms and discourages deviation from established cultural practices."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "It appeals to the importance of societal stability by arguing that feminist actions are unnecessary and disruptive."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It implies that feminist activism is improper behavior—people should conform to accepted conventions rather than question them."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "By dismissing feminist claims as unimportant, the frame works to maintain existing power and influence dynamics in favor of the dominant group."
+        }
+      ]
+    }
+  },
+  "f1228": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame opposes feminism and abortion to preserve traditional gender norms and maintain social stability, reflecting resistance to change and desire to uphold established structures."
+        },
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "By denouncing feminism and abortion, the frame seeks to uphold a hierarchy that preserves male dominance and control, reflecting a drive for power and authority over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame appeals to preserving cultural and family traditions around gender roles by branding feminism and abortion as inherently bad practices that disrupt customary ways."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It suggests that feminism and abortion threaten societal order and stability, emphasizing the need to reject these changes to maintain a stable society."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame urges adherence to established moral and legal codes against abortion and feminist movements, promoting compliance with traditional norms and laws."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Implicitly endorses male authority and control by rejecting feminism’s challenge to patriarchal power structures and opposing women’s reproductive autonomy."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message leverages the appeal to honor established gender roles and customary practices as a reason to reject feminism and abortion."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "By framing feminism and abortion as threats, it promotes the idea that rejecting them preserves social order and prevents disruption."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Encourages obedience to traditional moral and legal standards by condemning feminism and abortion as violations of accepted rules."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Implies that men should maintain control over women’s choices and bodies, reinforcing a hierarchical authority structure."
+        }
+      ]
+    }
+  },
+  "f5742": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame centers on fears about loss of personal financial gain and material resources, highlighting individual wealth concerns."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving the current social-economic order and traditional norms, resisting change that threatens stability."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "By focusing on halved salaries, the frame emphasizes material resources and wealth control."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The claim that incomes are halved evokes threats to individuals’ financial security and comfortable living."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that widespread economic disruption (salary halving) undermines societal stability."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes traditional gender roles by implying the workforce should remain male-dominated and resists feminist change."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The frame highlights salary reduction, directly appealing to concerns about maintaining and increasing personal wealth."
+        },
+        {
+          "level_3_value": "Have a comfortable life",
+          "rationale": "The idea of halved salaries threatens individuals’ standard of living and comfort."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame implies that economic upheaval from feminism will destabilize the broader social order."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame defends traditional gender hierarchies in the workforce, opposing feminist-driven changes."
+        }
+      ]
+    }
+  },
+  "f4354": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes hostility and the desire for dominance over women, indicating an emphasis on gaining power and control at their expense."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By denouncing feminism and preserving negative gender stereotypes, the frame seeks to maintain traditional social structures and resist progressive change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The message asserts male superiority and endorses the suppression of women’s rights and empowerment, reflecting a desire for dominance over others."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame rejects feminism and upholds old-fashioned gender norms, reinforcing established patriarchal customs and roles."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Labeling women as deceitful ‘whores’ and demeaning feminism implies that men should retain authority and control over women’s behavior."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The hostility toward feminism underscores a call to adhere to and honor traditional gender roles and societal conventions."
+        }
+      ]
+    }
+  },
+  "f3154": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame discourages social change (feminism) and promotes adherence to traditional gender roles and norms, valuing stability over change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It praises traditional feminine roles and norms by implying that women should not adopt feminist ideas, but remain in established gender expectations."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame emphasizes women maintaining behavior (attractiveness) pleasing to others (men), avoiding upsetting social expectations."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "By focusing on women’s attractiveness as a public image, it underscores the importance of maintaining a good reputation and social acceptance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message implies women should honor and follow long-standing gender customs rather than embracing feminist change."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "It suggests women must conform to societal expectations of pleasing appearance and behavior, avoiding actions that might 'upset' or challenge others."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Emphasizing attractiveness underscores the value placed on women’s public image and social standing."
+        }
+      ]
+    }
+  },
+  "f1433": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving established religious traditions and social norms to justify gender inequality, emphasizing maintenance of the status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame draws on religious customs and texts as authoritative sources, promoting respect for long-standing practices to uphold gender roles."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By invoking religious laws, the frame encourages compliance with formal religious prescriptions that enforce gender hierarchies."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame suggests that adherence to religious directives preserves a stable and orderly society, implying that gender inequality is necessary for social cohesion."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The use of religious texts emphasizes honoring and maintaining inherited customs as a legitimate basis for social roles."
+        },
+        {
+          "level_3_value": "Be holding religious faith",
+          "rationale": "The frame legitimizes gender inequality through deference to sacred writings, reinforcing commitment to religious beliefs."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Invoking religious rules frames obedience to those rules as essential, promoting adherence to prescribed gender norms."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The frame implies that following religiously sanctioned gender roles is crucial for maintaining societal order and preventing disruption."
+        }
+      ]
+    }
+  },
+  "f3651": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame challenges prevailing negative opinions about feminism and encourages audiences to reconsider their beliefs, reflecting a desire for new perspectives and intellectual flexibility."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "By defending feminism and women's rights, the frame advocates concern for the welfare and equality of a broader group beyond one's own immediate interests."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (thought)",
+          "rationale": "The frame urges individuals to think independently rather than follow misguided public opinion, highlighting the value of forming one’s own judgments."
+        },
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "The frame supports feminist principles of equality and justice for women, promoting the welfare and equal treatment of a historically marginalized group."
+        },
+        {
+          "level_2_value": "Universalism (tolerance)",
+          "rationale": "The frame encourages acceptance of feminist ideas and openness toward viewpoints different from mainstream negative attitudes."
+        },
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "By labeling negative views of feminism as 'misguided,' the frame calls for an unbiased, rational reassessment of feminism free from prejudice or misinformation."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of thought",
+          "rationale": "The frame criticizes unexamined public opinion, implying that individuals should have the liberty to form their own informed beliefs about feminism."
+        },
+        {
+          "level_3_value": "Equality",
+          "rationale": "The frame defends feminism, which centrally advocates for equal rights and opportunities for women."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "By condemning negative views of feminism as inherently flawed, the frame appeals to a sense of fairness and the protection of a vulnerable group."
+        },
+        {
+          "level_3_value": "Be broadminded",
+          "rationale": "The frame promotes open-mindedness toward feminist perspectives and tolerance for ideas that differ from prevailing social attitudes."
+        },
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "The frame encourages evaluating feminism on its merits through unbiased reasoning rather than relying on prejudiced or emotional reactions."
+        }
+      ]
+    }
+  },
+  "f6100": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame calls for upholding traditional social norms regarding women's behavior and resisting challenges to those norms, emphasizing maintenance of the existing moral order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By shaming participants of the SlutWalk for violating perceived social conventions, the frame enforces adherence to established informal rules about proper behavior."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The frame labels SlutWalk participants as deserving devaluation and shame for not conforming to what it deems ‘proper’ behavior, implying punishment for breaches of social etiquette."
+        }
+      ]
+    }
+  }
+}

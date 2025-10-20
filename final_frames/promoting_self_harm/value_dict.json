@@ -1,0 +1,206 @@
+{
+  "f2153": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame advocates violence to assert dominance and control over feminists, reflecting pursuit of power over others."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame rejects feminist calls for change and defends traditional gender norms and social stability, indicative of conservation values."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame recommends harming feminists to control and dominate them, reflecting desire for hierarchical authority."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It seeks to punish those who challenge conventional gender roles, aiming to preserve cultural traditions."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "It advocates punishing feminists for violating perceived social rules, enforcing compliance through violence."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "It frames feminism as a threat to societal stability and calls for violence to maintain social order."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Advocates for those in power to use violence to reinforce their authority over feminists."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Emphasizes maintaining traditional gender norms by punishing deviators."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "Encourages enforcing conformity by punishing individuals who do not follow societal expectations."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "Justifies harm as necessary to preserve social order and protect society from feminist influence."
+        }
+      ]
+    }
+  },
+  "f2704": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame encourages women to alter their subjective experience of housework through drug use, emphasizing a break from enduring the status quo in favor of pleasurable sensations."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "By presupposing that women’s proper role is to perform housework, the frame reinforces the traditional social order and gender norms, valuing stability and established practices."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The prescription to use drugs is aimed at maximizing pleasure and sensory gratification while doing housework, highlighting hedonistic aims."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame rests on and reinforces the traditional belief that women’s place is in domestic labor, urging them to conform to long-standing gender roles."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "Using drugs is presented as a means to make housework enjoyable, explicitly appealing to the value of experiencing pleasure."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The suggestion carries an implicit demand to honor and maintain traditional gender-based division of labor, valuing established cultural customs."
+        }
+      ]
+    }
+  },
+  "f3676": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame demands women accept the existing hierarchical financial status, resisting change and preserving the current social order."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By stating 'Women should accept financial inequality', the frame enforces compliance with existing norms and rules regarding gender roles in finance."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds traditional gender roles by telling women to accept their subordinate financial position."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame appeals to preserving social stability by discouraging challenges to the financial status quo."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The imperative 'should accept financial inequality' directly encourages obedience to established norms."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The framing relies on traditional gender expectations that women should not contest financial disparities."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "The threat of 'die earlier' if women resist implies that challenging inequality would destabilize society, thus valuing its maintenance."
+        }
+      ]
+    }
+  },
+  "f5238": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes avoiding shame and preserving one's public image when associated with certain women."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Face",
+          "rationale": "The frame focuses on protecting the individual's reputation and avoiding the disgrace of being linked to certain women, even to the point of recommending self-harm."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "Encouraging suicide over association with certain women reflects a primary concern with maintaining an untarnished public image and good reputation."
+        }
+      ]
+    }
+  },
+  "f5577": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame promotes the freedom to joke about self-harm and suicide, emphasizing a desire for autonomy over content and a willingness to transgress social taboos."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame asserts the right to make jokes about self-harm, highlighting freedom to act and choose content without external restraint."
+        },
+        {
+          "level_2_value": "Stimulation",
+          "rationale": "Joking about self-harm is a risky, boundary-pushing form of humor, appealing to a taste for excitement and novelty."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame justifies humor and entertainment value, suggesting pleasure and amusement in joking about taboo topics."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "It presents joking about self-harm as an expression of uninhibited personal choice and self-determination."
+        },
+        {
+          "level_3_value": "Be daring",
+          "rationale": "It values the risk and edge of humor that tackles taboo subjects like self-harm."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "It frames such jokes as sources of enjoyment and comedic gratification, even when addressing serious issues."
+        }
+      ]
+    }
+  },
+  "f6054": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame endorses using violence as a means to assert power and control over victims, reflecting a desire to elevate oneself at the expense of others, which aligns with self-enhancement values."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame explicitly promotes dominance over others by advocating rape as a tool to force victims into actions, emphasizing control and subjugation, which corresponds to the power (dominance) value."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "By presenting rape as an appropriate method to compel victims to kill themselves, the frame underscores the perpetrator’s perceived right to command and control victims’ actions through force."
+        }
+      ]
+    }
+  }
+}

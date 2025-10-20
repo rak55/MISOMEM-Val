@@ -1,0 +1,284 @@
+{
+  "f163": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame treats women as objects to be acquired and controlled, emphasizing personal gain and dominance over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "Comparing women to commodities implies they are resources to be bought and owned, highlighting material possession as a value."
+        },
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Framing women as purchasable items suggests a desire for control and authority over them, underscoring dominance."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "Equating women with purchasable goods emphasizes acquiring and displaying material wealth by 'buying' them."
+        },
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "Treating women as commodities implies ownership rights, including the authority to command and control them."
+        }
+      ]
+    }
+  },
+  "f6568": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame treats women as economic assets/liabilities and emphasizes maximizing personal resources and financial gain."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The message promotes preserving personal financial stability and avoiding potential disruptions to one’s secure environment by 'investing' in women."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "By labeling women as costly, the frame appeals to control and accumulation of material wealth and resources."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "The argument aims to protect one’s immediate financial well-being and avoid potential liabilities that could threaten comfort and stability."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "Framing women as an unnecessary expense highlights the desire to retain and grow personal wealth."
+        },
+        {
+          "level_3_value": "Have a comfortable life",
+          "rationale": "The notion of avoiding financial burdens serves the goal of maintaining a worry-free, comfortable existence."
+        },
+        {
+          "level_3_value": "Have no debts",
+          "rationale": "Emphasizing the costliness of women implicitly promotes avoiding indebtedness by not 'investing' in them."
+        }
+      ]
+    }
+  },
+  "f3359": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame valorizes the power and dominance of men, emphasizing their entitlement to use their position for personal gain in sexual matters."
+        },
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame appeals to the autonomy and freedom of action of men in power, suggesting they should be free to act on their desires."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame relies on and reinforces traditional gender norms and patriarchal structures that grant men sexual privilege."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "By arguing that men in power are justified in seeking sex workers, the frame underlines the importance of maintaining authority and control over others."
+        },
+        {
+          "level_2_value": "Self-direction (action)",
+          "rationale": "The frame emphasizes the need for men to have the freedom to choose and act without restrictions, particularly in fulfilling their sexual desires."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It draws upon established social customs and gender roles that historically grant men sexual entitlement over women."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame promotes the pursuit of sensual pleasure and gratification as a legitimate goal for men in power."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame explicitly asserts that men in positions of authority possess the right to engage sex workers at their discretion."
+        },
+        {
+          "level_3_value": "Have freedom of action",
+          "rationale": "It suggests that powerful men should be able to act on their sexual desires without interference or moral constraint."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame legitimizes male sexual privilege by invoking long-standing gender norms and customs."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "It encourages men to seek out sexual experiences for their own enjoyment and satisfaction."
+        }
+      ]
+    }
+  },
+  "f406": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame encourages women to obtain material gains (‘free stuff’) through personal advantage, reflecting a value placed on accumulating resources for oneself."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame prescribes a fixed social role for women, appealing to maintaining traditional gender structures and societal norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The use of bodies to secure ‘free stuff’ highlights acquiring wealth or material possessions as desirable."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The statement ‘women are meant’ enforces a longstanding belief about women’s roles, reflecting an appeal to cultural or familial traditions."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "Framing ‘free stuff’ as a goal elevates the pursuit of material possessions without cost."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "Asserting that women have a predetermined role upholds and venerates traditional gender expectations."
+        }
+      ]
+    }
+  },
+  "f3205": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes violence and exploitation for personal gain, reflecting a value of maximizing one’s own success and power over others."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "It endorses the right to exert control and command over women, legitimizing violence to maintain dominance."
+        },
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "It encourages killing women as a means to obtain monetary rewards, highlighting the pursuit of wealth."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "The frame suggests that commanding or controlling women through lethal violence is acceptable, emphasizing hierarchical power."
+        },
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "It normalizes gaining money by killing women, prioritizing material gain above human life."
+        }
+      ]
+    }
+  },
+  "f6834": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame emphasizes the pursuit of wealth as a primary good, encouraging young women to secure material resources through marriage."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame upholds traditional gender roles and marriage norms, appealing to preserving established social structures and expectations."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame directly values material wealth and social resources obtained through marriage."
+        },
+        {
+          "level_2_value": "Tradition",
+          "rationale": "It appeals to customary practices of marriage, suggesting young women should conform to long-standing cultural norms."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The wording 'are meant to' implies an obligation to adhere to societal expectations and prescribed roles."
+        },
+        {
+          "level_2_value": "Security (personal)",
+          "rationale": "It frames marriage to wealthy older men as a means to achieve financial security and a stable life."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "The frame promotes wealth accumulation as a key benefit and motivation for marriage."
+        },
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "It invokes the importance of following established marriage customs and gender roles."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The notion that young women 'are meant to' marry older men suggests they should comply with societal dictates."
+        },
+        {
+          "level_3_value": "Have a comfortable life",
+          "rationale": "It implies that marrying for wealth ensures a financially stable and worry-free existence."
+        }
+      ]
+    }
+  },
+  "f4634": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes personal gain and dominance by treating women’s sexual consent as a purchasable commodity, reflecting a focus on advancing one’s own power and status."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame reinforces traditional gender hierarchies and social norms by insisting women comply with male authority, preserving the existing status quo."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Men assert the right to control women’s sexual decisions, emphasizing dominance and authority over female autonomy."
+        },
+        {
+          "level_2_value": "Power (resources)",
+          "rationale": "The frame uses financial incentives as a means to secure women’s consent, highlighting the instrumental use of wealth to exert influence."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "Women are expected to adhere to male expectations and social etiquette, maintaining harmony by acquiescing to the demand for negotiable consent."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have the right to command",
+          "rationale": "This value encapsulates the notion that men believe they possess an inherent right to dictate women’s sexual choices."
+        },
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The frame suggests that men can shape women’s decisions through monetary or persuasive means, reflecting strategic leverage."
+        },
+        {
+          "level_3_value": "Have wealth",
+          "rationale": "Money is portrayed as a transactional tool for obtaining women’s consent, underscoring the commodification of sex."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "Replacing ‘Be compliant’ with ‘Be polite’ captures the interpersonal expectation that women must courteously submit to propositions, aligning with conformity norms."
+        }
+      ]
+    }
+  }
+}

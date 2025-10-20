@@ -1,0 +1,334 @@
+{
+  "f6597": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving established social norms about marital fidelity by assigning blame to men for any deviation, thus discouraging departures from traditional gender roles and maintaining stability in societal expectations."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The statement invokes longstanding customs around marriage and fidelity, implying that women should adhere to traditional marital roles and that any breach of these customs is due to men’s failure to uphold their responsibilities."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By framing infidelity as a violation of informal social conventions of monogamy, the frame stresses adherence to the rule of marital faithfulness and places responsibility on men to prevent such breaches."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame reinforces the importance of following traditional marital practices, suggesting that women’s fidelity is part of upholding cultural customs and that men must ensure these traditions are respected."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "It underscores the need to comply with the unwritten social rule of monogamy, framing any violation as improper behavior for which men are to be blamed."
+        }
+      ]
+    }
+  },
+  "f480": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes adherence to existing social norms and traditions regarding women’s modesty and behavior, blaming women for deviating from these norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message appeals to the idea that women should respect traditional norms of modesty and decorum to avoid objectification."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "Blaming women for objectification implies they must conform to social rules and restrain their appearance and behavior to fit societal expectations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The frame suggests women must uphold traditional modesty customs, and failure to do so leads to their objectification."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "The message implies women should adhere to informal social conventions of modesty and dress to avoid objectification."
+        },
+        {
+          "level_3_value": "Be self-disciplined",
+          "rationale": "Women are expected to regulate their behavior and appearance, demonstrating self-restraint to prevent others from objectifying them."
+        }
+      ]
+    }
+  },
+  "f6891": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame appeals to broader moral principles that transcend individual interests, promoting impartial fairness in assessing instances of misogyny."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "It calls for an unbiased, objective perspective that treats all misogynistic acts with the same standard, reflecting the universalism (objectivity) value."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be logical",
+          "rationale": "Emphasizes consistency of reasoning, implying that if one misogynistic act is deemed acceptable, logically another should be too, prioritizing logical coherence over moral context."
+        },
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "Highlights impartiality and lack of bias, suggesting judgments of misogynistic acts be made from a detached, unbiased standpoint that treats all instances equivalently."
+        }
+      ]
+    }
+  },
+  "f6198": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame appeals to preserving traditional social structures and gender roles, emphasizing stability and resistance to change in gender dynamics."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame invokes longstanding gender norms that assign women subordinate roles, highlighting the importance of maintaining these traditional roles."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame pressures women to conform to social expectations of subservience and deference to men in interpersonal interactions."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The message implies that women should adhere to established traditional roles and not challenge the status quo."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The frame suggests women must remain submissive and polite, reinforcing their expected deference to men."
+        }
+      ]
+    }
+  },
+  "f5203": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes maintaining traditional social norms and moral rules—specifically those governing marriage fidelity—and condemns women for failing to uphold them."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame invokes the moral rule against adultery and criticizes women for breaking it, highlighting the importance of complying with established social and moral obligations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "By blaming women for dating married men while judging other men, the frame stresses that they are violating social conventions and not behaving according to accepted moral standards."
+        }
+      ]
+    }
+  },
+  "f3201": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame emphasizes preserving traditional gender roles and adherence to established duties, reflecting a desire to maintain social stability and established norms."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The message invokes traditional expectations of women's roles and 'duties,' appealing to the preservation of cultural customs and gender norms."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "The frame demands compliance with defined duties and threatens replacement if these obligations are not met, emphasizing obedience to rules."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "By framing women’s roles as inviolable duties rooted in tradition, the message stresses the importance of honoring and upholding long-standing gender customs."
+        },
+        {
+          "level_3_value": "Be compliant",
+          "rationale": "The threat of being 'substituted with services' for failing to fulfill duties underscores the value placed on strict adherence to prescribed obligations."
+        }
+      ]
+    }
+  },
+  "f3764": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame promotes using cheating as a means to assert personal dominance and superiority over women, focusing on personal gain at the expense of others."
+        },
+        {
+          "level_1_value": "Openness to Change",
+          "rationale": "The frame endorses nontraditional, rule-breaking behavior (cheating) to satisfy desires and challenge existing norms around fidelity and trust."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "Cheating is presented as a tool to test and demonstrate control over women, implying a hierarchical relationship and dominance."
+        },
+        {
+          "level_2_value": "Hedonism",
+          "rationale": "The frame valorizes the pursuit of sexual pleasure and gratification without regard for moral or relational obligations."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "Cheating is framed as a strategy to gauge and exercise one’s power to influence and manipulate a partner’s worthiness."
+        },
+        {
+          "level_3_value": "Have pleasure",
+          "rationale": "The endorsement of cheating is driven by the desire for sensual gratification and enjoyment, placing personal pleasure above ethical considerations."
+        }
+      ]
+    }
+  },
+  "f4228": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame defends traditional social norms by shaming single mothers and preserving existing gender and family roles, thereby resisting change."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Tradition",
+          "rationale": "The frame upholds the ideal of a traditional two‐parent family by blaming single mothers for deviant outcomes, promoting adherence to longstanding family customs."
+        },
+        {
+          "level_2_value": "Conformity (rules)",
+          "rationale": "By insisting single mothers are to blame, the frame enforces informal social rules about ‘proper’ maternal behavior and punishes deviations from these norms."
+        },
+        {
+          "level_2_value": "Face",
+          "rationale": "The discourse centers on protecting the community’s moral image and public reputation by labeling single mothers as dishonorable and deflecting shame away from rapists."
+        },
+        {
+          "level_2_value": "Security (societal)",
+          "rationale": "The frame implies that societal stability relies on traditional family structures; by scapegoating single mothers, it seeks to maintain the existing social order."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Be respecting traditions",
+          "rationale": "The argument penalizes single motherhood as a violation of family tradition and calls for a return to conventional marriage‐based parenting."
+        },
+        {
+          "level_3_value": "Be behaving properly",
+          "rationale": "Blaming single mothers enforces the idea that women must follow expected social conventions or face moral condemnation."
+        },
+        {
+          "level_3_value": "Have a good reputation",
+          "rationale": "The frame stresses the importance of public honor and uses shame to control women’s behavior and uphold community standards."
+        },
+        {
+          "level_3_value": "Have a stable society",
+          "rationale": "By demonizing non‐traditional family arrangements, the discourse claims to protect social cohesion and prevent disorder."
+        }
+      ]
+    }
+  },
+  "f6490": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Enhancement",
+          "rationale": "The frame highlights the influence and control women have over men’s well-being, emphasizing power dynamics."
+        },
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame appeals to women’s moral duty to care for and support men’s welfare, stressing compassion."
+        },
+        {
+          "level_1_value": "Conservation",
+          "rationale": "The frame implies adherence to social norms requiring women to behave in ways that do not disturb men’s well-being."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Power (dominance)",
+          "rationale": "The frame ascribes significant influence to women over men’s well-being, underscoring control over others."
+        },
+        {
+          "level_2_value": "Benevolence (caring)",
+          "rationale": "The frame demands that women show care and affection to ensure men’s well-being."
+        },
+        {
+          "level_2_value": "Conformity (interpersonal)",
+          "rationale": "The frame suggests women should avoid upsetting men and treat them politely to preserve their well-being."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have influence",
+          "rationale": "The frame underscores women’s power to determine men’s well-being, highlighting the value of influence."
+        },
+        {
+          "level_3_value": "Be loving",
+          "rationale": "The frame implies women must show affection and compassion toward men to maintain their well-being."
+        },
+        {
+          "level_3_value": "Be polite",
+          "rationale": "The frame expects women to avoid harming men’s feelings and treat them courteously."
+        }
+      ]
+    }
+  },
+  "f7643": {
+    "values": {
+      "level_1_values": [
+        {
+          "level_1_value": "Self-Transcendence",
+          "rationale": "The frame emphasizes fairness and concern for all victims of sexism, advocating for equality across gender lines, which aligns with the Self-Transcendence focus on universal welfare and justice."
+        }
+      ],
+      "level_2_values": [
+        {
+          "level_2_value": "Universalism (concern)",
+          "rationale": "This value reflects the frame’s appeal to empathy and care for men experiencing sexism, extending concern beyond the traditionally recognized groups."
+        },
+        {
+          "level_2_value": "Universalism (objectivity)",
+          "rationale": "The frame calls out perceived feminist hypocrisy and demands an unbiased, objective assessment of sexism regardless of the victim’s gender."
+        }
+      ],
+      "level_3_values": [
+        {
+          "level_3_value": "Have equality",
+          "rationale": "The frame asserts that sexism against men should be acknowledged and addressed on equal terms with sexism against women, emphasizing equal treatment."
+        },
+        {
+          "level_3_value": "Be just",
+          "rationale": "By highlighting hypocrisy, the frame appeals to the principle of justice, insisting that all forms of sexism be treated fairly."
+        },
+        {
+          "level_3_value": "Have an objective view",
+          "rationale": "The frame demands an impartial and logical evaluation of sexism, reinforcing the call for objectivity and consistency in addressing gender-based discrimination."
+        }
+      ]
+    }
+  }
+}
